@@ -1,0 +1,10075 @@
+[
+    {
+        "heroes_id": [
+            "pudge",
+            "windranger"
+        ],
+        "winrate": "0.5192"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "viper"
+        ],
+        "winrate": "0.6364"
+    },
+    {
+        "heroes_id": [
+            "sand-king",
+            "windranger"
+        ],
+        "winrate": "0.5085"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "ogre-magi"
+        ],
+        "winrate": "0.5072"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "viper"
+        ],
+        "winrate": "0.656"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "sand-king"
+        ],
+        "winrate": "0.5317"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "ogre-magi"
+        ],
+        "winrate": "0.5132"
+    },
+    {
+        "heroes_id": [
+            "viper",
+            "ogre-magi"
+        ],
+        "winrate": "0.5647"
+    },
+    {
+        "heroes_id": [
+            "sand-king",
+            "ogre-magi"
+        ],
+        "winrate": "0.5166"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "timbersaw"
+        ],
+        "winrate": "0.5319"
+    },
+    {
+        "heroes_id": [
+            "juggernaut",
+            "timbersaw"
+        ],
+        "winrate": "0.3766"
+    },
+    {
+        "heroes_id": [
+            "shadow-shaman",
+            "timbersaw"
+        ],
+        "winrate": "0.4912"
+    },
+    {
+        "heroes_id": [
+            "timbersaw",
+            "invoker"
+        ],
+        "winrate": "0.5421"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "juggernaut"
+        ],
+        "winrate": "0.4286"
+    },
+    {
+        "heroes_id": [
+            "shadow-shaman",
+            "rubick"
+        ],
+        "winrate": "0.4286"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "invoker"
+        ],
+        "winrate": "0.432"
+    },
+    {
+        "heroes_id": [
+            "shadow-shaman",
+            "juggernaut"
+        ],
+        "winrate": "0.441"
+    },
+    {
+        "heroes_id": [
+            "juggernaut",
+            "invoker"
+        ],
+        "winrate": "0.4918"
+    },
+    {
+        "heroes_id": [
+            "shadow-shaman",
+            "invoker"
+        ],
+        "winrate": "0.5095"
+    },
+    {
+        "heroes_id": [
+            "sand-king",
+            "lina"
+        ],
+        "winrate": "0.4593"
+    },
+    {
+        "heroes_id": [
+            "sand-king",
+            "spectre"
+        ],
+        "winrate": "0.4179"
+    },
+    {
+        "heroes_id": [
+            "lina",
+            "spectre"
+        ],
+        "winrate": "0.3882"
+    },
+    {
+        "heroes_id": [
+            "gyrocopter",
+            "tinker"
+        ],
+        "winrate": "0.4545"
+    },
+    {
+        "heroes_id": [
+            "tinker",
+            "jakiro"
+        ],
+        "winrate": "0.5195"
+    },
+    {
+        "heroes_id": [
+            "gyrocopter",
+            "jakiro"
+        ],
+        "winrate": "0.5391"
+    },
+    {
+        "heroes_id": [
+            "lion",
+            "clockwerk"
+        ],
+        "winrate": "0.4507"
+    },
+    {
+        "heroes_id": [
+            "queen-of-pain",
+            "lion"
+        ],
+        "winrate": "0.3868"
+    },
+    {
+        "heroes_id": [
+            "phantom-assassin",
+            "lion"
+        ],
+        "winrate": "0.4686"
+    },
+    {
+        "heroes_id": [
+            "queen-of-pain",
+            "phantom-assassin"
+        ],
+        "winrate": "0.4237"
+    },
+    {
+        "heroes_id": [
+            "slark",
+            "silencer"
+        ],
+        "winrate": "0.4741"
+    },
+    {
+        "heroes_id": [
+            "monkey-king",
+            "silencer"
+        ],
+        "winrate": "0.4805"
+    },
+    {
+        "heroes_id": [
+            "tiny",
+            "silencer"
+        ],
+        "winrate": "0.3947"
+    },
+    {
+        "heroes_id": [
+            "slark",
+            "monkey-king"
+        ],
+        "winrate": "0.4151"
+    },
+    {
+        "heroes_id": [
+            "undying",
+            "slark"
+        ],
+        "winrate": "0.5195"
+    },
+    {
+        "heroes_id": [
+            "slark",
+            "tiny"
+        ],
+        "winrate": "0.4076"
+    },
+    {
+        "heroes_id": [
+            "undying",
+            "monkey-king"
+        ],
+        "winrate": "0.6481"
+    },
+    {
+        "heroes_id": [
+            "monkey-king",
+            "tiny"
+        ],
+        "winrate": "0.4261"
+    },
+    {
+        "heroes_id": [
+            "undying",
+            "tiny"
+        ],
+        "winrate": "0.5536"
+    },
+    {
+        "heroes_id": [
+            "slark",
+            "mirana"
+        ],
+        "winrate": "0.5221"
+    },
+    {
+        "heroes_id": [
+            "slark",
+            "kunkka"
+        ],
+        "winrate": "0.5418"
+    },
+    {
+        "heroes_id": [
+            "slark",
+            "phoenix"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "slark",
+            "treant-protector"
+        ],
+        "winrate": "0.4419"
+    },
+    {
+        "heroes_id": [
+            "mirana",
+            "kunkka"
+        ],
+        "winrate": "0.5522"
+    },
+    {
+        "heroes_id": [
+            "mirana",
+            "phoenix"
+        ],
+        "winrate": "0.5783"
+    },
+    {
+        "heroes_id": [
+            "mirana",
+            "treant-protector"
+        ],
+        "winrate": "0.5606"
+    },
+    {
+        "heroes_id": [
+            "kunkka",
+            "phoenix"
+        ],
+        "winrate": "0.5169"
+    },
+    {
+        "heroes_id": [
+            "kunkka",
+            "treant-protector"
+        ],
+        "winrate": "0.451"
+    },
+    {
+        "heroes_id": [
+            "clinkz",
+            "ogre-magi"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "zeus",
+            "ogre-magi"
+        ],
+        "winrate": "0.497"
+    },
+    {
+        "heroes_id": [
+            "zeus",
+            "faceless-void"
+        ],
+        "winrate": "0.5459"
+    },
+    {
+        "heroes_id": [
+            "ogre-magi",
+            "faceless-void"
+        ],
+        "winrate": "0.5559"
+    },
+    {
+        "heroes_id": [
+            "outworld-devourer",
+            "ogre-magi"
+        ],
+        "winrate": "0.4533"
+    },
+    {
+        "heroes_id": [
+            "outworld-devourer",
+            "faceless-void"
+        ],
+        "winrate": "0.4818"
+    },
+    {
+        "heroes_id": [
+            "tinker",
+            "mirana"
+        ],
+        "winrate": "0.4724"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "mirana"
+        ],
+        "winrate": "0.5664"
+    },
+    {
+        "heroes_id": [
+            "gyrocopter",
+            "mirana"
+        ],
+        "winrate": "0.5357"
+    },
+    {
+        "heroes_id": [
+            "mirana",
+            "phantom-lancer"
+        ],
+        "winrate": "0.5949"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "tinker"
+        ],
+        "winrate": "0.4775"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "gyrocopter"
+        ],
+        "winrate": "0.5759"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "phantom-lancer"
+        ],
+        "winrate": "0.5701"
+    },
+    {
+        "heroes_id": [
+            "grimstroke",
+            "windranger"
+        ],
+        "winrate": "0.4245"
+    },
+    {
+        "heroes_id": [
+            "juggernaut",
+            "windranger"
+        ],
+        "winrate": "0.4366"
+    },
+    {
+        "heroes_id": [
+            "grimstroke",
+            "juggernaut"
+        ],
+        "winrate": "0.4121"
+    },
+    {
+        "heroes_id": [
+            "grimstroke",
+            "sand-king"
+        ],
+        "winrate": "0.4066"
+    },
+    {
+        "heroes_id": [
+            "juggernaut",
+            "huskar"
+        ],
+        "winrate": "0.4915"
+    },
+    {
+        "heroes_id": [
+            "juggernaut",
+            "sand-king"
+        ],
+        "winrate": "0.497"
+    },
+    {
+        "heroes_id": [
+            "invoker",
+            "faceless-void"
+        ],
+        "winrate": "0.5079"
+    },
+    {
+        "heroes_id": [
+            "dazzle",
+            "faceless-void"
+        ],
+        "winrate": "0.5524"
+    },
+    {
+        "heroes_id": [
+            "bristleback",
+            "faceless-void"
+        ],
+        "winrate": "0.4845"
+    },
+    {
+        "heroes_id": [
+            "mirana",
+            "faceless-void"
+        ],
+        "winrate": "0.5556"
+    },
+    {
+        "heroes_id": [
+            "dazzle",
+            "invoker"
+        ],
+        "winrate": "0.5044"
+    },
+    {
+        "heroes_id": [
+            "bristleback",
+            "invoker"
+        ],
+        "winrate": "0.4915"
+    },
+    {
+        "heroes_id": [
+            "mirana",
+            "invoker"
+        ],
+        "winrate": "0.4866"
+    },
+    {
+        "heroes_id": [
+            "dazzle",
+            "mirana"
+        ],
+        "winrate": "0.5784"
+    },
+    {
+        "heroes_id": [
+            "bristleback",
+            "mirana"
+        ],
+        "winrate": "0.5519"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "ember-spirit"
+        ],
+        "winrate": "0.5233"
+    },
+    {
+        "heroes_id": [
+            "ember-spirit",
+            "lina"
+        ],
+        "winrate": "0.4818"
+    },
+    {
+        "heroes_id": [
+            "ember-spirit",
+            "wraith-king"
+        ],
+        "winrate": "0.506"
+    },
+    {
+        "heroes_id": [
+            "ember-spirit",
+            "silencer"
+        ],
+        "winrate": "0.4091"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "lina"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "wraith-king"
+        ],
+        "winrate": "0.5469"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "silencer"
+        ],
+        "winrate": "0.5076"
+    },
+    {
+        "heroes_id": [
+            "wraith-king",
+            "lina"
+        ],
+        "winrate": "0.5423"
+    },
+    {
+        "heroes_id": [
+            "lina",
+            "silencer"
+        ],
+        "winrate": "0.4054"
+    },
+    {
+        "heroes_id": [
+            "wraith-king",
+            "silencer"
+        ],
+        "winrate": "0.4667"
+    },
+    {
+        "heroes_id": [
+            "kunkka",
+            "ogre-magi"
+        ],
+        "winrate": "0.5528"
+    },
+    {
+        "heroes_id": [
+            "kunkka",
+            "lina"
+        ],
+        "winrate": "0.4899"
+    },
+    {
+        "heroes_id": [
+            "sand-king",
+            "kunkka"
+        ],
+        "winrate": "0.5357"
+    },
+    {
+        "heroes_id": [
+            "kunkka",
+            "lifestealer"
+        ],
+        "winrate": "0.411"
+    },
+    {
+        "heroes_id": [
+            "lina",
+            "ogre-magi"
+        ],
+        "winrate": "0.5047"
+    },
+    {
+        "heroes_id": [
+            "lifestealer",
+            "ogre-magi"
+        ],
+        "winrate": "0.5181"
+    },
+    {
+        "heroes_id": [
+            "lina",
+            "lifestealer"
+        ],
+        "winrate": "0.4541"
+    },
+    {
+        "heroes_id": [
+            "sand-king",
+            "lifestealer"
+        ],
+        "winrate": "0.4889"
+    },
+    {
+        "heroes_id": [
+            "pangolier",
+            "anti-mage"
+        ],
+        "winrate": "0.431"
+    },
+    {
+        "heroes_id": [
+            "pangolier",
+            "tiny"
+        ],
+        "winrate": "0.3803"
+    },
+    {
+        "heroes_id": [
+            "pangolier",
+            "grimstroke"
+        ],
+        "winrate": "0.4516"
+    },
+    {
+        "heroes_id": [
+            "anti-mage",
+            "tiny"
+        ],
+        "winrate": "0.4933"
+    },
+    {
+        "heroes_id": [
+            "grimstroke",
+            "anti-mage"
+        ],
+        "winrate": "0.4603"
+    },
+    {
+        "heroes_id": [
+            "grimstroke",
+            "tiny"
+        ],
+        "winrate": "0.3171"
+    },
+    {
+        "heroes_id": [
+            "dark-willow",
+            "slark"
+        ],
+        "winrate": "0.5732"
+    },
+    {
+        "heroes_id": [
+            "slark",
+            "nyx-assassin"
+        ],
+        "winrate": "0.4211"
+    },
+    {
+        "heroes_id": [
+            "storm-spirit",
+            "silencer"
+        ],
+        "winrate": "0.4423"
+    },
+    {
+        "heroes_id": [
+            "storm-spirit",
+            "faceless-void"
+        ],
+        "winrate": "0.4902"
+    },
+    {
+        "heroes_id": [
+            "bounty-hunter",
+            "storm-spirit"
+        ],
+        "winrate": "0.5909"
+    },
+    {
+        "heroes_id": [
+            "silencer",
+            "faceless-void"
+        ],
+        "winrate": "0.4519"
+    },
+    {
+        "heroes_id": [
+            "bounty-hunter",
+            "faceless-void"
+        ],
+        "winrate": "0.4561"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "wraith-king"
+        ],
+        "winrate": "0.5802"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "silencer"
+        ],
+        "winrate": "0.5347"
+    },
+    {
+        "heroes_id": [
+            "dark-willow",
+            "lina"
+        ],
+        "winrate": "0.4314"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "dark-willow"
+        ],
+        "winrate": "0.5625"
+    },
+    {
+        "heroes_id": [
+            "grimstroke",
+            "lina"
+        ],
+        "winrate": "0.4478"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "grimstroke"
+        ],
+        "winrate": "0.4315"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "spectre"
+        ],
+        "winrate": "0.5361"
+    },
+    {
+        "heroes_id": [
+            "pangolier",
+            "invoker"
+        ],
+        "winrate": "0.5172"
+    },
+    {
+        "heroes_id": [
+            "pangolier",
+            "jakiro"
+        ],
+        "winrate": "0.4321"
+    },
+    {
+        "heroes_id": [
+            "pangolier",
+            "juggernaut"
+        ],
+        "winrate": "0.5391"
+    },
+    {
+        "heroes_id": [
+            "invoker",
+            "jakiro"
+        ],
+        "winrate": "0.5287"
+    },
+    {
+        "heroes_id": [
+            "warlock",
+            "invoker"
+        ],
+        "winrate": "0.4683"
+    },
+    {
+        "heroes_id": [
+            "juggernaut",
+            "jakiro"
+        ],
+        "winrate": "0.5556"
+    },
+    {
+        "heroes_id": [
+            "warlock",
+            "juggernaut"
+        ],
+        "winrate": "0.4658"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "templar-assassin"
+        ],
+        "winrate": "0.5738"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "templar-assassin"
+        ],
+        "winrate": "0.514"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "anti-mage"
+        ],
+        "winrate": "0.5188"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "anti-mage"
+        ],
+        "winrate": "0.4868"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "oracle"
+        ],
+        "winrate": "0.3929"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "oracle"
+        ],
+        "winrate": "0.4867"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "rubick"
+        ],
+        "winrate": "0.4905"
+    },
+    {
+        "heroes_id": [
+            "sand-king",
+            "slark"
+        ],
+        "winrate": "0.5134"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "spirit-breaker"
+        ],
+        "winrate": "0.5429"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "slark"
+        ],
+        "winrate": "0.4826"
+    },
+    {
+        "heroes_id": [
+            "slark",
+            "spirit-breaker"
+        ],
+        "winrate": "0.45"
+    },
+    {
+        "heroes_id": [
+            "dazzle",
+            "wraith-king"
+        ],
+        "winrate": "0.4179"
+    },
+    {
+        "heroes_id": [
+            "wraith-king",
+            "legion-commander"
+        ],
+        "winrate": "0.5139"
+    },
+    {
+        "heroes_id": [
+            "dazzle",
+            "legion-commander"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "crystal-maiden",
+            "phantom-lancer"
+        ],
+        "winrate": "0.42"
+    },
+    {
+        "heroes_id": [
+            "axe",
+            "ember-spirit"
+        ],
+        "winrate": "0.38"
+    },
+    {
+        "heroes_id": [
+            "crystal-maiden",
+            "ember-spirit"
+        ],
+        "winrate": "0.5318"
+    },
+    {
+        "heroes_id": [
+            "axe",
+            "crystal-maiden"
+        ],
+        "winrate": "0.5423"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "axe"
+        ],
+        "winrate": "0.5412"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "crystal-maiden"
+        ],
+        "winrate": "0.5581"
+    },
+    {
+        "heroes_id": [
+            "pangolier",
+            "zeus"
+        ],
+        "winrate": "0.494"
+    },
+    {
+        "heroes_id": [
+            "pangolier",
+            "dazzle"
+        ],
+        "winrate": "0.625"
+    },
+    {
+        "heroes_id": [
+            "undying",
+            "juggernaut"
+        ],
+        "winrate": "0.5789"
+    },
+    {
+        "heroes_id": [
+            "zeus",
+            "juggernaut"
+        ],
+        "winrate": "0.5613"
+    },
+    {
+        "heroes_id": [
+            "zeus",
+            "dazzle"
+        ],
+        "winrate": "0.5606"
+    },
+    {
+        "heroes_id": [
+            "dazzle",
+            "juggernaut"
+        ],
+        "winrate": "0.5327"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "mirana"
+        ],
+        "winrate": "0.6025"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "outworld-devourer"
+        ],
+        "winrate": "0.5625"
+    },
+    {
+        "heroes_id": [
+            "troll-warlord",
+            "mirana"
+        ],
+        "winrate": "0.42"
+    },
+    {
+        "heroes_id": [
+            "outworld-devourer",
+            "mirana"
+        ],
+        "winrate": "0.5265"
+    },
+    {
+        "heroes_id": [
+            "bloodseeker",
+            "ogre-magi"
+        ],
+        "winrate": "0.5781"
+    },
+    {
+        "heroes_id": [
+            "bloodseeker",
+            "lina"
+        ],
+        "winrate": "0.4615"
+    },
+    {
+        "heroes_id": [
+            "underlord",
+            "ogre-magi"
+        ],
+        "winrate": "0.5273"
+    },
+    {
+        "heroes_id": [
+            "underlord",
+            "lina"
+        ],
+        "winrate": "0.6197"
+    },
+    {
+        "heroes_id": [
+            "ember-spirit",
+            "ogre-magi"
+        ],
+        "winrate": "0.4195"
+    },
+    {
+        "heroes_id": [
+            "lich",
+            "invoker"
+        ],
+        "winrate": "0.5205"
+    },
+    {
+        "heroes_id": [
+            "legion-commander",
+            "invoker"
+        ],
+        "winrate": "0.4655"
+    },
+    {
+        "heroes_id": [
+            "warlock",
+            "legion-commander"
+        ],
+        "winrate": "0.6111"
+    },
+    {
+        "heroes_id": [
+            "outworld-devourer",
+            "phoenix"
+        ],
+        "winrate": "0.4"
+    },
+    {
+        "heroes_id": [
+            "slark",
+            "oracle"
+        ],
+        "winrate": "0.5571"
+    },
+    {
+        "heroes_id": [
+            "outworld-devourer",
+            "slark"
+        ],
+        "winrate": "0.4286"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "crystal-maiden"
+        ],
+        "winrate": "0.4564"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "ember-spirit"
+        ],
+        "winrate": "0.4298"
+    },
+    {
+        "heroes_id": [
+            "alchemist",
+            "rubick"
+        ],
+        "winrate": "0.4925"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "alchemist"
+        ],
+        "winrate": "0.5152"
+    },
+    {
+        "heroes_id": [
+            "alchemist",
+            "crystal-maiden"
+        ],
+        "winrate": "0.4364"
+    },
+    {
+        "heroes_id": [
+            "mirana",
+            "lion"
+        ],
+        "winrate": "0.5042"
+    },
+    {
+        "heroes_id": [
+            "slark",
+            "invoker"
+        ],
+        "winrate": "0.4968"
+    },
+    {
+        "heroes_id": [
+            "lion",
+            "invoker"
+        ],
+        "winrate": "0.4872"
+    },
+    {
+        "heroes_id": [
+            "slark",
+            "lion"
+        ],
+        "winrate": "0.4944"
+    },
+    {
+        "heroes_id": [
+            "phantom-lancer",
+            "invoker"
+        ],
+        "winrate": "0.5085"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "phantom-lancer"
+        ],
+        "winrate": "0.4324"
+    },
+    {
+        "heroes_id": [
+            "slardar",
+            "invoker"
+        ],
+        "winrate": "0.4625"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "slardar"
+        ],
+        "winrate": "0.3868"
+    },
+    {
+        "heroes_id": [
+            "warlock",
+            "rubick"
+        ],
+        "winrate": "0.493"
+    },
+    {
+        "heroes_id": [
+            "ancient-apparition",
+            "skywrath-mage"
+        ],
+        "winrate": "0.6"
+    },
+    {
+        "heroes_id": [
+            "slark",
+            "skywrath-mage"
+        ],
+        "winrate": "0.5274"
+    },
+    {
+        "heroes_id": [
+            "tidehunter",
+            "slark"
+        ],
+        "winrate": "0.4878"
+    },
+    {
+        "heroes_id": [
+            "ancient-apparition",
+            "slark"
+        ],
+        "winrate": "0.5197"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "sven"
+        ],
+        "winrate": "0.5405"
+    },
+    {
+        "heroes_id": [
+            "phantom-assassin",
+            "windranger"
+        ],
+        "winrate": "0.4672"
+    },
+    {
+        "heroes_id": [
+            "tinker",
+            "windranger"
+        ],
+        "winrate": "0.4767"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "crystal-maiden"
+        ],
+        "winrate": "0.5381"
+    },
+    {
+        "heroes_id": [
+            "crystal-maiden",
+            "sven"
+        ],
+        "winrate": "0.4583"
+    },
+    {
+        "heroes_id": [
+            "tinker",
+            "phantom-assassin"
+        ],
+        "winrate": "0.4688"
+    },
+    {
+        "heroes_id": [
+            "phantom-assassin",
+            "crystal-maiden"
+        ],
+        "winrate": "0.5258"
+    },
+    {
+        "heroes_id": [
+            "tinker",
+            "crystal-maiden"
+        ],
+        "winrate": "0.4918"
+    },
+    {
+        "heroes_id": [
+            "shadow-demon",
+            "faceless-void"
+        ],
+        "winrate": "0.4884"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "shadow-demon"
+        ],
+        "winrate": "0.3148"
+    },
+    {
+        "heroes_id": [
+            "shadow-demon",
+            "invoker"
+        ],
+        "winrate": "0.5481"
+    },
+    {
+        "heroes_id": [
+            "centaur-warrunner",
+            "faceless-void"
+        ],
+        "winrate": "0.4921"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "centaur-warrunner"
+        ],
+        "winrate": "0.375"
+    },
+    {
+        "heroes_id": [
+            "centaur-warrunner",
+            "invoker"
+        ],
+        "winrate": "0.4265"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "faceless-void"
+        ],
+        "winrate": "0.4291"
+    },
+    {
+        "heroes_id": [
+            "phoenix",
+            "invoker"
+        ],
+        "winrate": "0.5158"
+    },
+    {
+        "heroes_id": [
+            "invoker",
+            "ogre-magi"
+        ],
+        "winrate": "0.548"
+    },
+    {
+        "heroes_id": [
+            "juggernaut",
+            "phoenix"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "phoenix",
+            "ogre-magi"
+        ],
+        "winrate": "0.6633"
+    },
+    {
+        "heroes_id": [
+            "juggernaut",
+            "ogre-magi"
+        ],
+        "winrate": "0.5534"
+    },
+    {
+        "heroes_id": [
+            "juggernaut",
+            "centaur-warrunner"
+        ],
+        "winrate": "0.3827"
+    },
+    {
+        "heroes_id": [
+            "centaur-warrunner",
+            "ogre-magi"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "slark",
+            "tusk"
+        ],
+        "winrate": "0.4189"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "tusk"
+        ],
+        "winrate": "0.4375"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "slark"
+        ],
+        "winrate": "0.4655"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "sven"
+        ],
+        "winrate": "0.4727"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "sven"
+        ],
+        "winrate": "0.4432"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "legion-commander"
+        ],
+        "winrate": "0.5275"
+    },
+    {
+        "heroes_id": [
+            "storm-spirit",
+            "legion-commander"
+        ],
+        "winrate": "0.5224"
+    },
+    {
+        "heroes_id": [
+            "grimstroke",
+            "legion-commander"
+        ],
+        "winrate": "0.4881"
+    },
+    {
+        "heroes_id": [
+            "legion-commander",
+            "anti-mage"
+        ],
+        "winrate": "0.4107"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "storm-spirit"
+        ],
+        "winrate": "0.45"
+    },
+    {
+        "heroes_id": [
+            "grimstroke",
+            "storm-spirit"
+        ],
+        "winrate": "0.4194"
+    },
+    {
+        "heroes_id": [
+            "wraith-king",
+            "shadow-demon"
+        ],
+        "winrate": "0.5472"
+    },
+    {
+        "heroes_id": [
+            "sand-king",
+            "shadow-demon"
+        ],
+        "winrate": "0.5294"
+    },
+    {
+        "heroes_id": [
+            "sand-king",
+            "wraith-king"
+        ],
+        "winrate": "0.6304"
+    },
+    {
+        "heroes_id": [
+            "wraith-king",
+            "invoker"
+        ],
+        "winrate": "0.573"
+    },
+    {
+        "heroes_id": [
+            "sand-king",
+            "invoker"
+        ],
+        "winrate": "0.5079"
+    },
+    {
+        "heroes_id": [
+            "lich",
+            "faceless-void"
+        ],
+        "winrate": "0.4444"
+    },
+    {
+        "heroes_id": [
+            "lich",
+            "kunkka"
+        ],
+        "winrate": "0.4533"
+    },
+    {
+        "heroes_id": [
+            "outworld-devourer",
+            "skywrath-mage"
+        ],
+        "winrate": "0.4328"
+    },
+    {
+        "heroes_id": [
+            "outworld-devourer",
+            "kunkka"
+        ],
+        "winrate": "0.4265"
+    },
+    {
+        "heroes_id": [
+            "skywrath-mage",
+            "faceless-void"
+        ],
+        "winrate": "0.5751"
+    },
+    {
+        "heroes_id": [
+            "kunkka",
+            "skywrath-mage"
+        ],
+        "winrate": "0.5357"
+    },
+    {
+        "heroes_id": [
+            "kunkka",
+            "faceless-void"
+        ],
+        "winrate": "0.4813"
+    },
+    {
+        "heroes_id": [
+            "lion",
+            "lina"
+        ],
+        "winrate": "0.4286"
+    },
+    {
+        "heroes_id": [
+            "bloodseeker",
+            "lion"
+        ],
+        "winrate": "0.6"
+    },
+    {
+        "heroes_id": [
+            "ember-spirit",
+            "lion"
+        ],
+        "winrate": "0.4074"
+    },
+    {
+        "heroes_id": [
+            "sand-king",
+            "lion"
+        ],
+        "winrate": "0.5176"
+    },
+    {
+        "heroes_id": [
+            "sand-king",
+            "ember-spirit"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "slark",
+            "techies"
+        ],
+        "winrate": "0.4306"
+    },
+    {
+        "heroes_id": [
+            "slark",
+            "witch-doctor"
+        ],
+        "winrate": "0.3362"
+    },
+    {
+        "heroes_id": [
+            "slark",
+            "storm-spirit"
+        ],
+        "winrate": "0.4779"
+    },
+    {
+        "heroes_id": [
+            "storm-spirit",
+            "witch-doctor"
+        ],
+        "winrate": "0.3559"
+    },
+    {
+        "heroes_id": [
+            "slardar",
+            "lifestealer"
+        ],
+        "winrate": "0.4211"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "slardar"
+        ],
+        "winrate": "0.5111"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "lifestealer"
+        ],
+        "winrate": "0.5506"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "lifestealer"
+        ],
+        "winrate": "0.4756"
+    },
+    {
+        "heroes_id": [
+            "monkey-king",
+            "invoker"
+        ],
+        "winrate": "0.5061"
+    },
+    {
+        "heroes_id": [
+            "tiny",
+            "invoker"
+        ],
+        "winrate": "0.4775"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "invoker"
+        ],
+        "winrate": "0.5067"
+    },
+    {
+        "heroes_id": [
+            "warlock",
+            "monkey-king"
+        ],
+        "winrate": "0.5116"
+    },
+    {
+        "heroes_id": [
+            "warlock",
+            "tiny"
+        ],
+        "winrate": "0.5217"
+    },
+    {
+        "heroes_id": [
+            "warlock",
+            "night-stalker"
+        ],
+        "winrate": "0.5818"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "monkey-king"
+        ],
+        "winrate": "0.5028"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "tiny"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "phantom-assassin",
+            "witch-doctor"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "slardar",
+            "phantom-assassin"
+        ],
+        "winrate": "0.5932"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "witch-doctor"
+        ],
+        "winrate": "0.4132"
+    },
+    {
+        "heroes_id": [
+            "lich",
+            "windranger"
+        ],
+        "winrate": "0.5176"
+    },
+    {
+        "heroes_id": [
+            "slardar",
+            "windranger"
+        ],
+        "winrate": "0.459"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "anti-mage"
+        ],
+        "winrate": "0.5667"
+    },
+    {
+        "heroes_id": [
+            "ancient-apparition",
+            "night-stalker"
+        ],
+        "winrate": "0.5192"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "lina"
+        ],
+        "winrate": "0.4497"
+    },
+    {
+        "heroes_id": [
+            "queen-of-pain",
+            "lina"
+        ],
+        "winrate": "0.381"
+    },
+    {
+        "heroes_id": [
+            "lina",
+            "naga-siren"
+        ],
+        "winrate": "0.4844"
+    },
+    {
+        "heroes_id": [
+            "tidehunter",
+            "windranger"
+        ],
+        "winrate": "0.4746"
+    },
+    {
+        "heroes_id": [
+            "queen-of-pain",
+            "windranger"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "naga-siren"
+        ],
+        "winrate": "0.625"
+    },
+    {
+        "heroes_id": [
+            "tiny",
+            "faceless-void"
+        ],
+        "winrate": "0.4523"
+    },
+    {
+        "heroes_id": [
+            "legion-commander",
+            "faceless-void"
+        ],
+        "winrate": "0.4685"
+    },
+    {
+        "heroes_id": [
+            "warlock",
+            "faceless-void"
+        ],
+        "winrate": "0.4911"
+    },
+    {
+        "heroes_id": [
+            "legion-commander",
+            "tiny"
+        ],
+        "winrate": "0.4478"
+    },
+    {
+        "heroes_id": [
+            "monkey-king",
+            "lion"
+        ],
+        "winrate": "0.4466"
+    },
+    {
+        "heroes_id": [
+            "underlord",
+            "lion"
+        ],
+        "winrate": "0.5625"
+    },
+    {
+        "heroes_id": [
+            "zeus",
+            "lion"
+        ],
+        "winrate": "0.4329"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "lion"
+        ],
+        "winrate": "0.4039"
+    },
+    {
+        "heroes_id": [
+            "underlord",
+            "monkey-king"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "zeus",
+            "monkey-king"
+        ],
+        "winrate": "0.4545"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "monkey-king"
+        ],
+        "winrate": "0.4672"
+    },
+    {
+        "heroes_id": [
+            "zeus",
+            "underlord"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "underlord"
+        ],
+        "winrate": "0.5256"
+    },
+    {
+        "heroes_id": [
+            "zeus",
+            "rubick"
+        ],
+        "winrate": "0.5179"
+    },
+    {
+        "heroes_id": [
+            "gyrocopter",
+            "sand-king"
+        ],
+        "winrate": "0.4157"
+    },
+    {
+        "heroes_id": [
+            "sand-king",
+            "skywrath-mage"
+        ],
+        "winrate": "0.5876"
+    },
+    {
+        "heroes_id": [
+            "gyrocopter",
+            "lina"
+        ],
+        "winrate": "0.4861"
+    },
+    {
+        "heroes_id": [
+            "gyrocopter",
+            "skywrath-mage"
+        ],
+        "winrate": "0.4268"
+    },
+    {
+        "heroes_id": [
+            "skywrath-mage",
+            "lina"
+        ],
+        "winrate": "0.4815"
+    },
+    {
+        "heroes_id": [
+            "undying",
+            "faceless-void"
+        ],
+        "winrate": "0.5758"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "undying"
+        ],
+        "winrate": "0.5513"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "faceless-void"
+        ],
+        "winrate": "0.5426"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "drow-ranger"
+        ],
+        "winrate": "0.5968"
+    },
+    {
+        "heroes_id": [
+            "outworld-devourer",
+            "windranger"
+        ],
+        "winrate": "0.3608"
+    },
+    {
+        "heroes_id": [
+            "outworld-devourer",
+            "drow-ranger"
+        ],
+        "winrate": "0.5484"
+    },
+    {
+        "heroes_id": [
+            "crystal-maiden",
+            "drow-ranger"
+        ],
+        "winrate": "0.5122"
+    },
+    {
+        "heroes_id": [
+            "outworld-devourer",
+            "crystal-maiden"
+        ],
+        "winrate": "0.4464"
+    },
+    {
+        "heroes_id": [
+            "mirana",
+            "ursa"
+        ],
+        "winrate": "0.5464"
+    },
+    {
+        "heroes_id": [
+            "mirana",
+            "legion-commander"
+        ],
+        "winrate": "0.5838"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "enchantress"
+        ],
+        "winrate": "0.4286"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "enchantress"
+        ],
+        "winrate": "0.3654"
+    },
+    {
+        "heroes_id": [
+            "enchantress",
+            "slark"
+        ],
+        "winrate": "0.4906"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "tinker"
+        ],
+        "winrate": "0.4488"
+    },
+    {
+        "heroes_id": [
+            "tinker",
+            "slark"
+        ],
+        "winrate": "0.4326"
+    },
+    {
+        "heroes_id": [
+            "gyrocopter",
+            "crystal-maiden"
+        ],
+        "winrate": "0.5252"
+    },
+    {
+        "heroes_id": [
+            "gyrocopter",
+            "rubick"
+        ],
+        "winrate": "0.4634"
+    },
+    {
+        "heroes_id": [
+            "riki",
+            "crystal-maiden"
+        ],
+        "winrate": "0.6429"
+    },
+    {
+        "heroes_id": [
+            "crystal-maiden",
+            "venomancer"
+        ],
+        "winrate": "0.451"
+    },
+    {
+        "heroes_id": [
+            "riki",
+            "rubick"
+        ],
+        "winrate": "0.4667"
+    },
+    {
+        "heroes_id": [
+            "disruptor",
+            "windranger"
+        ],
+        "winrate": "0.4609"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "spectre"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "lion"
+        ],
+        "winrate": "0.4765"
+    },
+    {
+        "heroes_id": [
+            "lion",
+            "spectre"
+        ],
+        "winrate": "0.3211"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "bristleback"
+        ],
+        "winrate": "0.4714"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "shadow-demon"
+        ],
+        "winrate": "0.4254"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "drow-ranger"
+        ],
+        "winrate": "0.5939"
+    },
+    {
+        "heroes_id": [
+            "templar-assassin",
+            "lion"
+        ],
+        "winrate": "0.4865"
+    },
+    {
+        "heroes_id": [
+            "templar-assassin",
+            "slark"
+        ],
+        "winrate": "0.3846"
+    },
+    {
+        "heroes_id": [
+            "templar-assassin",
+            "ogre-magi"
+        ],
+        "winrate": "0.5753"
+    },
+    {
+        "heroes_id": [
+            "lion",
+            "phoenix"
+        ],
+        "winrate": "0.4545"
+    },
+    {
+        "heroes_id": [
+            "lion",
+            "ogre-magi"
+        ],
+        "winrate": "0.5026"
+    },
+    {
+        "heroes_id": [
+            "slark",
+            "ogre-magi"
+        ],
+        "winrate": "0.4785"
+    },
+    {
+        "heroes_id": [
+            "warlock",
+            "windranger"
+        ],
+        "winrate": "0.5347"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "invoker"
+        ],
+        "winrate": "0.5521"
+    },
+    {
+        "heroes_id": [
+            "mars",
+            "invoker"
+        ],
+        "winrate": "0.5429"
+    },
+    {
+        "heroes_id": [
+            "drow-ranger",
+            "invoker"
+        ],
+        "winrate": "0.5377"
+    },
+    {
+        "heroes_id": [
+            "dazzle",
+            "sand-king"
+        ],
+        "winrate": "0.5441"
+    },
+    {
+        "heroes_id": [
+            "lion",
+            "tusk"
+        ],
+        "winrate": "0.4024"
+    },
+    {
+        "heroes_id": [
+            "gyrocopter",
+            "lion"
+        ],
+        "winrate": "0.4759"
+    },
+    {
+        "heroes_id": [
+            "gyrocopter",
+            "dazzle"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "dazzle",
+            "lion"
+        ],
+        "winrate": "0.5323"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "ogre-magi"
+        ],
+        "winrate": "0.4585"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "invoker"
+        ],
+        "winrate": "0.5455"
+    },
+    {
+        "heroes_id": [
+            "juggernaut",
+            "mirana"
+        ],
+        "winrate": "0.5351"
+    },
+    {
+        "heroes_id": [
+            "juggernaut",
+            "shadow-demon"
+        ],
+        "winrate": "0.5122"
+    },
+    {
+        "heroes_id": [
+            "juggernaut",
+            "kunkka"
+        ],
+        "winrate": "0.4944"
+    },
+    {
+        "heroes_id": [
+            "sand-king",
+            "mirana"
+        ],
+        "winrate": "0.5341"
+    },
+    {
+        "heroes_id": [
+            "mirana",
+            "shadow-demon"
+        ],
+        "winrate": "0.5737"
+    },
+    {
+        "heroes_id": [
+            "kunkka",
+            "shadow-demon"
+        ],
+        "winrate": "0.4744"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "leshrac"
+        ],
+        "winrate": "0.5233"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "monkey-king"
+        ],
+        "winrate": "0.5191"
+    },
+    {
+        "heroes_id": [
+            "leshrac",
+            "rubick"
+        ],
+        "winrate": "0.4068"
+    },
+    {
+        "heroes_id": [
+            "ember-spirit",
+            "monkey-king"
+        ],
+        "winrate": "0.4898"
+    },
+    {
+        "heroes_id": [
+            "leshrac",
+            "monkey-king"
+        ],
+        "winrate": "0.46"
+    },
+    {
+        "heroes_id": [
+            "spirit-breaker",
+            "invoker"
+        ],
+        "winrate": "0.4655"
+    },
+    {
+        "heroes_id": [
+            "bounty-hunter",
+            "jakiro"
+        ],
+        "winrate": "0.4878"
+    },
+    {
+        "heroes_id": [
+            "bounty-hunter",
+            "invoker"
+        ],
+        "winrate": "0.4576"
+    },
+    {
+        "heroes_id": [
+            "slark",
+            "shadow-fiend"
+        ],
+        "winrate": "0.4024"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "shadow-fiend"
+        ],
+        "winrate": "0.4206"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "kunkka"
+        ],
+        "winrate": "0.443"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "gyrocopter"
+        ],
+        "winrate": "0.5549"
+    },
+    {
+        "heroes_id": [
+            "lion",
+            "drow-ranger"
+        ],
+        "winrate": "0.4896"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "drow-ranger"
+        ],
+        "winrate": "0.5581"
+    },
+    {
+        "heroes_id": [
+            "lion",
+            "spirit-breaker"
+        ],
+        "winrate": "0.4521"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "lion"
+        ],
+        "winrate": "0.5357"
+    },
+    {
+        "heroes_id": [
+            "bristleback",
+            "storm-spirit"
+        ],
+        "winrate": "0.3725"
+    },
+    {
+        "heroes_id": [
+            "juggernaut",
+            "tinker"
+        ],
+        "winrate": "0.4"
+    },
+    {
+        "heroes_id": [
+            "tinker",
+            "lina"
+        ],
+        "winrate": "0.5065"
+    },
+    {
+        "heroes_id": [
+            "juggernaut",
+            "lina"
+        ],
+        "winrate": "0.4069"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "zeus"
+        ],
+        "winrate": "0.5779"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "disruptor"
+        ],
+        "winrate": "0.5392"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "rubick"
+        ],
+        "winrate": "0.5179"
+    },
+    {
+        "heroes_id": [
+            "zeus",
+            "disruptor"
+        ],
+        "winrate": "0.5161"
+    },
+    {
+        "heroes_id": [
+            "zeus",
+            "wraith-king"
+        ],
+        "winrate": "0.6019"
+    },
+    {
+        "heroes_id": [
+            "disruptor",
+            "wraith-king"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "disruptor"
+        ],
+        "winrate": "0.4691"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "wraith-king"
+        ],
+        "winrate": "0.4412"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "clinkz"
+        ],
+        "winrate": "0.5556"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "ursa"
+        ],
+        "winrate": "0.5493"
+    },
+    {
+        "heroes_id": [
+            "slardar",
+            "juggernaut"
+        ],
+        "winrate": "0.4789"
+    },
+    {
+        "heroes_id": [
+            "juggernaut",
+            "treant-protector"
+        ],
+        "winrate": "0.5775"
+    },
+    {
+        "heroes_id": [
+            "slardar",
+            "ogre-magi"
+        ],
+        "winrate": "0.4167"
+    },
+    {
+        "heroes_id": [
+            "pangolier",
+            "ogre-magi"
+        ],
+        "winrate": "0.5315"
+    },
+    {
+        "heroes_id": [
+            "crystal-maiden",
+            "wraith-king"
+        ],
+        "winrate": "0.5294"
+    },
+    {
+        "heroes_id": [
+            "crystal-maiden",
+            "lina"
+        ],
+        "winrate": "0.4529"
+    },
+    {
+        "heroes_id": [
+            "grimstroke",
+            "wraith-king"
+        ],
+        "winrate": "0.596"
+    },
+    {
+        "heroes_id": [
+            "lion",
+            "lifestealer"
+        ],
+        "winrate": "0.4692"
+    },
+    {
+        "heroes_id": [
+            "ancient-apparition",
+            "lifestealer"
+        ],
+        "winrate": "0.4062"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "lion"
+        ],
+        "winrate": "0.5343"
+    },
+    {
+        "heroes_id": [
+            "ancient-apparition",
+            "pudge"
+        ],
+        "winrate": "0.5591"
+    },
+    {
+        "heroes_id": [
+            "juggernaut",
+            "magnus"
+        ],
+        "winrate": "0.4805"
+    },
+    {
+        "heroes_id": [
+            "juggernaut",
+            "spirit-breaker"
+        ],
+        "winrate": "0.4333"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "spirit-breaker"
+        ],
+        "winrate": "0.4384"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "chaos-knight"
+        ],
+        "winrate": "0.5968"
+    },
+    {
+        "heroes_id": [
+            "warlock",
+            "earthshaker"
+        ],
+        "winrate": "0.5856"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "tiny"
+        ],
+        "winrate": "0.4627"
+    },
+    {
+        "heroes_id": [
+            "ember-spirit",
+            "phoenix"
+        ],
+        "winrate": "0.4545"
+    },
+    {
+        "heroes_id": [
+            "tidehunter",
+            "ember-spirit"
+        ],
+        "winrate": "0.5686"
+    },
+    {
+        "heroes_id": [
+            "tidehunter",
+            "lion"
+        ],
+        "winrate": "0.4535"
+    },
+    {
+        "heroes_id": [
+            "tidehunter",
+            "juggernaut"
+        ],
+        "winrate": "0.5333"
+    },
+    {
+        "heroes_id": [
+            "juggernaut",
+            "ember-spirit"
+        ],
+        "winrate": "0.4228"
+    },
+    {
+        "heroes_id": [
+            "juggernaut",
+            "lion"
+        ],
+        "winrate": "0.423"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "lich"
+        ],
+        "winrate": "0.5238"
+    },
+    {
+        "heroes_id": [
+            "lich",
+            "lifestealer"
+        ],
+        "winrate": "0.3714"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "morphling"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "lifestealer"
+        ],
+        "winrate": "0.5072"
+    },
+    {
+        "heroes_id": [
+            "slardar",
+            "monkey-king"
+        ],
+        "winrate": "0.5593"
+    },
+    {
+        "heroes_id": [
+            "slardar",
+            "faceless-void"
+        ],
+        "winrate": "0.4328"
+    },
+    {
+        "heroes_id": [
+            "monkey-king",
+            "keeper-of-the-light"
+        ],
+        "winrate": "0.5769"
+    },
+    {
+        "heroes_id": [
+            "monkey-king",
+            "faceless-void"
+        ],
+        "winrate": "0.4359"
+    },
+    {
+        "heroes_id": [
+            "keeper-of-the-light",
+            "faceless-void"
+        ],
+        "winrate": "0.5949"
+    },
+    {
+        "heroes_id": [
+            "crystal-maiden",
+            "invoker"
+        ],
+        "winrate": "0.5773"
+    },
+    {
+        "heroes_id": [
+            "shadow-fiend",
+            "wraith-king"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "shadow-fiend",
+            "tiny"
+        ],
+        "winrate": "0.4219"
+    },
+    {
+        "heroes_id": [
+            "wraith-king",
+            "tiny"
+        ],
+        "winrate": "0.4579"
+    },
+    {
+        "heroes_id": [
+            "dazzle",
+            "monkey-king"
+        ],
+        "winrate": "0.5579"
+    },
+    {
+        "heroes_id": [
+            "monkey-king",
+            "wraith-king"
+        ],
+        "winrate": "0.5714"
+    },
+    {
+        "heroes_id": [
+            "disruptor",
+            "monkey-king"
+        ],
+        "winrate": "0.4118"
+    },
+    {
+        "heroes_id": [
+            "mars",
+            "monkey-king"
+        ],
+        "winrate": "0.4074"
+    },
+    {
+        "heroes_id": [
+            "crystal-maiden",
+            "tiny"
+        ],
+        "winrate": "0.4529"
+    },
+    {
+        "heroes_id": [
+            "crystal-maiden",
+            "slark"
+        ],
+        "winrate": "0.484"
+    },
+    {
+        "heroes_id": [
+            "crystal-maiden",
+            "skywrath-mage"
+        ],
+        "winrate": "0.5231"
+    },
+    {
+        "heroes_id": [
+            "ember-spirit",
+            "tiny"
+        ],
+        "winrate": "0.528"
+    },
+    {
+        "heroes_id": [
+            "ember-spirit",
+            "slark"
+        ],
+        "winrate": "0.4303"
+    },
+    {
+        "heroes_id": [
+            "ember-spirit",
+            "skywrath-mage"
+        ],
+        "winrate": "0.4579"
+    },
+    {
+        "heroes_id": [
+            "skywrath-mage",
+            "tiny"
+        ],
+        "winrate": "0.4071"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "chaos-knight"
+        ],
+        "winrate": "0.4808"
+    },
+    {
+        "heroes_id": [
+            "ancient-apparition",
+            "windranger"
+        ],
+        "winrate": "0.5182"
+    },
+    {
+        "heroes_id": [
+            "ancient-apparition",
+            "storm-spirit"
+        ],
+        "winrate": "0.5556"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "storm-spirit"
+        ],
+        "winrate": "0.4286"
+    },
+    {
+        "heroes_id": [
+            "crystal-maiden",
+            "storm-spirit"
+        ],
+        "winrate": "0.4876"
+    },
+    {
+        "heroes_id": [
+            "drow-ranger",
+            "jakiro"
+        ],
+        "winrate": "0.5735"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "jakiro"
+        ],
+        "winrate": "0.5882"
+    },
+    {
+        "heroes_id": [
+            "ember-spirit",
+            "jakiro"
+        ],
+        "winrate": "0.5122"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "dragon-knight"
+        ],
+        "winrate": "0.5185"
+    },
+    {
+        "heroes_id": [
+            "abaddon",
+            "invoker"
+        ],
+        "winrate": "0.587"
+    },
+    {
+        "heroes_id": [
+            "juggernaut",
+            "abaddon"
+        ],
+        "winrate": "0.5862"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "abaddon"
+        ],
+        "winrate": "0.547"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "juggernaut"
+        ],
+        "winrate": "0.4968"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "centaur-warrunner"
+        ],
+        "winrate": "0.5181"
+    },
+    {
+        "heroes_id": [
+            "outworld-devourer",
+            "silencer"
+        ],
+        "winrate": "0.459"
+    },
+    {
+        "heroes_id": [
+            "mirana",
+            "silencer"
+        ],
+        "winrate": "0.4583"
+    },
+    {
+        "heroes_id": [
+            "outworld-devourer",
+            "wraith-king"
+        ],
+        "winrate": "0.4756"
+    },
+    {
+        "heroes_id": [
+            "mirana",
+            "wraith-king"
+        ],
+        "winrate": "0.5941"
+    },
+    {
+        "heroes_id": [
+            "alchemist",
+            "mirana"
+        ],
+        "winrate": "0.5067"
+    },
+    {
+        "heroes_id": [
+            "zeus",
+            "shadow-demon"
+        ],
+        "winrate": "0.549"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "zeus"
+        ],
+        "winrate": "0.5556"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "faceless-void"
+        ],
+        "winrate": "0.5084"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "shadow-demon"
+        ],
+        "winrate": "0.5333"
+    },
+    {
+        "heroes_id": [
+            "phantom-assassin",
+            "tiny"
+        ],
+        "winrate": "0.3299"
+    },
+    {
+        "heroes_id": [
+            "phantom-assassin",
+            "ogre-magi"
+        ],
+        "winrate": "0.5241"
+    },
+    {
+        "heroes_id": [
+            "tiny",
+            "ogre-magi"
+        ],
+        "winrate": "0.4545"
+    },
+    {
+        "heroes_id": [
+            "shadow-fiend",
+            "ogre-magi"
+        ],
+        "winrate": "0.4673"
+    },
+    {
+        "heroes_id": [
+            "axe",
+            "lifestealer"
+        ],
+        "winrate": "0.5755"
+    },
+    {
+        "heroes_id": [
+            "undying",
+            "lina"
+        ],
+        "winrate": "0.5593"
+    },
+    {
+        "heroes_id": [
+            "axe",
+            "kunkka"
+        ],
+        "winrate": "0.4536"
+    },
+    {
+        "heroes_id": [
+            "axe",
+            "lina"
+        ],
+        "winrate": "0.5308"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "venomancer"
+        ],
+        "winrate": "0.5962"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "pugna"
+        ],
+        "winrate": "0.5185"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "venomancer"
+        ],
+        "winrate": "0.5484"
+    },
+    {
+        "heroes_id": [
+            "pugna",
+            "windranger"
+        ],
+        "winrate": "0.3846"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "monkey-king"
+        ],
+        "winrate": "0.491"
+    },
+    {
+        "heroes_id": [
+            "grimstroke",
+            "earthshaker"
+        ],
+        "winrate": "0.4231"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "mirana"
+        ],
+        "winrate": "0.5563"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "sand-king"
+        ],
+        "winrate": "0.4848"
+    },
+    {
+        "heroes_id": [
+            "mirana",
+            "morphling"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "grimstroke",
+            "mirana"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "bounty-hunter",
+            "kunkka"
+        ],
+        "winrate": "0.5395"
+    },
+    {
+        "heroes_id": [
+            "shadow-shaman",
+            "bounty-hunter"
+        ],
+        "winrate": "0.625"
+    },
+    {
+        "heroes_id": [
+            "phantom-assassin",
+            "bounty-hunter"
+        ],
+        "winrate": "0.5542"
+    },
+    {
+        "heroes_id": [
+            "bounty-hunter",
+            "legion-commander"
+        ],
+        "winrate": "0.4828"
+    },
+    {
+        "heroes_id": [
+            "shadow-shaman",
+            "kunkka"
+        ],
+        "winrate": "0.4815"
+    },
+    {
+        "heroes_id": [
+            "phantom-assassin",
+            "kunkka"
+        ],
+        "winrate": "0.4919"
+    },
+    {
+        "heroes_id": [
+            "kunkka",
+            "legion-commander"
+        ],
+        "winrate": "0.4706"
+    },
+    {
+        "heroes_id": [
+            "shadow-shaman",
+            "phantom-assassin"
+        ],
+        "winrate": "0.4778"
+    },
+    {
+        "heroes_id": [
+            "shadow-shaman",
+            "legion-commander"
+        ],
+        "winrate": "0.4725"
+    },
+    {
+        "heroes_id": [
+            "phantom-assassin",
+            "legion-commander"
+        ],
+        "winrate": "0.4639"
+    },
+    {
+        "heroes_id": [
+            "ember-spirit",
+            "invoker"
+        ],
+        "winrate": "0.4685"
+    },
+    {
+        "heroes_id": [
+            "ember-spirit",
+            "abaddon"
+        ],
+        "winrate": "0.46"
+    },
+    {
+        "heroes_id": [
+            "ember-spirit",
+            "mirana"
+        ],
+        "winrate": "0.5304"
+    },
+    {
+        "heroes_id": [
+            "mirana",
+            "abaddon"
+        ],
+        "winrate": "0.5256"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "nyx-assassin"
+        ],
+        "winrate": "0.6078"
+    },
+    {
+        "heroes_id": [
+            "lion",
+            "venomancer"
+        ],
+        "winrate": "0.4912"
+    },
+    {
+        "heroes_id": [
+            "venomancer",
+            "lifestealer"
+        ],
+        "winrate": "0.4643"
+    },
+    {
+        "heroes_id": [
+            "crystal-maiden",
+            "kunkka"
+        ],
+        "winrate": "0.4767"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "kunkka"
+        ],
+        "winrate": "0.4765"
+    },
+    {
+        "heroes_id": [
+            "ember-spirit",
+            "kunkka"
+        ],
+        "winrate": "0.381"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "crystal-maiden"
+        ],
+        "winrate": "0.5509"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "ember-spirit"
+        ],
+        "winrate": "0.4541"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "skywrath-mage"
+        ],
+        "winrate": "0.5194"
+    },
+    {
+        "heroes_id": [
+            "pugna",
+            "slark"
+        ],
+        "winrate": "0.473"
+    },
+    {
+        "heroes_id": [
+            "slark",
+            "jakiro"
+        ],
+        "winrate": "0.4709"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "jakiro"
+        ],
+        "winrate": "0.5235"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "slark"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "viper"
+        ],
+        "winrate": "0.4894"
+    },
+    {
+        "heroes_id": [
+            "grimstroke",
+            "rubick"
+        ],
+        "winrate": "0.5221"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "legion-commander"
+        ],
+        "winrate": "0.4795"
+    },
+    {
+        "heroes_id": [
+            "juggernaut",
+            "viper"
+        ],
+        "winrate": "0.55"
+    },
+    {
+        "heroes_id": [
+            "juggernaut",
+            "legion-commander"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "weaver",
+            "invoker"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "slardar",
+            "lion"
+        ],
+        "winrate": "0.4433"
+    },
+    {
+        "heroes_id": [
+            "lion",
+            "faceless-void"
+        ],
+        "winrate": "0.4777"
+    },
+    {
+        "heroes_id": [
+            "drow-ranger",
+            "tiny"
+        ],
+        "winrate": "0.5593"
+    },
+    {
+        "heroes_id": [
+            "sniper",
+            "ogre-magi"
+        ],
+        "winrate": "0.5147"
+    },
+    {
+        "heroes_id": [
+            "drow-ranger",
+            "ogre-magi"
+        ],
+        "winrate": "0.5049"
+    },
+    {
+        "heroes_id": [
+            "bristleback",
+            "rubick"
+        ],
+        "winrate": "0.3939"
+    },
+    {
+        "heroes_id": [
+            "queen-of-pain",
+            "rubick"
+        ],
+        "winrate": "0.4421"
+    },
+    {
+        "heroes_id": [
+            "bristleback",
+            "lifestealer"
+        ],
+        "winrate": "0.4714"
+    },
+    {
+        "heroes_id": [
+            "bristleback",
+            "lion"
+        ],
+        "winrate": "0.3851"
+    },
+    {
+        "heroes_id": [
+            "queen-of-pain",
+            "lifestealer"
+        ],
+        "winrate": "0.5085"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "ursa"
+        ],
+        "winrate": "0.5397"
+    },
+    {
+        "heroes_id": [
+            "dazzle",
+            "axe"
+        ],
+        "winrate": "0.5402"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "dazzle"
+        ],
+        "winrate": "0.6012"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "arc-warden"
+        ],
+        "winrate": "0.5571"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "mirana"
+        ],
+        "winrate": "0.483"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "faceless-void"
+        ],
+        "winrate": "0.4756"
+    },
+    {
+        "heroes_id": [
+            "monkey-king",
+            "mirana"
+        ],
+        "winrate": "0.5056"
+    },
+    {
+        "heroes_id": [
+            "mirana",
+            "bane"
+        ],
+        "winrate": "0.6639"
+    },
+    {
+        "heroes_id": [
+            "bane",
+            "faceless-void"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "sand-king"
+        ],
+        "winrate": "0.4878"
+    },
+    {
+        "heroes_id": [
+            "tusk",
+            "invoker"
+        ],
+        "winrate": "0.4462"
+    },
+    {
+        "heroes_id": [
+            "axe",
+            "invoker"
+        ],
+        "winrate": "0.5401"
+    },
+    {
+        "heroes_id": [
+            "shadow-shaman",
+            "tusk"
+        ],
+        "winrate": "0.4426"
+    },
+    {
+        "heroes_id": [
+            "shadow-shaman",
+            "slark"
+        ],
+        "winrate": "0.4725"
+    },
+    {
+        "heroes_id": [
+            "shadow-shaman",
+            "axe"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "axe",
+            "slark"
+        ],
+        "winrate": "0.5091"
+    },
+    {
+        "heroes_id": [
+            "crystal-maiden",
+            "clockwerk"
+        ],
+        "winrate": "0.5968"
+    },
+    {
+        "heroes_id": [
+            "crystal-maiden",
+            "necrophos"
+        ],
+        "winrate": "0.6182"
+    },
+    {
+        "heroes_id": [
+            "outworld-devourer",
+            "monkey-king"
+        ],
+        "winrate": "0.4405"
+    },
+    {
+        "heroes_id": [
+            "ancient-apparition",
+            "monkey-king"
+        ],
+        "winrate": "0.4022"
+    },
+    {
+        "heroes_id": [
+            "monkey-king",
+            "ogre-magi"
+        ],
+        "winrate": "0.5066"
+    },
+    {
+        "heroes_id": [
+            "ancient-apparition",
+            "ogre-magi"
+        ],
+        "winrate": "0.55"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "warlock"
+        ],
+        "winrate": "0.5645"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "night-stalker"
+        ],
+        "winrate": "0.556"
+    },
+    {
+        "heroes_id": [
+            "warlock",
+            "mirana"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "mirana",
+            "lifestealer"
+        ],
+        "winrate": "0.52"
+    },
+    {
+        "heroes_id": [
+            "warlock",
+            "lifestealer"
+        ],
+        "winrate": "0.5429"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "lifestealer"
+        ],
+        "winrate": "0.5809"
+    },
+    {
+        "heroes_id": [
+            "monkey-king",
+            "phoenix"
+        ],
+        "winrate": "0.4483"
+    },
+    {
+        "heroes_id": [
+            "mirana",
+            "drow-ranger"
+        ],
+        "winrate": "0.5934"
+    },
+    {
+        "heroes_id": [
+            "crystal-maiden",
+            "mirana"
+        ],
+        "winrate": "0.5312"
+    },
+    {
+        "heroes_id": [
+            "grimstroke",
+            "phantom-assassin"
+        ],
+        "winrate": "0.4143"
+    },
+    {
+        "heroes_id": [
+            "grimstroke",
+            "ogre-magi"
+        ],
+        "winrate": "0.4713"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "phantom-assassin"
+        ],
+        "winrate": "0.4718"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "lina"
+        ],
+        "winrate": "0.486"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "ogre-magi"
+        ],
+        "winrate": "0.5364"
+    },
+    {
+        "heroes_id": [
+            "phantom-assassin",
+            "lina"
+        ],
+        "winrate": "0.4336"
+    },
+    {
+        "heroes_id": [
+            "juggernaut",
+            "tusk"
+        ],
+        "winrate": "0.4677"
+    },
+    {
+        "heroes_id": [
+            "warlock",
+            "zeus"
+        ],
+        "winrate": "0.6579"
+    },
+    {
+        "heroes_id": [
+            "bounty-hunter",
+            "skywrath-mage"
+        ],
+        "winrate": "0.5821"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "skywrath-mage"
+        ],
+        "winrate": "0.5468"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "bounty-hunter"
+        ],
+        "winrate": "0.5033"
+    },
+    {
+        "heroes_id": [
+            "slark",
+            "bounty-hunter"
+        ],
+        "winrate": "0.4844"
+    },
+    {
+        "heroes_id": [
+            "slark",
+            "shadow-demon"
+        ],
+        "winrate": "0.5287"
+    },
+    {
+        "heroes_id": [
+            "shadow-shaman",
+            "clockwerk"
+        ],
+        "winrate": "0.5577"
+    },
+    {
+        "heroes_id": [
+            "shadow-shaman",
+            "wraith-king"
+        ],
+        "winrate": "0.5421"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "clockwerk"
+        ],
+        "winrate": "0.5143"
+    },
+    {
+        "heroes_id": [
+            "clockwerk",
+            "invoker"
+        ],
+        "winrate": "0.5612"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "broodmother"
+        ],
+        "winrate": "0.5507"
+    },
+    {
+        "heroes_id": [
+            "mirana",
+            "chaos-knight"
+        ],
+        "winrate": "0.5484"
+    },
+    {
+        "heroes_id": [
+            "lina",
+            "chaos-knight"
+        ],
+        "winrate": "0.5862"
+    },
+    {
+        "heroes_id": [
+            "lion",
+            "chaos-knight"
+        ],
+        "winrate": "0.4306"
+    },
+    {
+        "heroes_id": [
+            "mirana",
+            "lina"
+        ],
+        "winrate": "0.5187"
+    },
+    {
+        "heroes_id": [
+            "axe",
+            "mirana"
+        ],
+        "winrate": "0.5174"
+    },
+    {
+        "heroes_id": [
+            "axe",
+            "lion"
+        ],
+        "winrate": "0.5699"
+    },
+    {
+        "heroes_id": [
+            "dark-willow",
+            "windranger"
+        ],
+        "winrate": "0.4394"
+    },
+    {
+        "heroes_id": [
+            "bristleback",
+            "windranger"
+        ],
+        "winrate": "0.4141"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "oracle"
+        ],
+        "winrate": "0.4576"
+    },
+    {
+        "heroes_id": [
+            "juggernaut",
+            "crystal-maiden"
+        ],
+        "winrate": "0.5255"
+    },
+    {
+        "heroes_id": [
+            "sand-king",
+            "crystal-maiden"
+        ],
+        "winrate": "0.5033"
+    },
+    {
+        "heroes_id": [
+            "sand-king",
+            "tinker"
+        ],
+        "winrate": "0.5213"
+    },
+    {
+        "heroes_id": [
+            "bounty-hunter",
+            "lion"
+        ],
+        "winrate": "0.5782"
+    },
+    {
+        "heroes_id": [
+            "lion",
+            "skywrath-mage"
+        ],
+        "winrate": "0.5103"
+    },
+    {
+        "heroes_id": [
+            "gyrocopter",
+            "bounty-hunter"
+        ],
+        "winrate": "0.5443"
+    },
+    {
+        "heroes_id": [
+            "axe",
+            "bounty-hunter"
+        ],
+        "winrate": "0.5072"
+    },
+    {
+        "heroes_id": [
+            "gyrocopter",
+            "axe"
+        ],
+        "winrate": "0.4946"
+    },
+    {
+        "heroes_id": [
+            "axe",
+            "skywrath-mage"
+        ],
+        "winrate": "0.5426"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "witch-doctor"
+        ],
+        "winrate": "0.6129"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "slark"
+        ],
+        "winrate": "0.5455"
+    },
+    {
+        "heroes_id": [
+            "tiny",
+            "witch-doctor"
+        ],
+        "winrate": "0.5227"
+    },
+    {
+        "heroes_id": [
+            "earth-spirit",
+            "faceless-void"
+        ],
+        "winrate": "0.5185"
+    },
+    {
+        "heroes_id": [
+            "viper",
+            "faceless-void"
+        ],
+        "winrate": "0.6104"
+    },
+    {
+        "heroes_id": [
+            "tidehunter",
+            "faceless-void"
+        ],
+        "winrate": "0.5857"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "disruptor"
+        ],
+        "winrate": "0.5509"
+    },
+    {
+        "heroes_id": [
+            "disruptor",
+            "lifestealer"
+        ],
+        "winrate": "0.4891"
+    },
+    {
+        "heroes_id": [
+            "spectre",
+            "tiny"
+        ],
+        "winrate": "0.3913"
+    },
+    {
+        "heroes_id": [
+            "sand-king",
+            "tiny"
+        ],
+        "winrate": "0.4468"
+    },
+    {
+        "heroes_id": [
+            "ancient-apparition",
+            "tiny"
+        ],
+        "winrate": "0.4493"
+    },
+    {
+        "heroes_id": [
+            "ancient-apparition",
+            "sand-king"
+        ],
+        "winrate": "0.5789"
+    },
+    {
+        "heroes_id": [
+            "queen-of-pain",
+            "gyrocopter"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "techies"
+        ],
+        "winrate": "0.4727"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "kunkka"
+        ],
+        "winrate": "0.5032"
+    },
+    {
+        "heroes_id": [
+            "crystal-maiden",
+            "lifestealer"
+        ],
+        "winrate": "0.5147"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "windranger"
+        ],
+        "winrate": "0.4032"
+    },
+    {
+        "heroes_id": [
+            "bane",
+            "invoker"
+        ],
+        "winrate": "0.4576"
+    },
+    {
+        "heroes_id": [
+            "sand-king",
+            "faceless-void"
+        ],
+        "winrate": "0.6069"
+    },
+    {
+        "heroes_id": [
+            "skywrath-mage",
+            "invoker"
+        ],
+        "winrate": "0.5203"
+    },
+    {
+        "heroes_id": [
+            "gyrocopter",
+            "legion-commander"
+        ],
+        "winrate": "0.4684"
+    },
+    {
+        "heroes_id": [
+            "gyrocopter",
+            "phoenix"
+        ],
+        "winrate": "0.5333"
+    },
+    {
+        "heroes_id": [
+            "juggernaut",
+            "witch-doctor"
+        ],
+        "winrate": "0.4741"
+    },
+    {
+        "heroes_id": [
+            "axe",
+            "witch-doctor"
+        ],
+        "winrate": "0.4746"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "witch-doctor"
+        ],
+        "winrate": "0.4598"
+    },
+    {
+        "heroes_id": [
+            "juggernaut",
+            "shadow-fiend"
+        ],
+        "winrate": "0.4835"
+    },
+    {
+        "heroes_id": [
+            "axe",
+            "juggernaut"
+        ],
+        "winrate": "0.4497"
+    },
+    {
+        "heroes_id": [
+            "axe",
+            "shadow-fiend"
+        ],
+        "winrate": "0.339"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "axe"
+        ],
+        "winrate": "0.5179"
+    },
+    {
+        "heroes_id": [
+            "dark-willow",
+            "monkey-king"
+        ],
+        "winrate": "0.4706"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "morphling"
+        ],
+        "winrate": "0.4369"
+    },
+    {
+        "heroes_id": [
+            "morphling",
+            "lion"
+        ],
+        "winrate": "0.2727"
+    },
+    {
+        "heroes_id": [
+            "bounty-hunter",
+            "anti-mage"
+        ],
+        "winrate": "0.549"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "anti-mage"
+        ],
+        "winrate": "0.4722"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "bounty-hunter"
+        ],
+        "winrate": "0.5294"
+    },
+    {
+        "heroes_id": [
+            "necrophos",
+            "faceless-void"
+        ],
+        "winrate": "0.6143"
+    },
+    {
+        "heroes_id": [
+            "clockwerk",
+            "faceless-void"
+        ],
+        "winrate": "0.5538"
+    },
+    {
+        "heroes_id": [
+            "phoenix",
+            "faceless-void"
+        ],
+        "winrate": "0.5652"
+    },
+    {
+        "heroes_id": [
+            "zeus",
+            "clockwerk"
+        ],
+        "winrate": "0.6538"
+    },
+    {
+        "heroes_id": [
+            "bristleback",
+            "ogre-magi"
+        ],
+        "winrate": "0.4444"
+    },
+    {
+        "heroes_id": [
+            "bristleback",
+            "kunkka"
+        ],
+        "winrate": "0.4923"
+    },
+    {
+        "heroes_id": [
+            "lion",
+            "kunkka"
+        ],
+        "winrate": "0.521"
+    },
+    {
+        "heroes_id": [
+            "grimstroke",
+            "axe"
+        ],
+        "winrate": "0.4667"
+    },
+    {
+        "heroes_id": [
+            "axe",
+            "wraith-king"
+        ],
+        "winrate": "0.5854"
+    },
+    {
+        "heroes_id": [
+            "grimstroke",
+            "kunkka"
+        ],
+        "winrate": "0.4231"
+    },
+    {
+        "heroes_id": [
+            "grimstroke",
+            "skywrath-mage"
+        ],
+        "winrate": "0.4677"
+    },
+    {
+        "heroes_id": [
+            "kunkka",
+            "wraith-king"
+        ],
+        "winrate": "0.5243"
+    },
+    {
+        "heroes_id": [
+            "skywrath-mage",
+            "wraith-king"
+        ],
+        "winrate": "0.4796"
+    },
+    {
+        "heroes_id": [
+            "gyrocopter",
+            "outworld-devourer"
+        ],
+        "winrate": "0.4691"
+    },
+    {
+        "heroes_id": [
+            "outworld-devourer",
+            "lifestealer"
+        ],
+        "winrate": "0.4628"
+    },
+    {
+        "heroes_id": [
+            "gyrocopter",
+            "ogre-magi"
+        ],
+        "winrate": "0.5212"
+    },
+    {
+        "heroes_id": [
+            "necrophos",
+            "lifestealer"
+        ],
+        "winrate": "0.3548"
+    },
+    {
+        "heroes_id": [
+            "necrophos",
+            "ogre-magi"
+        ],
+        "winrate": "0.5224"
+    },
+    {
+        "heroes_id": [
+            "shadow-shaman",
+            "skywrath-mage"
+        ],
+        "winrate": "0.6061"
+    },
+    {
+        "heroes_id": [
+            "mirana",
+            "skywrath-mage"
+        ],
+        "winrate": "0.5857"
+    },
+    {
+        "heroes_id": [
+            "shadow-shaman",
+            "mirana"
+        ],
+        "winrate": "0.555"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "shadow-shaman"
+        ],
+        "winrate": "0.5229"
+    },
+    {
+        "heroes_id": [
+            "leshrac",
+            "mirana"
+        ],
+        "winrate": "0.4426"
+    },
+    {
+        "heroes_id": [
+            "shadow-fiend",
+            "jakiro"
+        ],
+        "winrate": "0.3906"
+    },
+    {
+        "heroes_id": [
+            "crystal-maiden",
+            "lion"
+        ],
+        "winrate": "0.4595"
+    },
+    {
+        "heroes_id": [
+            "skywrath-mage",
+            "witch-doctor"
+        ],
+        "winrate": "0.4737"
+    },
+    {
+        "heroes_id": [
+            "skywrath-mage",
+            "lifestealer"
+        ],
+        "winrate": "0.4701"
+    },
+    {
+        "heroes_id": [
+            "skywrath-mage",
+            "legion-commander"
+        ],
+        "winrate": "0.5049"
+    },
+    {
+        "heroes_id": [
+            "witch-doctor",
+            "lifestealer"
+        ],
+        "winrate": "0.5288"
+    },
+    {
+        "heroes_id": [
+            "legion-commander",
+            "witch-doctor"
+        ],
+        "winrate": "0.4429"
+    },
+    {
+        "heroes_id": [
+            "legion-commander",
+            "lifestealer"
+        ],
+        "winrate": "0.4865"
+    },
+    {
+        "heroes_id": [
+            "viper",
+            "slark"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "viper",
+            "lion"
+        ],
+        "winrate": "0.505"
+    },
+    {
+        "heroes_id": [
+            "lion",
+            "jakiro"
+        ],
+        "winrate": "0.4426"
+    },
+    {
+        "heroes_id": [
+            "viper",
+            "jakiro"
+        ],
+        "winrate": "0.6154"
+    },
+    {
+        "heroes_id": [
+            "mirana",
+            "anti-mage"
+        ],
+        "winrate": "0.5441"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "mirana"
+        ],
+        "winrate": "0.4475"
+    },
+    {
+        "heroes_id": [
+            "phoenix",
+            "tiny"
+        ],
+        "winrate": "0.5333"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "phoenix"
+        ],
+        "winrate": "0.5326"
+    },
+    {
+        "heroes_id": [
+            "tiny",
+            "treant-protector"
+        ],
+        "winrate": "0.5294"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "treant-protector"
+        ],
+        "winrate": "0.5125"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "phantom-lancer"
+        ],
+        "winrate": "0.44"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "tiny"
+        ],
+        "winrate": "0.4132"
+    },
+    {
+        "heroes_id": [
+            "tinker",
+            "legion-commander"
+        ],
+        "winrate": "0.5205"
+    },
+    {
+        "heroes_id": [
+            "tinker",
+            "wraith-king"
+        ],
+        "winrate": "0.5789"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "invoker"
+        ],
+        "winrate": "0.4939"
+    },
+    {
+        "heroes_id": [
+            "morphling",
+            "invoker"
+        ],
+        "winrate": "0.4833"
+    },
+    {
+        "heroes_id": [
+            "zeus",
+            "invoker"
+        ],
+        "winrate": "0.4818"
+    },
+    {
+        "heroes_id": [
+            "keeper-of-the-light",
+            "tiny"
+        ],
+        "winrate": "0.4545"
+    },
+    {
+        "heroes_id": [
+            "monkey-king",
+            "treant-protector"
+        ],
+        "winrate": "0.4203"
+    },
+    {
+        "heroes_id": [
+            "ember-spirit",
+            "keeper-of-the-light"
+        ],
+        "winrate": "0.6034"
+    },
+    {
+        "heroes_id": [
+            "ember-spirit",
+            "treant-protector"
+        ],
+        "winrate": "0.5333"
+    },
+    {
+        "heroes_id": [
+            "jakiro",
+            "faceless-void"
+        ],
+        "winrate": "0.4181"
+    },
+    {
+        "heroes_id": [
+            "storm-spirit",
+            "jakiro"
+        ],
+        "winrate": "0.4737"
+    },
+    {
+        "heroes_id": [
+            "shadow-shaman",
+            "huskar"
+        ],
+        "winrate": "0.5094"
+    },
+    {
+        "heroes_id": [
+            "mirana",
+            "huskar"
+        ],
+        "winrate": "0.5679"
+    },
+    {
+        "heroes_id": [
+            "shadow-shaman",
+            "necrophos"
+        ],
+        "winrate": "0.48"
+    },
+    {
+        "heroes_id": [
+            "shadow-shaman",
+            "lifestealer"
+        ],
+        "winrate": "0.4583"
+    },
+    {
+        "heroes_id": [
+            "mirana",
+            "necrophos"
+        ],
+        "winrate": "0.5647"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "phoenix"
+        ],
+        "winrate": "0.5385"
+    },
+    {
+        "heroes_id": [
+            "grimstroke",
+            "faceless-void"
+        ],
+        "winrate": "0.5214"
+    },
+    {
+        "heroes_id": [
+            "grimstroke",
+            "invoker"
+        ],
+        "winrate": "0.4245"
+    },
+    {
+        "heroes_id": [
+            "huskar",
+            "ogre-magi"
+        ],
+        "winrate": "0.5775"
+    },
+    {
+        "heroes_id": [
+            "luna",
+            "ogre-magi"
+        ],
+        "winrate": "0.4444"
+    },
+    {
+        "heroes_id": [
+            "shadow-fiend",
+            "lina"
+        ],
+        "winrate": "0.4828"
+    },
+    {
+        "heroes_id": [
+            "pangolier",
+            "lina"
+        ],
+        "winrate": "0.4205"
+    },
+    {
+        "heroes_id": [
+            "lina",
+            "faceless-void"
+        ],
+        "winrate": "0.4615"
+    },
+    {
+        "heroes_id": [
+            "shadow-fiend",
+            "faceless-void"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "pangolier",
+            "faceless-void"
+        ],
+        "winrate": "0.47"
+    },
+    {
+        "heroes_id": [
+            "ancient-apparition",
+            "juggernaut"
+        ],
+        "winrate": "0.5341"
+    },
+    {
+        "heroes_id": [
+            "juggernaut",
+            "templar-assassin"
+        ],
+        "winrate": "0.4915"
+    },
+    {
+        "heroes_id": [
+            "ancient-apparition",
+            "axe"
+        ],
+        "winrate": "0.5195"
+    },
+    {
+        "heroes_id": [
+            "ancient-apparition",
+            "rubick"
+        ],
+        "winrate": "0.6049"
+    },
+    {
+        "heroes_id": [
+            "slardar",
+            "crystal-maiden"
+        ],
+        "winrate": "0.5263"
+    },
+    {
+        "heroes_id": [
+            "mirana",
+            "ogre-magi"
+        ],
+        "winrate": "0.5587"
+    },
+    {
+        "heroes_id": [
+            "gyrocopter",
+            "kunkka"
+        ],
+        "winrate": "0.4729"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "jakiro"
+        ],
+        "winrate": "0.5478"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "jakiro"
+        ],
+        "winrate": "0.4571"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "rubick"
+        ],
+        "winrate": "0.4292"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "slark"
+        ],
+        "winrate": "0.54"
+    },
+    {
+        "heroes_id": [
+            "ancient-apparition",
+            "phantom-assassin"
+        ],
+        "winrate": "0.4821"
+    },
+    {
+        "heroes_id": [
+            "mars",
+            "lion"
+        ],
+        "winrate": "0.4545"
+    },
+    {
+        "heroes_id": [
+            "phantom-assassin",
+            "storm-spirit"
+        ],
+        "winrate": "0.4925"
+    },
+    {
+        "heroes_id": [
+            "storm-spirit",
+            "lion"
+        ],
+        "winrate": "0.4756"
+    },
+    {
+        "heroes_id": [
+            "shadow-shaman",
+            "shadow-fiend"
+        ],
+        "winrate": "0.5352"
+    },
+    {
+        "heroes_id": [
+            "underlord",
+            "juggernaut"
+        ],
+        "winrate": "0.4545"
+    },
+    {
+        "heroes_id": [
+            "juggernaut",
+            "clockwerk"
+        ],
+        "winrate": "0.5385"
+    },
+    {
+        "heroes_id": [
+            "invoker",
+            "ursa"
+        ],
+        "winrate": "0.5357"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "ursa"
+        ],
+        "winrate": "0.4205"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "ursa"
+        ],
+        "winrate": "0.5595"
+    },
+    {
+        "heroes_id": [
+            "dark-willow",
+            "sand-king"
+        ],
+        "winrate": "0.5686"
+    },
+    {
+        "heroes_id": [
+            "dark-willow",
+            "tiny"
+        ],
+        "winrate": "0.5179"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "riki"
+        ],
+        "winrate": "0.5802"
+    },
+    {
+        "heroes_id": [
+            "riki",
+            "kunkka"
+        ],
+        "winrate": "0.6935"
+    },
+    {
+        "heroes_id": [
+            "crystal-maiden",
+            "meepo"
+        ],
+        "winrate": "0.6034"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "meepo"
+        ],
+        "winrate": "0.618"
+    },
+    {
+        "heroes_id": [
+            "phantom-assassin",
+            "invoker"
+        ],
+        "winrate": "0.5155"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "keeper-of-the-light"
+        ],
+        "winrate": "0.5068"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "juggernaut"
+        ],
+        "winrate": "0.5641"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "ogre-magi"
+        ],
+        "winrate": "0.5498"
+    },
+    {
+        "heroes_id": [
+            "keeper-of-the-light",
+            "invoker"
+        ],
+        "winrate": "0.4556"
+    },
+    {
+        "heroes_id": [
+            "juggernaut",
+            "keeper-of-the-light"
+        ],
+        "winrate": "0.4576"
+    },
+    {
+        "heroes_id": [
+            "shadow-shaman",
+            "lina"
+        ],
+        "winrate": "0.4874"
+    },
+    {
+        "heroes_id": [
+            "lina",
+            "clockwerk"
+        ],
+        "winrate": "0.3725"
+    },
+    {
+        "heroes_id": [
+            "shadow-shaman",
+            "faceless-void"
+        ],
+        "winrate": "0.4688"
+    },
+    {
+        "heroes_id": [
+            "shadow-shaman",
+            "windranger"
+        ],
+        "winrate": "0.45"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "clockwerk"
+        ],
+        "winrate": "0.493"
+    },
+    {
+        "heroes_id": [
+            "gyrocopter",
+            "invoker"
+        ],
+        "winrate": "0.5468"
+    },
+    {
+        "heroes_id": [
+            "warlock",
+            "gyrocopter"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "crystal-maiden",
+            "phoenix"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "lycan"
+        ],
+        "winrate": "0.525"
+    },
+    {
+        "heroes_id": [
+            "slardar",
+            "lina"
+        ],
+        "winrate": "0.4458"
+    },
+    {
+        "heroes_id": [
+            "lycan",
+            "ogre-magi"
+        ],
+        "winrate": "0.5882"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "shadow-demon"
+        ],
+        "winrate": "0.53"
+    },
+    {
+        "heroes_id": [
+            "gyrocopter",
+            "shadow-demon"
+        ],
+        "winrate": "0.4211"
+    },
+    {
+        "heroes_id": [
+            "gyrocopter",
+            "silencer"
+        ],
+        "winrate": "0.4"
+    },
+    {
+        "heroes_id": [
+            "bristleback",
+            "skywrath-mage"
+        ],
+        "winrate": "0.5507"
+    },
+    {
+        "heroes_id": [
+            "bristleback",
+            "slark"
+        ],
+        "winrate": "0.4286"
+    },
+    {
+        "heroes_id": [
+            "ember-spirit",
+            "tusk"
+        ],
+        "winrate": "0.3898"
+    },
+    {
+        "heroes_id": [
+            "warlock",
+            "ember-spirit"
+        ],
+        "winrate": "0.527"
+    },
+    {
+        "heroes_id": [
+            "zeus",
+            "ember-spirit"
+        ],
+        "winrate": "0.4462"
+    },
+    {
+        "heroes_id": [
+            "warlock",
+            "slark"
+        ],
+        "winrate": "0.5357"
+    },
+    {
+        "heroes_id": [
+            "zeus",
+            "slark"
+        ],
+        "winrate": "0.5137"
+    },
+    {
+        "heroes_id": [
+            "undying",
+            "mirana"
+        ],
+        "winrate": "0.6349"
+    },
+    {
+        "heroes_id": [
+            "mirana",
+            "naga-siren"
+        ],
+        "winrate": "0.6049"
+    },
+    {
+        "heroes_id": [
+            "kunkka",
+            "naga-siren"
+        ],
+        "winrate": "0.549"
+    },
+    {
+        "heroes_id": [
+            "legion-commander",
+            "silencer"
+        ],
+        "winrate": "0.4262"
+    },
+    {
+        "heroes_id": [
+            "juggernaut",
+            "storm-spirit"
+        ],
+        "winrate": "0.419"
+    },
+    {
+        "heroes_id": [
+            "tidehunter",
+            "jakiro"
+        ],
+        "winrate": "0.56"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "tidehunter"
+        ],
+        "winrate": "0.5444"
+    },
+    {
+        "heroes_id": [
+            "mars",
+            "mirana"
+        ],
+        "winrate": "0.5385"
+    },
+    {
+        "heroes_id": [
+            "mars",
+            "ogre-magi"
+        ],
+        "winrate": "0.5614"
+    },
+    {
+        "heroes_id": [
+            "mars",
+            "faceless-void"
+        ],
+        "winrate": "0.4426"
+    },
+    {
+        "heroes_id": [
+            "ember-spirit",
+            "faceless-void"
+        ],
+        "winrate": "0.4722"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "zeus"
+        ],
+        "winrate": "0.5734"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "pangolier"
+        ],
+        "winrate": "0.515"
+    },
+    {
+        "heroes_id": [
+            "zeus",
+            "crystal-maiden"
+        ],
+        "winrate": "0.5197"
+    },
+    {
+        "heroes_id": [
+            "pangolier",
+            "crystal-maiden"
+        ],
+        "winrate": "0.449"
+    },
+    {
+        "heroes_id": [
+            "shadow-shaman",
+            "storm-spirit"
+        ],
+        "winrate": "0.4598"
+    },
+    {
+        "heroes_id": [
+            "luna",
+            "mirana"
+        ],
+        "winrate": "0.5893"
+    },
+    {
+        "heroes_id": [
+            "dazzle",
+            "lina"
+        ],
+        "winrate": "0.5385"
+    },
+    {
+        "heroes_id": [
+            "lina",
+            "legion-commander"
+        ],
+        "winrate": "0.4677"
+    },
+    {
+        "heroes_id": [
+            "monkey-king",
+            "legion-commander"
+        ],
+        "winrate": "0.4454"
+    },
+    {
+        "heroes_id": [
+            "monkey-king",
+            "lina"
+        ],
+        "winrate": "0.4313"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "lion"
+        ],
+        "winrate": "0.4848"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "earthshaker"
+        ],
+        "winrate": "0.5428"
+    },
+    {
+        "heroes_id": [
+            "monkey-king",
+            "shadow-demon"
+        ],
+        "winrate": "0.3421"
+    },
+    {
+        "heroes_id": [
+            "pugna",
+            "mirana"
+        ],
+        "winrate": "0.623"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "pugna"
+        ],
+        "winrate": "0.4068"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "monkey-king"
+        ],
+        "winrate": "0.4892"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "oracle"
+        ],
+        "winrate": "0.4167"
+    },
+    {
+        "heroes_id": [
+            "monkey-king",
+            "oracle"
+        ],
+        "winrate": "0.4483"
+    },
+    {
+        "heroes_id": [
+            "invoker",
+            "oracle"
+        ],
+        "winrate": "0.4507"
+    },
+    {
+        "heroes_id": [
+            "dark-willow",
+            "ember-spirit"
+        ],
+        "winrate": "0.4906"
+    },
+    {
+        "heroes_id": [
+            "ember-spirit",
+            "venomancer"
+        ],
+        "winrate": "0.549"
+    },
+    {
+        "heroes_id": [
+            "mars",
+            "juggernaut"
+        ],
+        "winrate": "0.5833"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "ember-spirit"
+        ],
+        "winrate": "0.4737"
+    },
+    {
+        "heroes_id": [
+            "sand-king",
+            "storm-spirit"
+        ],
+        "winrate": "0.6087"
+    },
+    {
+        "heroes_id": [
+            "disruptor",
+            "sand-king"
+        ],
+        "winrate": "0.5806"
+    },
+    {
+        "heroes_id": [
+            "gyrocopter",
+            "storm-spirit"
+        ],
+        "winrate": "0.4375"
+    },
+    {
+        "heroes_id": [
+            "gyrocopter",
+            "disruptor"
+        ],
+        "winrate": "0.4844"
+    },
+    {
+        "heroes_id": [
+            "storm-spirit",
+            "lina"
+        ],
+        "winrate": "0.4588"
+    },
+    {
+        "heroes_id": [
+            "disruptor",
+            "lina"
+        ],
+        "winrate": "0.4079"
+    },
+    {
+        "heroes_id": [
+            "abaddon",
+            "ogre-magi"
+        ],
+        "winrate": "0.4848"
+    },
+    {
+        "heroes_id": [
+            "monkey-king",
+            "abaddon"
+        ],
+        "winrate": "0.5179"
+    },
+    {
+        "heroes_id": [
+            "legion-commander",
+            "ogre-magi"
+        ],
+        "winrate": "0.4766"
+    },
+    {
+        "heroes_id": [
+            "slark",
+            "centaur-warrunner"
+        ],
+        "winrate": "0.4028"
+    },
+    {
+        "heroes_id": [
+            "outworld-devourer",
+            "lion"
+        ],
+        "winrate": "0.4937"
+    },
+    {
+        "heroes_id": [
+            "lion",
+            "wraith-king"
+        ],
+        "winrate": "0.5298"
+    },
+    {
+        "heroes_id": [
+            "outworld-devourer",
+            "juggernaut"
+        ],
+        "winrate": "0.4884"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "bounty-hunter"
+        ],
+        "winrate": "0.466"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "necrophos"
+        ],
+        "winrate": "0.3974"
+    },
+    {
+        "heroes_id": [
+            "outworld-devourer",
+            "lina"
+        ],
+        "winrate": "0.3438"
+    },
+    {
+        "heroes_id": [
+            "outworld-devourer",
+            "phantom-assassin"
+        ],
+        "winrate": "0.4507"
+    },
+    {
+        "heroes_id": [
+            "outworld-devourer",
+            "legion-commander"
+        ],
+        "winrate": "0.3443"
+    },
+    {
+        "heroes_id": [
+            "mirana",
+            "bloodseeker"
+        ],
+        "winrate": "0.625"
+    },
+    {
+        "heroes_id": [
+            "bloodseeker",
+            "invoker"
+        ],
+        "winrate": "0.5741"
+    },
+    {
+        "heroes_id": [
+            "tidehunter",
+            "mirana"
+        ],
+        "winrate": "0.5595"
+    },
+    {
+        "heroes_id": [
+            "tidehunter",
+            "invoker"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "queen-of-pain",
+            "pudge"
+        ],
+        "winrate": "0.4719"
+    },
+    {
+        "heroes_id": [
+            "phantom-assassin",
+            "magnus"
+        ],
+        "winrate": "0.5595"
+    },
+    {
+        "heroes_id": [
+            "axe",
+            "anti-mage"
+        ],
+        "winrate": "0.5926"
+    },
+    {
+        "heroes_id": [
+            "shadow-shaman",
+            "anti-mage"
+        ],
+        "winrate": "0.4848"
+    },
+    {
+        "heroes_id": [
+            "riki",
+            "invoker"
+        ],
+        "winrate": "0.5955"
+    },
+    {
+        "heroes_id": [
+            "riki",
+            "juggernaut"
+        ],
+        "winrate": "0.5119"
+    },
+    {
+        "heroes_id": [
+            "mirana",
+            "oracle"
+        ],
+        "winrate": "0.4494"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "razor"
+        ],
+        "winrate": "0.5357"
+    },
+    {
+        "heroes_id": [
+            "abaddon",
+            "faceless-void"
+        ],
+        "winrate": "0.5263"
+    },
+    {
+        "heroes_id": [
+            "abaddon",
+            "tiny"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "outworld-devourer"
+        ],
+        "winrate": "0.4359"
+    },
+    {
+        "heroes_id": [
+            "weaver",
+            "mirana"
+        ],
+        "winrate": "0.5849"
+    },
+    {
+        "heroes_id": [
+            "disruptor",
+            "slark"
+        ],
+        "winrate": "0.4706"
+    },
+    {
+        "heroes_id": [
+            "disruptor",
+            "kunkka"
+        ],
+        "winrate": "0.3662"
+    },
+    {
+        "heroes_id": [
+            "disruptor",
+            "tiny"
+        ],
+        "winrate": "0.3288"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "kunkka"
+        ],
+        "winrate": "0.4076"
+    },
+    {
+        "heroes_id": [
+            "kunkka",
+            "tiny"
+        ],
+        "winrate": "0.3925"
+    },
+    {
+        "heroes_id": [
+            "ancient-apparition",
+            "zeus"
+        ],
+        "winrate": "0.5082"
+    },
+    {
+        "heroes_id": [
+            "zeus",
+            "legion-commander"
+        ],
+        "winrate": "0.578"
+    },
+    {
+        "heroes_id": [
+            "ancient-apparition",
+            "legion-commander"
+        ],
+        "winrate": "0.434"
+    },
+    {
+        "heroes_id": [
+            "slark",
+            "legion-commander"
+        ],
+        "winrate": "0.4943"
+    },
+    {
+        "heroes_id": [
+            "sand-king",
+            "jakiro"
+        ],
+        "winrate": "0.552"
+    },
+    {
+        "heroes_id": [
+            "drow-ranger",
+            "vengeful-spirit"
+        ],
+        "winrate": "0.6"
+    },
+    {
+        "heroes_id": [
+            "ancient-apparition",
+            "mirana"
+        ],
+        "winrate": "0.4951"
+    },
+    {
+        "heroes_id": [
+            "ember-spirit",
+            "legion-commander"
+        ],
+        "winrate": "0.4881"
+    },
+    {
+        "heroes_id": [
+            "gyrocopter",
+            "witch-doctor"
+        ],
+        "winrate": "0.5088"
+    },
+    {
+        "heroes_id": [
+            "gyrocopter",
+            "ember-spirit"
+        ],
+        "winrate": "0.4699"
+    },
+    {
+        "heroes_id": [
+            "ember-spirit",
+            "witch-doctor"
+        ],
+        "winrate": "0.4667"
+    },
+    {
+        "heroes_id": [
+            "mirana",
+            "witch-doctor"
+        ],
+        "winrate": "0.6074"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "faceless-void"
+        ],
+        "winrate": "0.5248"
+    },
+    {
+        "heroes_id": [
+            "tusk",
+            "faceless-void"
+        ],
+        "winrate": "0.4815"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "lich"
+        ],
+        "winrate": "0.4545"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "tusk"
+        ],
+        "winrate": "0.5088"
+    },
+    {
+        "heroes_id": [
+            "tidehunter",
+            "crystal-maiden"
+        ],
+        "winrate": "0.5312"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "undying"
+        ],
+        "winrate": "0.6308"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "clinkz"
+        ],
+        "winrate": "0.6429"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "kunkka"
+        ],
+        "winrate": "0.5333"
+    },
+    {
+        "heroes_id": [
+            "warlock",
+            "lina"
+        ],
+        "winrate": "0.3939"
+    },
+    {
+        "heroes_id": [
+            "warlock",
+            "phantom-assassin"
+        ],
+        "winrate": "0.625"
+    },
+    {
+        "heroes_id": [
+            "tinker",
+            "shadow-demon"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "shadow-shaman",
+            "bristleback"
+        ],
+        "winrate": "0.5238"
+    },
+    {
+        "heroes_id": [
+            "bristleback",
+            "phantom-assassin"
+        ],
+        "winrate": "0.4675"
+    },
+    {
+        "heroes_id": [
+            "bristleback",
+            "zeus"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "shadow-shaman",
+            "zeus"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "shadow-shaman",
+            "ogre-magi"
+        ],
+        "winrate": "0.5233"
+    },
+    {
+        "heroes_id": [
+            "zeus",
+            "phantom-assassin"
+        ],
+        "winrate": "0.5204"
+    },
+    {
+        "heroes_id": [
+            "phantom-lancer",
+            "lion"
+        ],
+        "winrate": "0.4853"
+    },
+    {
+        "heroes_id": [
+            "omniknight",
+            "lion"
+        ],
+        "winrate": "0.4074"
+    },
+    {
+        "heroes_id": [
+            "lich",
+            "mirana"
+        ],
+        "winrate": "0.4615"
+    },
+    {
+        "heroes_id": [
+            "lich",
+            "slark"
+        ],
+        "winrate": "0.5732"
+    },
+    {
+        "heroes_id": [
+            "shadow-shaman",
+            "tidehunter"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "shadow-shaman"
+        ],
+        "winrate": "0.4773"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "sven"
+        ],
+        "winrate": "0.5072"
+    },
+    {
+        "heroes_id": [
+            "abaddon",
+            "lina"
+        ],
+        "winrate": "0.5333"
+    },
+    {
+        "heroes_id": [
+            "tiny",
+            "jakiro"
+        ],
+        "winrate": "0.4567"
+    },
+    {
+        "heroes_id": [
+            "riki",
+            "monkey-king"
+        ],
+        "winrate": "0.5686"
+    },
+    {
+        "heroes_id": [
+            "crystal-maiden",
+            "monkey-king"
+        ],
+        "winrate": "0.4969"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "pugna"
+        ],
+        "winrate": "0.5217"
+    },
+    {
+        "heroes_id": [
+            "pugna",
+            "crystal-maiden"
+        ],
+        "winrate": "0.5893"
+    },
+    {
+        "heroes_id": [
+            "leshrac",
+            "slark"
+        ],
+        "winrate": "0.4405"
+    },
+    {
+        "heroes_id": [
+            "slark",
+            "venomancer"
+        ],
+        "winrate": "0.434"
+    },
+    {
+        "heroes_id": [
+            "shadow-shaman",
+            "outworld-devourer"
+        ],
+        "winrate": "0.427"
+    },
+    {
+        "heroes_id": [
+            "juggernaut",
+            "winter-wyvern"
+        ],
+        "winrate": "0.64"
+    },
+    {
+        "heroes_id": [
+            "queen-of-pain",
+            "juggernaut"
+        ],
+        "winrate": "0.4167"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "clinkz"
+        ],
+        "winrate": "0.5678"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "shadow-fiend"
+        ],
+        "winrate": "0.4936"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "vengeful-spirit"
+        ],
+        "winrate": "0.5484"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "phantom-assassin"
+        ],
+        "winrate": "0.5667"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "phoenix"
+        ],
+        "winrate": "0.5818"
+    },
+    {
+        "heroes_id": [
+            "puck",
+            "slark"
+        ],
+        "winrate": "0.5091"
+    },
+    {
+        "heroes_id": [
+            "slark",
+            "abaddon"
+        ],
+        "winrate": "0.4022"
+    },
+    {
+        "heroes_id": [
+            "queen-of-pain",
+            "crystal-maiden"
+        ],
+        "winrate": "0.4457"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "outworld-devourer"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "puck"
+        ],
+        "winrate": "0.4505"
+    },
+    {
+        "heroes_id": [
+            "undying",
+            "ember-spirit"
+        ],
+        "winrate": "0.4423"
+    },
+    {
+        "heroes_id": [
+            "disruptor",
+            "ember-spirit"
+        ],
+        "winrate": "0.5385"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "disruptor"
+        ],
+        "winrate": "0.4624"
+    },
+    {
+        "heroes_id": [
+            "dark-willow",
+            "ogre-magi"
+        ],
+        "winrate": "0.5769"
+    },
+    {
+        "heroes_id": [
+            "juggernaut",
+            "dark-willow"
+        ],
+        "winrate": "0.5694"
+    },
+    {
+        "heroes_id": [
+            "juggernaut",
+            "tiny"
+        ],
+        "winrate": "0.4895"
+    },
+    {
+        "heroes_id": [
+            "gyrocopter",
+            "abaddon"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "lion",
+            "ursa"
+        ],
+        "winrate": "0.5227"
+    },
+    {
+        "heroes_id": [
+            "abaddon",
+            "lion"
+        ],
+        "winrate": "0.4368"
+    },
+    {
+        "heroes_id": [
+            "anti-mage",
+            "ogre-magi"
+        ],
+        "winrate": "0.4608"
+    },
+    {
+        "heroes_id": [
+            "anti-mage",
+            "jakiro"
+        ],
+        "winrate": "0.6071"
+    },
+    {
+        "heroes_id": [
+            "jakiro",
+            "ogre-magi"
+        ],
+        "winrate": "0.4316"
+    },
+    {
+        "heroes_id": [
+            "zeus",
+            "tiny"
+        ],
+        "winrate": "0.4636"
+    },
+    {
+        "heroes_id": [
+            "witch-doctor",
+            "ogre-magi"
+        ],
+        "winrate": "0.4921"
+    },
+    {
+        "heroes_id": [
+            "alchemist",
+            "ogre-magi"
+        ],
+        "winrate": "0.3846"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "outworld-devourer"
+        ],
+        "winrate": "0.3647"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "drow-ranger"
+        ],
+        "winrate": "0.4545"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "tinker"
+        ],
+        "winrate": "0.4297"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "winter-wyvern"
+        ],
+        "winrate": "0.5614"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "leshrac"
+        ],
+        "winrate": "0.5714"
+    },
+    {
+        "heroes_id": [
+            "anti-mage",
+            "invoker"
+        ],
+        "winrate": "0.5078"
+    },
+    {
+        "heroes_id": [
+            "pangolier",
+            "rubick"
+        ],
+        "winrate": "0.4046"
+    },
+    {
+        "heroes_id": [
+            "crystal-maiden",
+            "anti-mage"
+        ],
+        "winrate": "0.5476"
+    },
+    {
+        "heroes_id": [
+            "riki",
+            "lina"
+        ],
+        "winrate": "0.4182"
+    },
+    {
+        "heroes_id": [
+            "riki",
+            "mirana"
+        ],
+        "winrate": "0.64"
+    },
+    {
+        "heroes_id": [
+            "riki",
+            "ogre-magi"
+        ],
+        "winrate": "0.5513"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "crystal-maiden"
+        ],
+        "winrate": "0.587"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "storm-spirit"
+        ],
+        "winrate": "0.438"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "meepo"
+        ],
+        "winrate": "0.6032"
+    },
+    {
+        "heroes_id": [
+            "bounty-hunter",
+            "tiny"
+        ],
+        "winrate": "0.54"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "tiny"
+        ],
+        "winrate": "0.3804"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "clinkz"
+        ],
+        "winrate": "0.4638"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "lina"
+        ],
+        "winrate": "0.5019"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "tinker"
+        ],
+        "winrate": "0.5276"
+    },
+    {
+        "heroes_id": [
+            "lina",
+            "phoenix"
+        ],
+        "winrate": "0.451"
+    },
+    {
+        "heroes_id": [
+            "tinker",
+            "phoenix"
+        ],
+        "winrate": "0.4038"
+    },
+    {
+        "heroes_id": [
+            "slark",
+            "lina"
+        ],
+        "winrate": "0.428"
+    },
+    {
+        "heroes_id": [
+            "slardar",
+            "ember-spirit"
+        ],
+        "winrate": "0.5472"
+    },
+    {
+        "heroes_id": [
+            "earth-spirit",
+            "lion"
+        ],
+        "winrate": "0.4"
+    },
+    {
+        "heroes_id": [
+            "lion",
+            "clinkz"
+        ],
+        "winrate": "0.5593"
+    },
+    {
+        "heroes_id": [
+            "luna",
+            "lion"
+        ],
+        "winrate": "0.5172"
+    },
+    {
+        "heroes_id": [
+            "pugna",
+            "faceless-void"
+        ],
+        "winrate": "0.4038"
+    },
+    {
+        "heroes_id": [
+            "venomancer",
+            "faceless-void"
+        ],
+        "winrate": "0.5769"
+    },
+    {
+        "heroes_id": [
+            "pangolier",
+            "lifestealer"
+        ],
+        "winrate": "0.5333"
+    },
+    {
+        "heroes_id": [
+            "zeus",
+            "skywrath-mage"
+        ],
+        "winrate": "0.5357"
+    },
+    {
+        "heroes_id": [
+            "juggernaut",
+            "skywrath-mage"
+        ],
+        "winrate": "0.5328"
+    },
+    {
+        "heroes_id": [
+            "skywrath-mage",
+            "ogre-magi"
+        ],
+        "winrate": "0.5414"
+    },
+    {
+        "heroes_id": [
+            "ancient-apparition",
+            "wraith-king"
+        ],
+        "winrate": "0.5814"
+    },
+    {
+        "heroes_id": [
+            "ancient-apparition",
+            "tinker"
+        ],
+        "winrate": "0.4561"
+    },
+    {
+        "heroes_id": [
+            "wraith-king",
+            "jakiro"
+        ],
+        "winrate": "0.5056"
+    },
+    {
+        "heroes_id": [
+            "mirana",
+            "clockwerk"
+        ],
+        "winrate": "0.6211"
+    },
+    {
+        "heroes_id": [
+            "crystal-maiden",
+            "faceless-void"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "wraith-king",
+            "ogre-magi"
+        ],
+        "winrate": "0.5828"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "tusk"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "wraith-king"
+        ],
+        "winrate": "0.5758"
+    },
+    {
+        "heroes_id": [
+            "ember-spirit",
+            "lifestealer"
+        ],
+        "winrate": "0.5076"
+    },
+    {
+        "heroes_id": [
+            "pangolier",
+            "skywrath-mage"
+        ],
+        "winrate": "0.439"
+    },
+    {
+        "heroes_id": [
+            "pangolier",
+            "ember-spirit"
+        ],
+        "winrate": "0.4878"
+    },
+    {
+        "heroes_id": [
+            "grimstroke",
+            "night-stalker"
+        ],
+        "winrate": "0.5301"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "ursa"
+        ],
+        "winrate": "0.5968"
+    },
+    {
+        "heroes_id": [
+            "grimstroke",
+            "gyrocopter"
+        ],
+        "winrate": "0.4688"
+    },
+    {
+        "heroes_id": [
+            "grimstroke",
+            "lion"
+        ],
+        "winrate": "0.4336"
+    },
+    {
+        "heroes_id": [
+            "shadow-shaman",
+            "sand-king"
+        ],
+        "winrate": "0.4516"
+    },
+    {
+        "heroes_id": [
+            "lion",
+            "legion-commander"
+        ],
+        "winrate": "0.5027"
+    },
+    {
+        "heroes_id": [
+            "spirit-breaker",
+            "lifestealer"
+        ],
+        "winrate": "0.3881"
+    },
+    {
+        "heroes_id": [
+            "mirana",
+            "tiny"
+        ],
+        "winrate": "0.4555"
+    },
+    {
+        "heroes_id": [
+            "monkey-king",
+            "centaur-warrunner"
+        ],
+        "winrate": "0.4182"
+    },
+    {
+        "heroes_id": [
+            "centaur-warrunner",
+            "mirana"
+        ],
+        "winrate": "0.4255"
+    },
+    {
+        "heroes_id": [
+            "bristleback",
+            "juggernaut"
+        ],
+        "winrate": "0.3404"
+    },
+    {
+        "heroes_id": [
+            "disruptor",
+            "juggernaut"
+        ],
+        "winrate": "0.4423"
+    },
+    {
+        "heroes_id": [
+            "disruptor",
+            "mirana"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "lich",
+            "tiny"
+        ],
+        "winrate": "0.4314"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "lina"
+        ],
+        "winrate": "0.4057"
+    },
+    {
+        "heroes_id": [
+            "grimstroke",
+            "slark"
+        ],
+        "winrate": "0.4277"
+    },
+    {
+        "heroes_id": [
+            "grimstroke",
+            "ember-spirit"
+        ],
+        "winrate": "0.3171"
+    },
+    {
+        "heroes_id": [
+            "slark",
+            "vengeful-spirit"
+        ],
+        "winrate": "0.5283"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "vengeful-spirit"
+        ],
+        "winrate": "0.6667"
+    },
+    {
+        "heroes_id": [
+            "sand-king",
+            "phantom-assassin"
+        ],
+        "winrate": "0.4605"
+    },
+    {
+        "heroes_id": [
+            "zeus",
+            "witch-doctor"
+        ],
+        "winrate": "0.5574"
+    },
+    {
+        "heroes_id": [
+            "invoker",
+            "lifestealer"
+        ],
+        "winrate": "0.4906"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "lifestealer"
+        ],
+        "winrate": "0.4805"
+    },
+    {
+        "heroes_id": [
+            "naga-siren",
+            "invoker"
+        ],
+        "winrate": "0.4921"
+    },
+    {
+        "heroes_id": [
+            "treant-protector",
+            "invoker"
+        ],
+        "winrate": "0.5233"
+    },
+    {
+        "heroes_id": [
+            "lina",
+            "witch-doctor"
+        ],
+        "winrate": "0.4203"
+    },
+    {
+        "heroes_id": [
+            "timbersaw",
+            "lina"
+        ],
+        "winrate": "0.4906"
+    },
+    {
+        "heroes_id": [
+            "shadow-shaman",
+            "phoenix"
+        ],
+        "winrate": "0.5833"
+    },
+    {
+        "heroes_id": [
+            "shadow-shaman",
+            "monkey-king"
+        ],
+        "winrate": "0.5068"
+    },
+    {
+        "heroes_id": [
+            "clockwerk",
+            "lifestealer"
+        ],
+        "winrate": "0.4935"
+    },
+    {
+        "heroes_id": [
+            "zeus",
+            "sand-king"
+        ],
+        "winrate": "0.5625"
+    },
+    {
+        "heroes_id": [
+            "slark",
+            "bane"
+        ],
+        "winrate": "0.5902"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "bloodseeker"
+        ],
+        "winrate": "0.4769"
+    },
+    {
+        "heroes_id": [
+            "luna",
+            "pudge"
+        ],
+        "winrate": "0.587"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "mars"
+        ],
+        "winrate": "0.5417"
+    },
+    {
+        "heroes_id": [
+            "dazzle",
+            "kunkka"
+        ],
+        "winrate": "0.5316"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "dazzle"
+        ],
+        "winrate": "0.6465"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "earthshaker"
+        ],
+        "winrate": "0.4873"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "dazzle"
+        ],
+        "winrate": "0.6036"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "phantom-assassin"
+        ],
+        "winrate": "0.4678"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "magnus"
+        ],
+        "winrate": "0.5179"
+    },
+    {
+        "heroes_id": [
+            "timbersaw",
+            "windranger"
+        ],
+        "winrate": "0.4286"
+    },
+    {
+        "heroes_id": [
+            "disruptor",
+            "faceless-void"
+        ],
+        "winrate": "0.5663"
+    },
+    {
+        "heroes_id": [
+            "disruptor",
+            "invoker"
+        ],
+        "winrate": "0.4912"
+    },
+    {
+        "heroes_id": [
+            "zeus",
+            "spectre"
+        ],
+        "winrate": "0.5479"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "puck"
+        ],
+        "winrate": "0.4333"
+    },
+    {
+        "heroes_id": [
+            "jakiro",
+            "lifestealer"
+        ],
+        "winrate": "0.4931"
+    },
+    {
+        "heroes_id": [
+            "puck",
+            "lifestealer"
+        ],
+        "winrate": "0.4355"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "puck"
+        ],
+        "winrate": "0.3833"
+    },
+    {
+        "heroes_id": [
+            "mirana",
+            "jakiro"
+        ],
+        "winrate": "0.6034"
+    },
+    {
+        "heroes_id": [
+            "shadow-fiend",
+            "mirana"
+        ],
+        "winrate": "0.4959"
+    },
+    {
+        "heroes_id": [
+            "bristleback",
+            "ember-spirit"
+        ],
+        "winrate": "0.4318"
+    },
+    {
+        "heroes_id": [
+            "mirana",
+            "storm-spirit"
+        ],
+        "winrate": "0.4932"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "anti-mage"
+        ],
+        "winrate": "0.4579"
+    },
+    {
+        "heroes_id": [
+            "outworld-devourer",
+            "sand-king"
+        ],
+        "winrate": "0.4945"
+    },
+    {
+        "heroes_id": [
+            "grimstroke",
+            "outworld-devourer"
+        ],
+        "winrate": "0.5077"
+    },
+    {
+        "heroes_id": [
+            "phoenix",
+            "jakiro"
+        ],
+        "winrate": "0.4727"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "abaddon"
+        ],
+        "winrate": "0.5244"
+    },
+    {
+        "heroes_id": [
+            "zeus",
+            "lifestealer"
+        ],
+        "winrate": "0.5764"
+    },
+    {
+        "heroes_id": [
+            "centaur-warrunner",
+            "lifestealer"
+        ],
+        "winrate": "0.5094"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "centaur-warrunner"
+        ],
+        "winrate": "0.48"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "legion-commander"
+        ],
+        "winrate": "0.5347"
+    },
+    {
+        "heroes_id": [
+            "ursa",
+            "ogre-magi"
+        ],
+        "winrate": "0.4921"
+    },
+    {
+        "heroes_id": [
+            "lina",
+            "tiny"
+        ],
+        "winrate": "0.403"
+    },
+    {
+        "heroes_id": [
+            "queen-of-pain",
+            "jakiro"
+        ],
+        "winrate": "0.3857"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "treant-protector"
+        ],
+        "winrate": "0.5165"
+    },
+    {
+        "heroes_id": [
+            "shadow-shaman",
+            "gyrocopter"
+        ],
+        "winrate": "0.5604"
+    },
+    {
+        "heroes_id": [
+            "shadow-shaman",
+            "tinker"
+        ],
+        "winrate": "0.4205"
+    },
+    {
+        "heroes_id": [
+            "outworld-devourer",
+            "jakiro"
+        ],
+        "winrate": "0.4"
+    },
+    {
+        "heroes_id": [
+            "leshrac",
+            "lion"
+        ],
+        "winrate": "0.4638"
+    },
+    {
+        "heroes_id": [
+            "monkey-king",
+            "kunkka"
+        ],
+        "winrate": "0.4228"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "leshrac"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "ember-spirit",
+            "shadow-demon"
+        ],
+        "winrate": "0.4"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "chaos-knight"
+        ],
+        "winrate": "0.4355"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "tidehunter"
+        ],
+        "winrate": "0.4842"
+    },
+    {
+        "heroes_id": [
+            "slark",
+            "clockwerk"
+        ],
+        "winrate": "0.4333"
+    },
+    {
+        "heroes_id": [
+            "underlord",
+            "lifestealer"
+        ],
+        "winrate": "0.4906"
+    },
+    {
+        "heroes_id": [
+            "shadow-fiend",
+            "lifestealer"
+        ],
+        "winrate": "0.4189"
+    },
+    {
+        "heroes_id": [
+            "enchantress",
+            "lion"
+        ],
+        "winrate": "0.549"
+    },
+    {
+        "heroes_id": [
+            "undying",
+            "invoker"
+        ],
+        "winrate": "0.5875"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "wraith-king"
+        ],
+        "winrate": "0.5378"
+    },
+    {
+        "heroes_id": [
+            "kunkka",
+            "jakiro"
+        ],
+        "winrate": "0.4626"
+    },
+    {
+        "heroes_id": [
+            "dark-willow",
+            "kunkka"
+        ],
+        "winrate": "0.4375"
+    },
+    {
+        "heroes_id": [
+            "slardar",
+            "jakiro"
+        ],
+        "winrate": "0.3966"
+    },
+    {
+        "heroes_id": [
+            "dark-willow",
+            "lifestealer"
+        ],
+        "winrate": "0.507"
+    },
+    {
+        "heroes_id": [
+            "pangolier",
+            "wraith-king"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "pangolier",
+            "witch-doctor"
+        ],
+        "winrate": "0.4717"
+    },
+    {
+        "heroes_id": [
+            "wraith-king",
+            "witch-doctor"
+        ],
+        "winrate": "0.5072"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "witch-doctor"
+        ],
+        "winrate": "0.5094"
+    },
+    {
+        "heroes_id": [
+            "lion",
+            "meepo"
+        ],
+        "winrate": "0.5244"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "shadow-fiend"
+        ],
+        "winrate": "0.5465"
+    },
+    {
+        "heroes_id": [
+            "alchemist",
+            "lion"
+        ],
+        "winrate": "0.4677"
+    },
+    {
+        "heroes_id": [
+            "pangolier",
+            "lion"
+        ],
+        "winrate": "0.5333"
+    },
+    {
+        "heroes_id": [
+            "shadow-demon",
+            "lifestealer"
+        ],
+        "winrate": "0.5065"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "abaddon"
+        ],
+        "winrate": "0.4737"
+    },
+    {
+        "heroes_id": [
+            "ember-spirit",
+            "anti-mage"
+        ],
+        "winrate": "0.4464"
+    },
+    {
+        "heroes_id": [
+            "warlock",
+            "lion"
+        ],
+        "winrate": "0.48"
+    },
+    {
+        "heroes_id": [
+            "anti-mage",
+            "witch-doctor"
+        ],
+        "winrate": "0.566"
+    },
+    {
+        "heroes_id": [
+            "zeus",
+            "anti-mage"
+        ],
+        "winrate": "0.5085"
+    },
+    {
+        "heroes_id": [
+            "monkey-king",
+            "clockwerk"
+        ],
+        "winrate": "0.5902"
+    },
+    {
+        "heroes_id": [
+            "dazzle",
+            "windranger"
+        ],
+        "winrate": "0.5476"
+    },
+    {
+        "heroes_id": [
+            "ember-spirit",
+            "bounty-hunter"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "shadow-fiend"
+        ],
+        "winrate": "0.4921"
+    },
+    {
+        "heroes_id": [
+            "juggernaut",
+            "meepo"
+        ],
+        "winrate": "0.5263"
+    },
+    {
+        "heroes_id": [
+            "lich",
+            "juggernaut"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "bloodseeker"
+        ],
+        "winrate": "0.582"
+    },
+    {
+        "heroes_id": [
+            "crystal-maiden",
+            "legion-commander"
+        ],
+        "winrate": "0.4745"
+    },
+    {
+        "heroes_id": [
+            "lina",
+            "anti-mage"
+        ],
+        "winrate": "0.4943"
+    },
+    {
+        "heroes_id": [
+            "kunkka",
+            "anti-mage"
+        ],
+        "winrate": "0.5333"
+    },
+    {
+        "heroes_id": [
+            "templar-assassin",
+            "lina"
+        ],
+        "winrate": "0.5273"
+    },
+    {
+        "heroes_id": [
+            "lich",
+            "lina"
+        ],
+        "winrate": "0.4746"
+    },
+    {
+        "heroes_id": [
+            "pangolier",
+            "slark"
+        ],
+        "winrate": "0.4454"
+    },
+    {
+        "heroes_id": [
+            "pangolier",
+            "kunkka"
+        ],
+        "winrate": "0.4853"
+    },
+    {
+        "heroes_id": [
+            "lina",
+            "invoker"
+        ],
+        "winrate": "0.4155"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "magnus"
+        ],
+        "winrate": "0.5405"
+    },
+    {
+        "heroes_id": [
+            "pangolier",
+            "monkey-king"
+        ],
+        "winrate": "0.4468"
+    },
+    {
+        "heroes_id": [
+            "grimstroke",
+            "monkey-king"
+        ],
+        "winrate": "0.4286"
+    },
+    {
+        "heroes_id": [
+            "tinker",
+            "lifestealer"
+        ],
+        "winrate": "0.5481"
+    },
+    {
+        "heroes_id": [
+            "mirana",
+            "meepo"
+        ],
+        "winrate": "0.5417"
+    },
+    {
+        "heroes_id": [
+            "bounty-hunter",
+            "lina"
+        ],
+        "winrate": "0.4028"
+    },
+    {
+        "heroes_id": [
+            "oracle",
+            "faceless-void"
+        ],
+        "winrate": "0.5072"
+    },
+    {
+        "heroes_id": [
+            "timbersaw",
+            "crystal-maiden"
+        ],
+        "winrate": "0.4684"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "timbersaw"
+        ],
+        "winrate": "0.4737"
+    },
+    {
+        "heroes_id": [
+            "winter-wyvern",
+            "lifestealer"
+        ],
+        "winrate": "0.5645"
+    },
+    {
+        "heroes_id": [
+            "treant-protector",
+            "lifestealer"
+        ],
+        "winrate": "0.5443"
+    },
+    {
+        "heroes_id": [
+            "monkey-king",
+            "skywrath-mage"
+        ],
+        "winrate": "0.5069"
+    },
+    {
+        "heroes_id": [
+            "lion",
+            "tiny"
+        ],
+        "winrate": "0.4121"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "naga-siren"
+        ],
+        "winrate": "0.4828"
+    },
+    {
+        "heroes_id": [
+            "zeus",
+            "lina"
+        ],
+        "winrate": "0.5446"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "morphling"
+        ],
+        "winrate": "0.3077"
+    },
+    {
+        "heroes_id": [
+            "bristleback",
+            "lina"
+        ],
+        "winrate": "0.5377"
+    },
+    {
+        "heroes_id": [
+            "bristleback",
+            "tiny"
+        ],
+        "winrate": "0.3175"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "storm-spirit"
+        ],
+        "winrate": "0.4091"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "spectre"
+        ],
+        "winrate": "0.427"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "skywrath-mage"
+        ],
+        "winrate": "0.424"
+    },
+    {
+        "heroes_id": [
+            "pangolier",
+            "storm-spirit"
+        ],
+        "winrate": "0.463"
+    },
+    {
+        "heroes_id": [
+            "skywrath-mage",
+            "spectre"
+        ],
+        "winrate": "0.5091"
+    },
+    {
+        "heroes_id": [
+            "ancient-apparition",
+            "kunkka"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "ancient-apparition",
+            "faceless-void"
+        ],
+        "winrate": "0.4872"
+    },
+    {
+        "heroes_id": [
+            "crystal-maiden",
+            "shadow-fiend"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "riki",
+            "windranger"
+        ],
+        "winrate": "0.5263"
+    },
+    {
+        "heroes_id": [
+            "riki",
+            "ember-spirit"
+        ],
+        "winrate": "0.5645"
+    },
+    {
+        "heroes_id": [
+            "riki",
+            "earthshaker"
+        ],
+        "winrate": "0.5806"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "windranger"
+        ],
+        "winrate": "0.535"
+    },
+    {
+        "heroes_id": [
+            "wraith-king",
+            "phoenix"
+        ],
+        "winrate": "0.4655"
+    },
+    {
+        "heroes_id": [
+            "dark-willow",
+            "invoker"
+        ],
+        "winrate": "0.5493"
+    },
+    {
+        "heroes_id": [
+            "ancient-apparition",
+            "invoker"
+        ],
+        "winrate": "0.475"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "viper"
+        ],
+        "winrate": "0.5185"
+    },
+    {
+        "heroes_id": [
+            "viper",
+            "bounty-hunter"
+        ],
+        "winrate": "0.6667"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "bounty-hunter"
+        ],
+        "winrate": "0.4314"
+    },
+    {
+        "heroes_id": [
+            "axe",
+            "phantom-assassin"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "phantom-assassin",
+            "mirana"
+        ],
+        "winrate": "0.5549"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "puck"
+        ],
+        "winrate": "0.5536"
+    },
+    {
+        "heroes_id": [
+            "crystal-maiden",
+            "morphling"
+        ],
+        "winrate": "0.4314"
+    },
+    {
+        "heroes_id": [
+            "crystal-maiden",
+            "puck"
+        ],
+        "winrate": "0.451"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "winter-wyvern"
+        ],
+        "winrate": "0.6848"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "bane"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "zeus",
+            "mirana"
+        ],
+        "winrate": "0.5896"
+    },
+    {
+        "heroes_id": [
+            "timbersaw",
+            "lion"
+        ],
+        "winrate": "0.4182"
+    },
+    {
+        "heroes_id": [
+            "timbersaw",
+            "mirana"
+        ],
+        "winrate": "0.5208"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "keeper-of-the-light"
+        ],
+        "winrate": "0.5467"
+    },
+    {
+        "heroes_id": [
+            "kunkka",
+            "spectre"
+        ],
+        "winrate": "0.4096"
+    },
+    {
+        "heroes_id": [
+            "kunkka",
+            "spirit-breaker"
+        ],
+        "winrate": "0.5091"
+    },
+    {
+        "heroes_id": [
+            "templar-assassin",
+            "tiny"
+        ],
+        "winrate": "0.48"
+    },
+    {
+        "heroes_id": [
+            "witch-doctor",
+            "faceless-void"
+        ],
+        "winrate": "0.5354"
+    },
+    {
+        "heroes_id": [
+            "sand-king",
+            "witch-doctor"
+        ],
+        "winrate": "0.4516"
+    },
+    {
+        "heroes_id": [
+            "timbersaw",
+            "faceless-void"
+        ],
+        "winrate": "0.493"
+    },
+    {
+        "heroes_id": [
+            "tinker",
+            "faceless-void"
+        ],
+        "winrate": "0.4211"
+    },
+    {
+        "heroes_id": [
+            "techies",
+            "faceless-void"
+        ],
+        "winrate": "0.5294"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "juggernaut"
+        ],
+        "winrate": "0.5212"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "huskar"
+        ],
+        "winrate": "0.4921"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "treant-protector"
+        ],
+        "winrate": "0.5875"
+    },
+    {
+        "heroes_id": [
+            "pangolier",
+            "mirana"
+        ],
+        "winrate": "0.5776"
+    },
+    {
+        "heroes_id": [
+            "outworld-devourer",
+            "dazzle"
+        ],
+        "winrate": "0.5536"
+    },
+    {
+        "heroes_id": [
+            "abaddon",
+            "kunkka"
+        ],
+        "winrate": "0.6379"
+    },
+    {
+        "heroes_id": [
+            "zeus",
+            "windranger"
+        ],
+        "winrate": "0.5082"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "necrophos"
+        ],
+        "winrate": "0.4074"
+    },
+    {
+        "heroes_id": [
+            "storm-spirit",
+            "lifestealer"
+        ],
+        "winrate": "0.4711"
+    },
+    {
+        "heroes_id": [
+            "techies",
+            "invoker"
+        ],
+        "winrate": "0.5224"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "techies"
+        ],
+        "winrate": "0.5441"
+    },
+    {
+        "heroes_id": [
+            "lion",
+            "naga-siren"
+        ],
+        "winrate": "0.5915"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "naga-siren"
+        ],
+        "winrate": "0.5556"
+    },
+    {
+        "heroes_id": [
+            "pangolier",
+            "windranger"
+        ],
+        "winrate": "0.5119"
+    },
+    {
+        "heroes_id": [
+            "bounty-hunter",
+            "wraith-king"
+        ],
+        "winrate": "0.4648"
+    },
+    {
+        "heroes_id": [
+            "bounty-hunter",
+            "witch-doctor"
+        ],
+        "winrate": "0.46"
+    },
+    {
+        "heroes_id": [
+            "axe",
+            "ogre-magi"
+        ],
+        "winrate": "0.562"
+    },
+    {
+        "heroes_id": [
+            "axe",
+            "storm-spirit"
+        ],
+        "winrate": "0.4"
+    },
+    {
+        "heroes_id": [
+            "storm-spirit",
+            "ogre-magi"
+        ],
+        "winrate": "0.5234"
+    },
+    {
+        "heroes_id": [
+            "storm-spirit",
+            "wraith-king"
+        ],
+        "winrate": "0.4198"
+    },
+    {
+        "heroes_id": [
+            "pangolier",
+            "earthshaker"
+        ],
+        "winrate": "0.4658"
+    },
+    {
+        "heroes_id": [
+            "dark-willow",
+            "mirana"
+        ],
+        "winrate": "0.45"
+    },
+    {
+        "heroes_id": [
+            "axe",
+            "silencer"
+        ],
+        "winrate": "0.3939"
+    },
+    {
+        "heroes_id": [
+            "kunkka",
+            "silencer"
+        ],
+        "winrate": "0.4848"
+    },
+    {
+        "heroes_id": [
+            "dazzle",
+            "ember-spirit"
+        ],
+        "winrate": "0.4731"
+    },
+    {
+        "heroes_id": [
+            "earth-spirit",
+            "slark"
+        ],
+        "winrate": "0.3051"
+    },
+    {
+        "heroes_id": [
+            "monkey-king",
+            "bounty-hunter"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "kunkka",
+            "invoker"
+        ],
+        "winrate": "0.4729"
+    },
+    {
+        "heroes_id": [
+            "juggernaut",
+            "necrophos"
+        ],
+        "winrate": "0.3906"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "necrophos"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "zeus",
+            "keeper-of-the-light"
+        ],
+        "winrate": "0.5849"
+    },
+    {
+        "heroes_id": [
+            "axe",
+            "faceless-void"
+        ],
+        "winrate": "0.541"
+    },
+    {
+        "heroes_id": [
+            "zeus",
+            "axe"
+        ],
+        "winrate": "0.5842"
+    },
+    {
+        "heroes_id": [
+            "alchemist",
+            "windranger"
+        ],
+        "winrate": "0.4561"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "legion-commander"
+        ],
+        "winrate": "0.5341"
+    },
+    {
+        "heroes_id": [
+            "spectre",
+            "invoker"
+        ],
+        "winrate": "0.45"
+    },
+    {
+        "heroes_id": [
+            "invoker",
+            "silencer"
+        ],
+        "winrate": "0.4737"
+    },
+    {
+        "heroes_id": [
+            "zeus",
+            "silencer"
+        ],
+        "winrate": "0.5862"
+    },
+    {
+        "heroes_id": [
+            "sand-king",
+            "anti-mage"
+        ],
+        "winrate": "0.6032"
+    },
+    {
+        "heroes_id": [
+            "lion",
+            "anti-mage"
+        ],
+        "winrate": "0.5639"
+    },
+    {
+        "heroes_id": [
+            "lifestealer",
+            "oracle"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "shadow-shaman",
+            "drow-ranger"
+        ],
+        "winrate": "0.5286"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "shadow-shaman"
+        ],
+        "winrate": "0.5294"
+    },
+    {
+        "heroes_id": [
+            "warlock",
+            "sand-king"
+        ],
+        "winrate": "0.6333"
+    },
+    {
+        "heroes_id": [
+            "bristleback",
+            "monkey-king"
+        ],
+        "winrate": "0.3924"
+    },
+    {
+        "heroes_id": [
+            "zeus",
+            "jakiro"
+        ],
+        "winrate": "0.5294"
+    },
+    {
+        "heroes_id": [
+            "pangolier",
+            "shadow-shaman"
+        ],
+        "winrate": "0.5341"
+    },
+    {
+        "heroes_id": [
+            "pangolier",
+            "tinker"
+        ],
+        "winrate": "0.4444"
+    },
+    {
+        "heroes_id": [
+            "phoenix",
+            "lifestealer"
+        ],
+        "winrate": "0.4634"
+    },
+    {
+        "heroes_id": [
+            "crystal-maiden",
+            "spectre"
+        ],
+        "winrate": "0.5303"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "shadow-demon"
+        ],
+        "winrate": "0.56"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "drow-ranger"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "sven",
+            "kunkka"
+        ],
+        "winrate": "0.5156"
+    },
+    {
+        "heroes_id": [
+            "pangolier",
+            "phantom-assassin"
+        ],
+        "winrate": "0.4833"
+    },
+    {
+        "heroes_id": [
+            "queen-of-pain",
+            "faceless-void"
+        ],
+        "winrate": "0.4194"
+    },
+    {
+        "heroes_id": [
+            "queen-of-pain",
+            "grimstroke"
+        ],
+        "winrate": "0.3585"
+    },
+    {
+        "heroes_id": [
+            "luna",
+            "rubick"
+        ],
+        "winrate": "0.3774"
+    },
+    {
+        "heroes_id": [
+            "juggernaut",
+            "puck"
+        ],
+        "winrate": "0.4364"
+    },
+    {
+        "heroes_id": [
+            "puck",
+            "lion"
+        ],
+        "winrate": "0.4286"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "bounty-hunter"
+        ],
+        "winrate": "0.5625"
+    },
+    {
+        "heroes_id": [
+            "crystal-maiden",
+            "bounty-hunter"
+        ],
+        "winrate": "0.5663"
+    },
+    {
+        "heroes_id": [
+            "ember-spirit",
+            "winter-wyvern"
+        ],
+        "winrate": "0.5849"
+    },
+    {
+        "heroes_id": [
+            "bounty-hunter",
+            "lifestealer"
+        ],
+        "winrate": "0.5604"
+    },
+    {
+        "heroes_id": [
+            "queen-of-pain",
+            "night-stalker"
+        ],
+        "winrate": "0.4945"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "phantom-assassin"
+        ],
+        "winrate": "0.5312"
+    },
+    {
+        "heroes_id": [
+            "witch-doctor",
+            "invoker"
+        ],
+        "winrate": "0.4963"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "winter-wyvern"
+        ],
+        "winrate": "0.6119"
+    },
+    {
+        "heroes_id": [
+            "mirana",
+            "winter-wyvern"
+        ],
+        "winrate": "0.5443"
+    },
+    {
+        "heroes_id": [
+            "crystal-maiden",
+            "ogre-magi"
+        ],
+        "winrate": "0.5481"
+    },
+    {
+        "heroes_id": [
+            "tinker",
+            "lion"
+        ],
+        "winrate": "0.4383"
+    },
+    {
+        "heroes_id": [
+            "templar-assassin",
+            "faceless-void"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "weaver"
+        ],
+        "winrate": "0.6125"
+    },
+    {
+        "heroes_id": [
+            "mars",
+            "slark"
+        ],
+        "winrate": "0.4054"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "mars"
+        ],
+        "winrate": "0.4783"
+    },
+    {
+        "heroes_id": [
+            "grimstroke",
+            "lifestealer"
+        ],
+        "winrate": "0.4032"
+    },
+    {
+        "heroes_id": [
+            "grimstroke",
+            "pugna"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "pugna",
+            "lifestealer"
+        ],
+        "winrate": "0.5091"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "templar-assassin"
+        ],
+        "winrate": "0.625"
+    },
+    {
+        "heroes_id": [
+            "mirana",
+            "keeper-of-the-light"
+        ],
+        "winrate": "0.5882"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "keeper-of-the-light"
+        ],
+        "winrate": "0.5785"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "phantom-lancer"
+        ],
+        "winrate": "0.5075"
+    },
+    {
+        "heroes_id": [
+            "tinker",
+            "silencer"
+        ],
+        "winrate": "0.4118"
+    },
+    {
+        "heroes_id": [
+            "lina",
+            "shadow-demon"
+        ],
+        "winrate": "0.3276"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "storm-spirit"
+        ],
+        "winrate": "0.4495"
+    },
+    {
+        "heroes_id": [
+            "spectre",
+            "ogre-magi"
+        ],
+        "winrate": "0.5111"
+    },
+    {
+        "heroes_id": [
+            "storm-spirit",
+            "kunkka"
+        ],
+        "winrate": "0.5686"
+    },
+    {
+        "heroes_id": [
+            "mirana",
+            "clinkz"
+        ],
+        "winrate": "0.3692"
+    },
+    {
+        "heroes_id": [
+            "timbersaw",
+            "monkey-king"
+        ],
+        "winrate": "0.4211"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "silencer"
+        ],
+        "winrate": "0.563"
+    },
+    {
+        "heroes_id": [
+            "juggernaut",
+            "silencer"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "silencer",
+            "ogre-magi"
+        ],
+        "winrate": "0.4268"
+    },
+    {
+        "heroes_id": [
+            "gyrocopter",
+            "monkey-king"
+        ],
+        "winrate": "0.5075"
+    },
+    {
+        "heroes_id": [
+            "timbersaw",
+            "ogre-magi"
+        ],
+        "winrate": "0.4286"
+    },
+    {
+        "heroes_id": [
+            "queen-of-pain",
+            "tiny"
+        ],
+        "winrate": "0.3704"
+    },
+    {
+        "heroes_id": [
+            "tiny",
+            "lifestealer"
+        ],
+        "winrate": "0.4218"
+    },
+    {
+        "heroes_id": [
+            "skywrath-mage",
+            "silencer"
+        ],
+        "winrate": "0.4138"
+    },
+    {
+        "heroes_id": [
+            "keeper-of-the-light",
+            "lifestealer"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "riki",
+            "slark"
+        ],
+        "winrate": "0.5652"
+    },
+    {
+        "heroes_id": [
+            "bristleback",
+            "outworld-devourer"
+        ],
+        "winrate": "0.3803"
+    },
+    {
+        "heroes_id": [
+            "mirana",
+            "arc-warden"
+        ],
+        "winrate": "0.4706"
+    },
+    {
+        "heroes_id": [
+            "bristleback",
+            "crystal-maiden"
+        ],
+        "winrate": "0.4928"
+    },
+    {
+        "heroes_id": [
+            "phoenix",
+            "witch-doctor"
+        ],
+        "winrate": "0.549"
+    },
+    {
+        "heroes_id": [
+            "phantom-lancer",
+            "kunkka"
+        ],
+        "winrate": "0.56"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "clockwerk"
+        ],
+        "winrate": "0.5732"
+    },
+    {
+        "heroes_id": [
+            "sven",
+            "invoker"
+        ],
+        "winrate": "0.407"
+    },
+    {
+        "heroes_id": [
+            "sven",
+            "ogre-magi"
+        ],
+        "winrate": "0.4603"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "underlord"
+        ],
+        "winrate": "0.6133"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "skywrath-mage"
+        ],
+        "winrate": "0.4453"
+    },
+    {
+        "heroes_id": [
+            "undying",
+            "rubick"
+        ],
+        "winrate": "0.451"
+    },
+    {
+        "heroes_id": [
+            "sand-king",
+            "monkey-king"
+        ],
+        "winrate": "0.5397"
+    },
+    {
+        "heroes_id": [
+            "monkey-king",
+            "winter-wyvern"
+        ],
+        "winrate": "0.42"
+    },
+    {
+        "heroes_id": [
+            "outworld-devourer",
+            "disruptor"
+        ],
+        "winrate": "0.4545"
+    },
+    {
+        "heroes_id": [
+            "tidehunter",
+            "ogre-magi"
+        ],
+        "winrate": "0.5143"
+    },
+    {
+        "heroes_id": [
+            "pugna",
+            "ogre-magi"
+        ],
+        "winrate": "0.4722"
+    },
+    {
+        "heroes_id": [
+            "leshrac",
+            "ogre-magi"
+        ],
+        "winrate": "0.5362"
+    },
+    {
+        "heroes_id": [
+            "dazzle",
+            "slark"
+        ],
+        "winrate": "0.5504"
+    },
+    {
+        "heroes_id": [
+            "axe",
+            "windranger"
+        ],
+        "winrate": "0.5773"
+    },
+    {
+        "heroes_id": [
+            "tusk",
+            "lifestealer"
+        ],
+        "winrate": "0.4493"
+    },
+    {
+        "heroes_id": [
+            "leshrac",
+            "crystal-maiden"
+        ],
+        "winrate": "0.52"
+    },
+    {
+        "heroes_id": [
+            "bristleback",
+            "witch-doctor"
+        ],
+        "winrate": "0.4677"
+    },
+    {
+        "heroes_id": [
+            "tinker",
+            "ogre-magi"
+        ],
+        "winrate": "0.5159"
+    },
+    {
+        "heroes_id": [
+            "phantom-assassin",
+            "ember-spirit"
+        ],
+        "winrate": "0.4938"
+    },
+    {
+        "heroes_id": [
+            "drow-ranger",
+            "lina"
+        ],
+        "winrate": "0.5467"
+    },
+    {
+        "heroes_id": [
+            "centaur-warrunner",
+            "lina"
+        ],
+        "winrate": "0.4407"
+    },
+    {
+        "heroes_id": [
+            "ancient-apparition",
+            "gyrocopter"
+        ],
+        "winrate": "0.4815"
+    },
+    {
+        "heroes_id": [
+            "outworld-devourer",
+            "witch-doctor"
+        ],
+        "winrate": "0.6282"
+    },
+    {
+        "heroes_id": [
+            "kunkka",
+            "witch-doctor"
+        ],
+        "winrate": "0.506"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "tiny"
+        ],
+        "winrate": "0.4755"
+    },
+    {
+        "heroes_id": [
+            "shadow-shaman",
+            "tiny"
+        ],
+        "winrate": "0.4959"
+    },
+    {
+        "heroes_id": [
+            "lion",
+            "silencer"
+        ],
+        "winrate": "0.5833"
+    },
+    {
+        "heroes_id": [
+            "dazzle",
+            "lifestealer"
+        ],
+        "winrate": "0.5222"
+    },
+    {
+        "heroes_id": [
+            "warlock",
+            "spectre"
+        ],
+        "winrate": "0.4528"
+    },
+    {
+        "heroes_id": [
+            "ember-spirit",
+            "spectre"
+        ],
+        "winrate": "0.5686"
+    },
+    {
+        "heroes_id": [
+            "dazzle",
+            "tinker"
+        ],
+        "winrate": "0.5342"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "silencer"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "lich"
+        ],
+        "winrate": "0.4681"
+    },
+    {
+        "heroes_id": [
+            "earth-spirit",
+            "lifestealer"
+        ],
+        "winrate": "0.5862"
+    },
+    {
+        "heroes_id": [
+            "axe",
+            "jakiro"
+        ],
+        "winrate": "0.5432"
+    },
+    {
+        "heroes_id": [
+            "axe",
+            "drow-ranger"
+        ],
+        "winrate": "0.549"
+    },
+    {
+        "heroes_id": [
+            "shadow-shaman",
+            "ursa"
+        ],
+        "winrate": "0.6066"
+    },
+    {
+        "heroes_id": [
+            "phantom-lancer",
+            "ogre-magi"
+        ],
+        "winrate": "0.5385"
+    },
+    {
+        "heroes_id": [
+            "crystal-maiden",
+            "viper"
+        ],
+        "winrate": "0.5641"
+    },
+    {
+        "heroes_id": [
+            "skywrath-mage",
+            "anti-mage"
+        ],
+        "winrate": "0.5323"
+    },
+    {
+        "heroes_id": [
+            "luna",
+            "windranger"
+        ],
+        "winrate": "0.6471"
+    },
+    {
+        "heroes_id": [
+            "mirana",
+            "sniper"
+        ],
+        "winrate": "0.3521"
+    },
+    {
+        "heroes_id": [
+            "axe",
+            "monkey-king"
+        ],
+        "winrate": "0.5463"
+    },
+    {
+        "heroes_id": [
+            "outworld-devourer",
+            "bounty-hunter"
+        ],
+        "winrate": "0.4375"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "spectre"
+        ],
+        "winrate": "0.4875"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "venomancer"
+        ],
+        "winrate": "0.6379"
+    },
+    {
+        "heroes_id": [
+            "huskar",
+            "faceless-void"
+        ],
+        "winrate": "0.4231"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "huskar"
+        ],
+        "winrate": "0.5408"
+    },
+    {
+        "heroes_id": [
+            "luna",
+            "lina"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "venomancer"
+        ],
+        "winrate": "0.5735"
+    },
+    {
+        "heroes_id": [
+            "bristleback",
+            "jakiro"
+        ],
+        "winrate": "0.381"
+    },
+    {
+        "heroes_id": [
+            "lina",
+            "jakiro"
+        ],
+        "winrate": "0.464"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "ember-spirit"
+        ],
+        "winrate": "0.5598"
+    },
+    {
+        "heroes_id": [
+            "luna",
+            "night-stalker"
+        ],
+        "winrate": "0.62"
+    },
+    {
+        "heroes_id": [
+            "bounty-hunter",
+            "ogre-magi"
+        ],
+        "winrate": "0.4889"
+    },
+    {
+        "heroes_id": [
+            "templar-assassin",
+            "crystal-maiden"
+        ],
+        "winrate": "0.6"
+    },
+    {
+        "heroes_id": [
+            "monkey-king",
+            "witch-doctor"
+        ],
+        "winrate": "0.4176"
+    },
+    {
+        "heroes_id": [
+            "outworld-devourer",
+            "tiny"
+        ],
+        "winrate": "0.4796"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "dazzle"
+        ],
+        "winrate": "0.4719"
+    },
+    {
+        "heroes_id": [
+            "underlord",
+            "invoker"
+        ],
+        "winrate": "0.5238"
+    },
+    {
+        "heroes_id": [
+            "underlord",
+            "slark"
+        ],
+        "winrate": "0.5686"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "bloodseeker"
+        ],
+        "winrate": "0.625"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "bloodseeker"
+        ],
+        "winrate": "0.5588"
+    },
+    {
+        "heroes_id": [
+            "pugna",
+            "lion"
+        ],
+        "winrate": "0.4571"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "vengeful-spirit"
+        ],
+        "winrate": "0.55"
+    },
+    {
+        "heroes_id": [
+            "queen-of-pain",
+            "ogre-magi"
+        ],
+        "winrate": "0.5161"
+    },
+    {
+        "heroes_id": [
+            "viper",
+            "mirana"
+        ],
+        "winrate": "0.5865"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "oracle"
+        ],
+        "winrate": "0.5147"
+    },
+    {
+        "heroes_id": [
+            "gyrocopter",
+            "windranger"
+        ],
+        "winrate": "0.535"
+    },
+    {
+        "heroes_id": [
+            "gyrocopter",
+            "underlord"
+        ],
+        "winrate": "0.6182"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "abaddon"
+        ],
+        "winrate": "0.5735"
+    },
+    {
+        "heroes_id": [
+            "juggernaut",
+            "bounty-hunter"
+        ],
+        "winrate": "0.4771"
+    },
+    {
+        "heroes_id": [
+            "queen-of-pain",
+            "slark"
+        ],
+        "winrate": "0.4574"
+    },
+    {
+        "heroes_id": [
+            "queen-of-pain",
+            "mirana"
+        ],
+        "winrate": "0.4737"
+    },
+    {
+        "heroes_id": [
+            "queen-of-pain",
+            "sand-king"
+        ],
+        "winrate": "0.4375"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "bloodseeker"
+        ],
+        "winrate": "0.3443"
+    },
+    {
+        "heroes_id": [
+            "lion",
+            "huskar"
+        ],
+        "winrate": "0.4844"
+    },
+    {
+        "heroes_id": [
+            "undying",
+            "lion"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "treant-protector"
+        ],
+        "winrate": "0.5152"
+    },
+    {
+        "heroes_id": [
+            "slark",
+            "meepo"
+        ],
+        "winrate": "0.65"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "spectre"
+        ],
+        "winrate": "0.5556"
+    },
+    {
+        "heroes_id": [
+            "earth-spirit",
+            "invoker"
+        ],
+        "winrate": "0.5686"
+    },
+    {
+        "heroes_id": [
+            "tiny",
+            "ursa"
+        ],
+        "winrate": "0.4444"
+    },
+    {
+        "heroes_id": [
+            "underlord",
+            "mirana"
+        ],
+        "winrate": "0.5143"
+    },
+    {
+        "heroes_id": [
+            "zeus",
+            "slardar"
+        ],
+        "winrate": "0.5172"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "keeper-of-the-light"
+        ],
+        "winrate": "0.4714"
+    },
+    {
+        "heroes_id": [
+            "gyrocopter",
+            "tiny"
+        ],
+        "winrate": "0.418"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "gyrocopter"
+        ],
+        "winrate": "0.4341"
+    },
+    {
+        "heroes_id": [
+            "tiny",
+            "techies"
+        ],
+        "winrate": "0.3793"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "windranger"
+        ],
+        "winrate": "0.5618"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "dark-willow"
+        ],
+        "winrate": "0.4231"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "dark-willow"
+        ],
+        "winrate": "0.5915"
+    },
+    {
+        "heroes_id": [
+            "juggernaut",
+            "pugna"
+        ],
+        "winrate": "0.4861"
+    },
+    {
+        "heroes_id": [
+            "dark-willow",
+            "faceless-void"
+        ],
+        "winrate": "0.5362"
+    },
+    {
+        "heroes_id": [
+            "underlord",
+            "faceless-void"
+        ],
+        "winrate": "0.5652"
+    },
+    {
+        "heroes_id": [
+            "magnus",
+            "invoker"
+        ],
+        "winrate": "0.5818"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "skywrath-mage"
+        ],
+        "winrate": "0.5476"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "riki"
+        ],
+        "winrate": "0.58"
+    },
+    {
+        "heroes_id": [
+            "lich",
+            "ember-spirit"
+        ],
+        "winrate": "0.4"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "meepo"
+        ],
+        "winrate": "0.4667"
+    },
+    {
+        "heroes_id": [
+            "axe",
+            "tinker"
+        ],
+        "winrate": "0.5217"
+    },
+    {
+        "heroes_id": [
+            "winter-wyvern",
+            "invoker"
+        ],
+        "winrate": "0.4426"
+    },
+    {
+        "heroes_id": [
+            "queen-of-pain",
+            "axe"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "riki",
+            "lion"
+        ],
+        "winrate": "0.5275"
+    },
+    {
+        "heroes_id": [
+            "mars",
+            "kunkka"
+        ],
+        "winrate": "0.54"
+    },
+    {
+        "heroes_id": [
+            "magnus",
+            "lion"
+        ],
+        "winrate": "0.3529"
+    },
+    {
+        "heroes_id": [
+            "earth-spirit",
+            "juggernaut"
+        ],
+        "winrate": "0.3654"
+    },
+    {
+        "heroes_id": [
+            "skywrath-mage",
+            "jakiro"
+        ],
+        "winrate": "0.5694"
+    },
+    {
+        "heroes_id": [
+            "legion-commander",
+            "jakiro"
+        ],
+        "winrate": "0.4831"
+    },
+    {
+        "heroes_id": [
+            "centaur-warrunner",
+            "lion"
+        ],
+        "winrate": "0.3766"
+    },
+    {
+        "heroes_id": [
+            "warlock",
+            "kunkka"
+        ],
+        "winrate": "0.4487"
+    },
+    {
+        "heroes_id": [
+            "tinker",
+            "bounty-hunter"
+        ],
+        "winrate": "0.5714"
+    },
+    {
+        "heroes_id": [
+            "juggernaut",
+            "monkey-king"
+        ],
+        "winrate": "0.48"
+    },
+    {
+        "heroes_id": [
+            "pangolier",
+            "gyrocopter"
+        ],
+        "winrate": "0.5079"
+    },
+    {
+        "heroes_id": [
+            "mirana",
+            "bounty-hunter"
+        ],
+        "winrate": "0.5122"
+    },
+    {
+        "heroes_id": [
+            "clinkz",
+            "lina"
+        ],
+        "winrate": "0.52"
+    },
+    {
+        "heroes_id": [
+            "slark",
+            "winter-wyvern"
+        ],
+        "winrate": "0.4211"
+    },
+    {
+        "heroes_id": [
+            "gyrocopter",
+            "keeper-of-the-light"
+        ],
+        "winrate": "0.4667"
+    },
+    {
+        "heroes_id": [
+            "sven",
+            "lion"
+        ],
+        "winrate": "0.4507"
+    },
+    {
+        "heroes_id": [
+            "undying",
+            "windranger"
+        ],
+        "winrate": "0.5614"
+    },
+    {
+        "heroes_id": [
+            "monkey-king",
+            "tusk"
+        ],
+        "winrate": "0.4118"
+    },
+    {
+        "heroes_id": [
+            "lion",
+            "treant-protector"
+        ],
+        "winrate": "0.5385"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "abaddon"
+        ],
+        "winrate": "0.6415"
+    },
+    {
+        "heroes_id": [
+            "phantom-assassin",
+            "shadow-demon"
+        ],
+        "winrate": "0.38"
+    },
+    {
+        "heroes_id": [
+            "slark",
+            "keeper-of-the-light"
+        ],
+        "winrate": "0.4659"
+    },
+    {
+        "heroes_id": [
+            "puck",
+            "mirana"
+        ],
+        "winrate": "0.6176"
+    },
+    {
+        "heroes_id": [
+            "juggernaut",
+            "oracle"
+        ],
+        "winrate": "0.4"
+    },
+    {
+        "heroes_id": [
+            "juggernaut",
+            "vengeful-spirit"
+        ],
+        "winrate": "0.4906"
+    },
+    {
+        "heroes_id": [
+            "axe",
+            "tiny"
+        ],
+        "winrate": "0.4533"
+    },
+    {
+        "heroes_id": [
+            "grimstroke",
+            "zeus"
+        ],
+        "winrate": "0.4776"
+    },
+    {
+        "heroes_id": [
+            "gyrocopter",
+            "zeus"
+        ],
+        "winrate": "0.5802"
+    },
+    {
+        "heroes_id": [
+            "warlock",
+            "outworld-devourer"
+        ],
+        "winrate": "0.4035"
+    },
+    {
+        "heroes_id": [
+            "lion",
+            "necrophos"
+        ],
+        "winrate": "0.4"
+    },
+    {
+        "heroes_id": [
+            "kunkka",
+            "clockwerk"
+        ],
+        "winrate": "0.5082"
+    },
+    {
+        "heroes_id": [
+            "shadow-demon",
+            "tiny"
+        ],
+        "winrate": "0.3582"
+    },
+    {
+        "heroes_id": [
+            "leshrac",
+            "tiny"
+        ],
+        "winrate": "0.4"
+    },
+    {
+        "heroes_id": [
+            "meepo",
+            "lifestealer"
+        ],
+        "winrate": "0.5294"
+    },
+    {
+        "heroes_id": [
+            "tinker",
+            "tiny"
+        ],
+        "winrate": "0.369"
+    },
+    {
+        "heroes_id": [
+            "sand-king",
+            "keeper-of-the-light"
+        ],
+        "winrate": "0.5882"
+    },
+    {
+        "heroes_id": [
+            "zeus",
+            "kunkka"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "bristleback",
+            "gyrocopter"
+        ],
+        "winrate": "0.4189"
+    },
+    {
+        "heroes_id": [
+            "shadow-shaman",
+            "viper"
+        ],
+        "winrate": "0.5373"
+    },
+    {
+        "heroes_id": [
+            "tidehunter",
+            "lifestealer"
+        ],
+        "winrate": "0.5946"
+    },
+    {
+        "heroes_id": [
+            "ancient-apparition",
+            "ember-spirit"
+        ],
+        "winrate": "0.4756"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "silencer"
+        ],
+        "winrate": "0.4719"
+    },
+    {
+        "heroes_id": [
+            "drow-ranger",
+            "silencer"
+        ],
+        "winrate": "0.4727"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "jakiro"
+        ],
+        "winrate": "0.5467"
+    },
+    {
+        "heroes_id": [
+            "crystal-maiden",
+            "centaur-warrunner"
+        ],
+        "winrate": "0.4058"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "naga-siren"
+        ],
+        "winrate": "0.3929"
+    },
+    {
+        "heroes_id": [
+            "alchemist",
+            "earthshaker"
+        ],
+        "winrate": "0.4"
+    },
+    {
+        "heroes_id": [
+            "crystal-maiden",
+            "ursa"
+        ],
+        "winrate": "0.5694"
+    },
+    {
+        "heroes_id": [
+            "phantom-assassin",
+            "jakiro"
+        ],
+        "winrate": "0.4272"
+    },
+    {
+        "heroes_id": [
+            "queen-of-pain",
+            "earthshaker"
+        ],
+        "winrate": "0.3736"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "sniper"
+        ],
+        "winrate": "0.4953"
+    },
+    {
+        "heroes_id": [
+            "zeus",
+            "bounty-hunter"
+        ],
+        "winrate": "0.6301"
+    },
+    {
+        "heroes_id": [
+            "slark",
+            "necrophos"
+        ],
+        "winrate": "0.403"
+    },
+    {
+        "heroes_id": [
+            "tinker",
+            "skywrath-mage"
+        ],
+        "winrate": "0.4464"
+    },
+    {
+        "heroes_id": [
+            "axe",
+            "dark-willow"
+        ],
+        "winrate": "0.5769"
+    },
+    {
+        "heroes_id": [
+            "shadow-fiend",
+            "lion"
+        ],
+        "winrate": "0.4583"
+    },
+    {
+        "heroes_id": [
+            "sand-king",
+            "shadow-fiend"
+        ],
+        "winrate": "0.4561"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "natures-prophet"
+        ],
+        "winrate": "0.5192"
+    },
+    {
+        "heroes_id": [
+            "monkey-king",
+            "jakiro"
+        ],
+        "winrate": "0.4898"
+    },
+    {
+        "heroes_id": [
+            "phantom-assassin",
+            "skywrath-mage"
+        ],
+        "winrate": "0.5395"
+    },
+    {
+        "heroes_id": [
+            "dazzle",
+            "skywrath-mage"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "shadow-shaman",
+            "ember-spirit"
+        ],
+        "winrate": "0.4874"
+    },
+    {
+        "heroes_id": [
+            "monkey-king",
+            "spirit-breaker"
+        ],
+        "winrate": "0.4032"
+    },
+    {
+        "heroes_id": [
+            "mirana",
+            "spectre"
+        ],
+        "winrate": "0.5517"
+    },
+    {
+        "heroes_id": [
+            "lina",
+            "necrophos"
+        ],
+        "winrate": "0.54"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "pugna"
+        ],
+        "winrate": "0.5606"
+    },
+    {
+        "heroes_id": [
+            "crystal-maiden",
+            "naga-siren"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "huskar"
+        ],
+        "winrate": "0.4815"
+    },
+    {
+        "heroes_id": [
+            "bristleback",
+            "bounty-hunter"
+        ],
+        "winrate": "0.5686"
+    },
+    {
+        "heroes_id": [
+            "grimstroke",
+            "bristleback"
+        ],
+        "winrate": "0.4583"
+    },
+    {
+        "heroes_id": [
+            "queen-of-pain",
+            "shadow-shaman"
+        ],
+        "winrate": "0.5345"
+    },
+    {
+        "heroes_id": [
+            "anti-mage",
+            "silencer"
+        ],
+        "winrate": "0.48"
+    },
+    {
+        "heroes_id": [
+            "sven",
+            "lina"
+        ],
+        "winrate": "0.4615"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "bane"
+        ],
+        "winrate": "0.4516"
+    },
+    {
+        "heroes_id": [
+            "outworld-devourer",
+            "invoker"
+        ],
+        "winrate": "0.5094"
+    },
+    {
+        "heroes_id": [
+            "lina",
+            "keeper-of-the-light"
+        ],
+        "winrate": "0.4737"
+    },
+    {
+        "heroes_id": [
+            "mirana",
+            "vengeful-spirit"
+        ],
+        "winrate": "0.5325"
+    },
+    {
+        "heroes_id": [
+            "invoker",
+            "vengeful-spirit"
+        ],
+        "winrate": "0.5342"
+    },
+    {
+        "heroes_id": [
+            "necrophos",
+            "invoker"
+        ],
+        "winrate": "0.4697"
+    },
+    {
+        "heroes_id": [
+            "underlord",
+            "crystal-maiden"
+        ],
+        "winrate": "0.5667"
+    },
+    {
+        "heroes_id": [
+            "windranger",
+            "winter-wyvern"
+        ],
+        "winrate": "0.5625"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "phoenix"
+        ],
+        "winrate": "0.4762"
+    },
+    {
+        "heroes_id": [
+            "gyrocopter",
+            "io"
+        ],
+        "winrate": "0.5932"
+    },
+    {
+        "heroes_id": [
+            "abaddon",
+            "storm-spirit"
+        ],
+        "winrate": "0.451"
+    },
+    {
+        "heroes_id": [
+            "storm-spirit",
+            "tiny"
+        ],
+        "winrate": "0.4651"
+    },
+    {
+        "heroes_id": [
+            "monkey-king",
+            "storm-spirit"
+        ],
+        "winrate": "0.35"
+    },
+    {
+        "heroes_id": [
+            "bristleback",
+            "anti-mage"
+        ],
+        "winrate": "0.44"
+    },
+    {
+        "heroes_id": [
+            "shadow-shaman",
+            "spectre"
+        ],
+        "winrate": "0.4182"
+    },
+    {
+        "heroes_id": [
+            "shadow-demon",
+            "legion-commander"
+        ],
+        "winrate": "0.4615"
+    },
+    {
+        "heroes_id": [
+            "viper",
+            "lifestealer"
+        ],
+        "winrate": "0.5325"
+    },
+    {
+        "heroes_id": [
+            "pugna",
+            "tiny"
+        ],
+        "winrate": "0.5094"
+    },
+    {
+        "heroes_id": [
+            "bristleback",
+            "keeper-of-the-light"
+        ],
+        "winrate": "0.4306"
+    },
+    {
+        "heroes_id": [
+            "legion-commander",
+            "keeper-of-the-light"
+        ],
+        "winrate": "0.6102"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "shadow-fiend"
+        ],
+        "winrate": "0.5714"
+    },
+    {
+        "heroes_id": [
+            "shadow-shaman",
+            "lion"
+        ],
+        "winrate": "0.4478"
+    },
+    {
+        "heroes_id": [
+            "lina",
+            "oracle"
+        ],
+        "winrate": "0.434"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "axe"
+        ],
+        "winrate": "0.5287"
+    },
+    {
+        "heroes_id": [
+            "tidehunter",
+            "monkey-king"
+        ],
+        "winrate": "0.5789"
+    },
+    {
+        "heroes_id": [
+            "venomancer",
+            "ogre-magi"
+        ],
+        "winrate": "0.451"
+    },
+    {
+        "heroes_id": [
+            "crystal-maiden",
+            "spirit-breaker"
+        ],
+        "winrate": "0.5263"
+    },
+    {
+        "heroes_id": [
+            "tinker",
+            "monkey-king"
+        ],
+        "winrate": "0.4783"
+    },
+    {
+        "heroes_id": [
+            "grimstroke",
+            "lich"
+        ],
+        "winrate": "0.5357"
+    },
+    {
+        "heroes_id": [
+            "phantom-assassin",
+            "silencer"
+        ],
+        "winrate": "0.6032"
+    },
+    {
+        "heroes_id": [
+            "sand-king",
+            "bounty-hunter"
+        ],
+        "winrate": "0.4815"
+    },
+    {
+        "heroes_id": [
+            "techies",
+            "ogre-magi"
+        ],
+        "winrate": "0.4576"
+    },
+    {
+        "heroes_id": [
+            "outworld-devourer",
+            "axe"
+        ],
+        "winrate": "0.5588"
+    },
+    {
+        "heroes_id": [
+            "lich",
+            "monkey-king"
+        ],
+        "winrate": "0.5156"
+    },
+    {
+        "heroes_id": [
+            "leshrac",
+            "invoker"
+        ],
+        "winrate": "0.4118"
+    },
+    {
+        "heroes_id": [
+            "ancient-apparition",
+            "lina"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "slardar",
+            "slark"
+        ],
+        "winrate": "0.4125"
+    },
+    {
+        "heroes_id": [
+            "sven",
+            "mirana"
+        ],
+        "winrate": "0.4658"
+    },
+    {
+        "heroes_id": [
+            "lina",
+            "ursa"
+        ],
+        "winrate": "0.5806"
+    },
+    {
+        "heroes_id": [
+            "warlock",
+            "wraith-king"
+        ],
+        "winrate": "0.6471"
+    },
+    {
+        "heroes_id": [
+            "templar-assassin",
+            "mirana"
+        ],
+        "winrate": "0.6"
+    },
+    {
+        "heroes_id": [
+            "ancient-apparition",
+            "earthshaker"
+        ],
+        "winrate": "0.4607"
+    },
+    {
+        "heroes_id": [
+            "monkey-king",
+            "techies"
+        ],
+        "winrate": "0.4423"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "chaos-knight"
+        ],
+        "winrate": "0.5543"
+    },
+    {
+        "heroes_id": [
+            "treant-protector",
+            "faceless-void"
+        ],
+        "winrate": "0.4923"
+    },
+    {
+        "heroes_id": [
+            "vengeful-spirit",
+            "faceless-void"
+        ],
+        "winrate": "0.4483"
+    },
+    {
+        "heroes_id": [
+            "clockwerk",
+            "ogre-magi"
+        ],
+        "winrate": "0.6226"
+    },
+    {
+        "heroes_id": [
+            "meepo",
+            "ogre-magi"
+        ],
+        "winrate": "0.4677"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "witch-doctor"
+        ],
+        "winrate": "0.4767"
+    },
+    {
+        "heroes_id": [
+            "kunkka",
+            "venomancer"
+        ],
+        "winrate": "0.5094"
+    },
+    {
+        "heroes_id": [
+            "silencer",
+            "lifestealer"
+        ],
+        "winrate": "0.4773"
+    },
+    {
+        "heroes_id": [
+            "queen-of-pain",
+            "monkey-king"
+        ],
+        "winrate": "0.4308"
+    },
+    {
+        "heroes_id": [
+            "chaos-knight",
+            "invoker"
+        ],
+        "winrate": "0.4833"
+    },
+    {
+        "heroes_id": [
+            "grimstroke",
+            "tinker"
+        ],
+        "winrate": "0.4512"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "lich"
+        ],
+        "winrate": "0.3725"
+    },
+    {
+        "heroes_id": [
+            "monkey-king",
+            "lifestealer"
+        ],
+        "winrate": "0.4359"
+    },
+    {
+        "heroes_id": [
+            "timbersaw",
+            "slark"
+        ],
+        "winrate": "0.425"
+    },
+    {
+        "heroes_id": [
+            "dazzle",
+            "ogre-magi"
+        ],
+        "winrate": "0.4805"
+    },
+    {
+        "heroes_id": [
+            "kunkka",
+            "keeper-of-the-light"
+        ],
+        "winrate": "0.4407"
+    },
+    {
+        "heroes_id": [
+            "mars",
+            "lina"
+        ],
+        "winrate": "0.3548"
+    },
+    {
+        "heroes_id": [
+            "enchantress",
+            "mirana"
+        ],
+        "winrate": "0.5238"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "bristleback"
+        ],
+        "winrate": "0.4051"
+    },
+    {
+        "heroes_id": [
+            "leshrac",
+            "faceless-void"
+        ],
+        "winrate": "0.3607"
+    },
+    {
+        "heroes_id": [
+            "zeus",
+            "abaddon"
+        ],
+        "winrate": "0.4643"
+    },
+    {
+        "heroes_id": [
+            "lina",
+            "treant-protector"
+        ],
+        "winrate": "0.5"
+    },
+    {
+        "heroes_id": [
+            "sand-king",
+            "silencer"
+        ],
+        "winrate": "0.5085"
+    },
+    {
+        "heroes_id": [
+            "vengeful-spirit",
+            "lifestealer"
+        ],
+        "winrate": "0.5556"
+    },
+    {
+        "heroes_id": [
+            "bristleback",
+            "silencer"
+        ],
+        "winrate": "0.4182"
+    },
+    {
+        "heroes_id": [
+            "timbersaw",
+            "lifestealer"
+        ],
+        "winrate": "0.4545"
+    },
+    {
+        "heroes_id": [
+            "pudge",
+            "troll-warlord"
+        ],
+        "winrate": "0.4286"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "viper"
+        ],
+        "winrate": "0.62"
+    },
+    {
+        "heroes_id": [
+            "dazzle",
+            "phantom-assassin"
+        ],
+        "winrate": "0.4545"
+    },
+    {
+        "heroes_id": [
+            "warlock",
+            "skywrath-mage"
+        ],
+        "winrate": "0.5636"
+    },
+    {
+        "heroes_id": [
+            "dazzle",
+            "tiny"
+        ],
+        "winrate": "0.5294"
+    },
+    {
+        "heroes_id": [
+            "disruptor",
+            "phantom-assassin"
+        ],
+        "winrate": "0.3793"
+    },
+    {
+        "heroes_id": [
+            "crystal-maiden",
+            "bloodseeker"
+        ],
+        "winrate": "0.6607"
+    },
+    {
+        "heroes_id": [
+            "bristleback",
+            "tinker"
+        ],
+        "winrate": "0.5077"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "sven"
+        ],
+        "winrate": "0.5217"
+    },
+    {
+        "heroes_id": [
+            "rubick",
+            "sniper"
+        ],
+        "winrate": "0.4912"
+    },
+    {
+        "heroes_id": [
+            "juggernaut",
+            "techies"
+        ],
+        "winrate": "0.4151"
+    },
+    {
+        "heroes_id": [
+            "abaddon",
+            "lifestealer"
+        ],
+        "winrate": "0.4648"
+    },
+    {
+        "heroes_id": [
+            "phantom-assassin",
+            "phoenix"
+        ],
+        "winrate": "0.5686"
+    },
+    {
+        "heroes_id": [
+            "leshrac",
+            "juggernaut"
+        ],
+        "winrate": "0.431"
+    },
+    {
+        "heroes_id": [
+            "disruptor",
+            "axe"
+        ],
+        "winrate": "0.5192"
+    },
+    {
+        "heroes_id": [
+            "mirana",
+            "lycan"
+        ],
+        "winrate": "0.6226"
+    },
+    {
+        "heroes_id": [
+            "lion",
+            "sniper"
+        ],
+        "winrate": "0.4762"
+    },
+    {
+        "heroes_id": [
+            "earthshaker",
+            "necrophos"
+        ],
+        "winrate": "0.5385"
+    },
+    {
+        "heroes_id": [
+            "slardar",
+            "mirana"
+        ],
+        "winrate": "0.5222"
+    },
+    {
+        "heroes_id": [
+            "disruptor",
+            "legion-commander"
+        ],
+        "winrate": "0.4035"
+    },
+    {
+        "heroes_id": [
+            "night-stalker",
+            "techies"
+        ],
+        "winrate": "0.4151"
+    }
+]
