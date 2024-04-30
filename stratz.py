@@ -33,7 +33,6 @@ def make_request(query):
         return response.json()
     else:
         # Print the error message
-        print(response.text)
         return None
 
 
@@ -151,7 +150,7 @@ def get_players_by_match_id(match_id):
         return radiant, dire, players
 
 
-def get_player_stats_in_match(match_id, player_id):
+def get_player_networth_in_match(match_id, player_id):
     # We will pull data about first 10 minutes of the match for player
     minute = 10
 
@@ -172,7 +171,7 @@ def get_player_stats_in_match(match_id, player_id):
     if response is None:
         return None
     else:
-        print(response)
+        return response['data']['match']['players'][0]['stats']['networthPerMinute'][minute]
 
 
 def get_player_rank_in_division(player_id):
@@ -191,7 +190,14 @@ def get_player_rank_in_division(player_id):
     if response is None:
         return None
     else:
-        return response['data']['player']['leaderboardRanks'][0]['rank']
+        try:
+            data = response['data']['player']['leaderboardRanks'][0]['rank']
+            if data is not None:
+                return data
+            else:
+                return -1
+        except IndexError:
+            return -1
 
 
 def get_player_number_of_matches_and_winrate(player_id):
@@ -232,5 +238,3 @@ def get_hero_by_id(hero_id):
         return None
     else:
         print(response)
-
-
