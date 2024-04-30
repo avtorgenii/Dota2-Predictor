@@ -81,8 +81,6 @@ def matches_proc(row):
     # Add new players to existing players file
     write_players_to_file(players)
 
-
-
     if radiant is not None and dire is not None:
         print(f"Downloading and parsing data for {match_id} finished")
 

@@ -149,3 +149,88 @@ def get_players_by_match_id(match_id):
                 dire.append({f"{player['steamAccountId']}": hero})
 
         return radiant, dire, players
+
+
+def get_player_stats_in_match(match_id, player_id):
+    # We will pull data about first 10 minutes of the match for player
+    minute = 10
+
+    query = f'''
+        {{
+            match(id: {match_id}) {{
+               players(steamAccountId: {player_id}) {{
+                    stats {{
+                        networthPerMinute
+                    }}
+               }}
+            }}
+        }}
+        '''
+
+    response = make_request(query)
+
+    if response is None:
+        return None
+    else:
+        print(response)
+
+
+def get_player_rank_in_division(player_id):
+    query = f'''
+            {{
+                player(steamAccountId: {player_id}) {{
+                    leaderboardRanks(skip: 0, take: 1){{
+                        rank
+                    }}
+                }}
+            }}
+            '''
+
+    response = make_request(query)
+
+    if response is None:
+        return None
+    else:
+        return response['data']['player']['leaderboardRanks'][0]['rank']
+
+
+def get_player_number_of_matches_and_winrate(player_id):
+    query = f'''
+                {{
+                    player(steamAccountId: {player_id}) {{
+                        matchCount,
+                        winCount
+                    }}
+                }}
+                '''
+
+    response = make_request(query)
+
+    if response is None:
+        return None
+    else:
+        num_matches = response['data']['player']['matchCount']
+        win_count = response['data']['player']['winCount']
+
+        return num_matches, round(win_count / num_matches, 3)
+
+
+def get_hero_by_id(hero_id):
+    query = f'''
+                    {{
+                    constants{{
+                        hero(id: {hero_id}, gameVersionId: 172, language: ENGLISH) {{
+                            displayName
+                        }}
+                        }}
+                    }}
+                    '''
+
+    response = make_request(query)
+
+    if response is None:
+        return None
+    else:
+        print(response)
+
+
