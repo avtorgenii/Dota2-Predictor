@@ -1,7 +1,5 @@
 import requests
 from bs4 import BeautifulSoup
-import time
-import random
 import json
 
 versions = ['7.30', '7.31', '7.32', '7.33', '7.34', '7.35']
@@ -39,49 +37,80 @@ headers = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36"
 }
 
-for version in versions:
-    counter_win_rates = []
-    for hero in heroes:
-        url = f"https://ru.dotabuff.com/heroes/{hero}/counters?date=patch_{version}"
 
-        response = requests.get(url, headers=headers)
+def download_counter_pick_winrates():
+    for version in versions:
+        counter_win_rates = []
+        for hero in heroes:
+            url = f"https://ru.dotabuff.com/heroes/{hero}/counters?date=patch_{version}"
 
-        # Check if the request was successful
-        if response.status_code == 200:
-            # Parse the HTML content of the page
-            soup = BeautifulSoup(response.content, "html.parser")
+            response = requests.get(url, headers=headers)
 
-            # Find all <td> elements with the data-value attribute
-            td_elements = soup.find_all("td", {"data-value": True})
+            # Check if the request was successful
+            if response.status_code == 200:
+                # Parse the HTML content of the page
+                soup = BeautifulSoup(response.content, "html.parser")
 
-            needed = td_elements[40:]
-            output = []
+                # Find all <td> elements with the data-value attribute
+                td_elements = soup.find_all("td", {"data-value": True})
 
-            # Extract the data-value attribute from each <td> element and print it
-            for td in needed:
-                data_value = td["data-value"]
-                output.append(data_value)
+                needed = td_elements[40:]
+                output = []
 
-            heroes_n_wr = {'Heroes': output[::4], 'WinRates': output[2::4]}
-            # print(heroes_n_wr)
+                # Extract the data-value attribute from each <td> element and print it
+                for td in needed:
+                    data_value = td["data-value"]
+                    output.append(data_value)
 
-            list_of_heroes_n_wr = [{f'{hero}': win_rate} for hero, win_rate in
-                                   zip(heroes_n_wr['Heroes'], heroes_n_wr['WinRates'])]
+                heroes_n_wr = {'Heroes': output[::4], 'WinRates': output[2::4]}
+                # print(heroes_n_wr)
 
-            list_of_heroes_n_wr = sorted(list_of_heroes_n_wr, key=lambda x: list(x.keys())[0])
+                list_of_heroes_n_wr = [{f'{hero}': win_rate} for hero, win_rate in
+                                       zip(heroes_n_wr['Heroes'], heroes_n_wr['WinRates'])]
 
-            counter_win_rates.append({f'{hero}': list_of_heroes_n_wr})
+                list_of_heroes_n_wr = sorted(list_of_heroes_n_wr, key=lambda x: list(x.keys())[0])
 
-            print(f"Downloading for {hero} done")
+                counter_win_rates.append({f'{hero}': list_of_heroes_n_wr})
+
+                print(f"Downloading for {hero} done")
 
 
 
+            else:
+                print("Failed to retrieve data from the website.")
+
+        with open(f'heroes_counter_winrates_{version}.json', 'w') as file:
+            json.dump(counter_win_rates, file, indent=4)
+
+
+def get_players_signatures(player_id):
+    url = f"https://ru.dotabuff.com/players/{player_id}"
+
+    response = requests.get(url, headers=headers)
+
+    if response.status_code == 200:
+        html_content = response.content
+        soup = BeautifulSoup(html_content, 'html.parser')
+
+        tags = soup.find_all('div', class_='r-none-mobile')
+
+        # Extracting only blocks with href inside
+        tags_with_a = [tag for tag in tags if tag.a]
+
+        # Pulling only 3 most played heroes
+        signatures = []
+
+        for tag in tags_with_a[:3]:
+            if tag.a:
+                hero_name = tag.a.text.replace(' ', '-').replace("'", "").lower()
+                signatures.append(hero_name)
+
+        if len(signatures) > 0:
+            return signatures
         else:
-            print("Failed to retrieve data from the website.")
+            print(f"Failed to retrieve SIGNATURES data from Dotabuff for {player_id}")
+        return None
 
-        # Introduce a random delay before making the next request
-        # delay = random.uniform(0, 1)  # Random delay between 0 to 1 seconds
-        # time.sleep(delay)
-
-    with open(f'heroes_counter_winrates_{version}.json', 'w') as file:
-        json.dump(counter_win_rates, file, indent=4)
+    else:
+        print(f"Failed to retrieve SIGNATURES data from Dotabuff for {player_id}")
+        return None

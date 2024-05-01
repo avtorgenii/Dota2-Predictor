@@ -1,4 +1,5 @@
 import requests
+from bs4 import BeautifulSoup
 
 # Query example
 """
@@ -167,8 +168,9 @@ def get_player_networth_in_match(match_id, player_id):
         '''
 
     response = make_request(query)
+    extracted = response['data']['match']['players'][0]['stats']['networthPerMinute'][minute]
 
-    if response is None:
+    if response is None or extracted is None:
         return None
     else:
         return response['data']['match']['players'][0]['stats']['networthPerMinute'][minute]
@@ -211,8 +213,9 @@ def get_player_number_of_matches_and_winrate(player_id):
                 '''
 
     response = make_request(query)
+    extracted = response['data']['player']['matchCount']
 
-    if response is None:
+    if response is None or extracted is None:
         return None
     else:
         num_matches = response['data']['player']['matchCount']
@@ -233,8 +236,13 @@ def get_hero_by_id(hero_id):
                     '''
 
     response = make_request(query)
+    extracted = response['data']['constants']['hero']
 
-    if response is None:
+    if response is None or extracted is None:
         return None
     else:
-        print(response)
+        return extracted
+
+
+
+
