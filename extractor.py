@@ -3,6 +3,7 @@ import json
 from datetime import datetime
 
 import stratz as st
+import dotabuff as db
 
 
 def csv_to_json(csv_file_path, json_file_path, prs):
@@ -110,9 +111,69 @@ def write_players_to_file(ids_and_players):
             data[player_id] = player_name
 
     with open("players.json", 'w') as file:
-        json.dump(data, file)
+        json.dump(data, file, indent=4)
+
+
+def complete_players_info():
+    # Example player sample:
+    """
+    {
+        "<player_id>": {
+            "Nickname": "Yatoro",
+            "MatchesAmount": 10000,
+            "Winrate": 56.8,
+            "DivisionRank": 27,
+            "Signatures": [
+                "storm-spirit",
+                "slark",
+                "juggernaut"
+            ]
+        }
+    }
+    """
+
+    with open("incomplete.json", 'r') as file:
+        try:
+            data = json.load(file)
+
+            ds = []
+            incomplete_players = {}
+
+            for player_id, player_nickname in data.items():
+                matches_amount, winrate = st.get_player_number_of_matches_and_winrate(player_id)
+                rank = db.get_player_rank_in_division(player_id)
+                signatures = db.get_players_signatures(player_id)
+
+                if None not in [matches_amount, winrate, rank, signatures]:
+                    d = {
+                        f"{player_id}": {
+                            "Nickname": f"{player_nickname}",
+                            "MatchesAmount": matches_amount,
+                            "Winrate": winrate,
+                            "DivisionRank": rank,
+                            "Signatures": signatures
+                        }
+                    }
+
+                    print(d)
+                    ds.append(d)
+                else:
+                    incomplete_players[f"{player_id}"] = player_nickname
+
+        except json.decoder.JSONDecodeError:
+            return
+
+    with open("players_info.json", 'w') as file:
+        json.dump(ds, file, indent=4)
+
+    return incomplete_players
 
 
 # csv_to_json('synergies.csv', 'synergies.json', synergy_proc)
 
-csv_to_json('test', 'matches.json', matches_proc)
+# csv_to_json('test', 'matches.json', matches_proc)
+
+incomplete = complete_players_info()
+
+print(incomplete)
+

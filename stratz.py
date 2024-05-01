@@ -176,6 +176,8 @@ def get_player_networth_in_match(match_id, player_id):
         return response['data']['match']['players'][0]['stats']['networthPerMinute'][minute]
 
 
+# Doesn't work for locked profiles - see same function in dotabuff.py
+"""
 def get_player_rank_in_division(player_id):
     query = f'''
             {{
@@ -193,6 +195,7 @@ def get_player_rank_in_division(player_id):
         return None
     else:
         try:
+            print(response)
             data = response['data']['player']['leaderboardRanks'][0]['rank']
             if data is not None:
                 return data
@@ -200,6 +203,7 @@ def get_player_rank_in_division(player_id):
                 return -1
         except IndexError:
             return -1
+"""
 
 
 def get_player_number_of_matches_and_winrate(player_id):
@@ -216,7 +220,7 @@ def get_player_number_of_matches_and_winrate(player_id):
     extracted = response['data']['player']['matchCount']
 
     if response is None or extracted is None:
-        return None
+        return None, None
     else:
         num_matches = response['data']['player']['matchCount']
         win_count = response['data']['player']['winCount']
@@ -242,7 +246,3 @@ def get_hero_by_id(hero_id):
         return None
     else:
         return extracted
-
-
-
-

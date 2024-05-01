@@ -1,3 +1,5 @@
+import random
+
 import requests
 from bs4 import BeautifulSoup
 import json
@@ -32,6 +34,17 @@ counter_win_rates_example = [
     }
 ]
 """
+
+user_agents = [
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Edge/94.0.992.50 Safari/537.36",
+]
+
+
+def get_random_user_agent():
+    return random.choice(user_agents)
+
 
 headers = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36"
@@ -84,9 +97,14 @@ def download_counter_pick_winrates():
 
 
 def get_players_signatures(player_id):
-    url = f"https://ru.dotabuff.com/players/{player_id}"
+    url = f"https://www.dotabuff.com/players/{player_id}"
 
-    response = requests.get(url, headers=headers)
+    random_user_agent = user_agents[2]
+    header = {
+        "User-Agent": random_user_agent
+    }
+
+    response = requests.get(url, headers=header)
 
     if response.status_code == 200:
         html_content = response.content
@@ -114,3 +132,35 @@ def get_players_signatures(player_id):
     else:
         print(f"Failed to retrieve SIGNATURES data from Dotabuff for {player_id}")
         return None
+
+
+def get_player_rank_in_division(player_id):
+    url = f"https://ru.dotabuff.com/players/{player_id}"
+
+    random_user_agent = user_agents[2]
+    header = {
+        "User-Agent": random_user_agent
+    }
+
+    response = requests.get(url, headers=header)
+
+    if response.status_code == 200:
+
+        html_content = response.content
+        soup = BeautifulSoup(html_content, 'html.parser')
+
+        rank_value_div = soup.find('div', class_='leaderboard-rank-value')
+        if rank_value_div:
+            rank_value = rank_value_div.text.strip()
+            return int(rank_value.replace(",", ""))
+        else:
+            print("Rank value not found, returning -1 instead")
+            return -1
+    else:
+        print(f"Failed to retrieve RANK IN DIVISION data from Dotabuff for {player_id}")
+        return None
+
+
+res = get_player_rank_in_division(148215639)
+
+print(res)
