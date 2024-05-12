@@ -1,5 +1,4 @@
 import requests
-from bs4 import BeautifulSoup
 
 # Query example
 """
@@ -70,22 +69,12 @@ def get_players_by_match_id(match_id):
         match(id: {match_id}) {{
             radiantTeam {{
                 members(skip: 0, take: 5) {{
-                    steamAccountId,
-                    steamAccount {{
-                        proSteamAccount {{
-                            name
-                        }}
-                    }}
+                    steamAccountId
                 }}
             }},
             direTeam {{
                 members(skip: 0, take: 5) {{
-                    steamAccountId,
-                    steamAccount {{
-                        proSteamAccount {{
-                            name
-                        }}
-                    }}
+                    steamAccountId
                 }}
             }},
             players {{
@@ -111,18 +100,18 @@ def get_players_by_match_id(match_id):
             {'match': {
                 'radiantTeam': {
                     'members': [
-                        {'steamAccountId': 331855530, 'steamAccount': {'proSteamAccount': {'name': 'Pure'}}},
-                        {'steamAccountId': 164199202, 'steamAccount': {'proSteamAccount': {'name': '9Class'}}},
-                        {'steamAccountId': 140288368, 'steamAccount': {'proSteamAccount': {'name': 'Tobi'}}},
-                        {'steamAccountId': 136829091, 'steamAccount': {'proSteamAccount': {'name': 'Whitemon'}}},
-                        {'steamAccountId': 94054712, 'steamAccount': {'proSteamAccount': {'name': 'Topson'}}}]},
+                        {'steamAccountId': 331855530},
+                        {'steamAccountId': 164199202},
+                        {'steamAccountId': 140288368},
+                        {'steamAccountId': 136829091},
+                        {'steamAccountId': 94054712]},
                 'direTeam': {
                     'members': [
-                        {'steamAccountId': 25907144, 'steamAccount': {'proSteamAccount': {'name': 'Cr1t-'}}},
-                        {'steamAccountId': 898455820, 'steamAccount': {'proSteamAccount': {'name': 'Malr1ne'}}},
-                        {'steamAccountId': 183719386, 'steamAccount': {'proSteamAccount': {'name': 'ATF'}}},
-                        {'steamAccountId': 100058342, 'steamAccount': {'proSteamAccount': {'name': 'skiter'}}},
-                        {'steamAccountId': 10366616, 'steamAccount': {'proSteamAccount': {'name': 'Sneyking'}}}]}}}}
+                        {'steamAccountId': 25907144},   
+                        {'steamAccountId': 898455820},
+                        {'steamAccountId': 183719386},
+                        {'steamAccountId': 100058342},
+                        {'steamAccountId': 10366616}]}}}}
         """
 
         radiant = []
@@ -131,15 +120,11 @@ def get_players_by_match_id(match_id):
 
         for member in response['data']['match']['radiantTeam']['members']:
             player_id = member['steamAccountId']
-            player_nickname = member['steamAccount']['proSteamAccount']['name']
-
-            players.append({f"{player_id}": player_nickname})
+            players.append(player_id)
 
         for member in response['data']['match']['direTeam']['members']:
             player_id = member['steamAccountId']
-            player_nickname = member['steamAccount']['proSteamAccount']['name']
-
-            players.append({f"{player_id}": player_nickname})
+            players.append(player_id)
 
         for player in response['data']['match']['players']:
             hero = player['hero']['displayName'].replace(' ', '-').replace("'", "").lower()
@@ -168,9 +153,12 @@ def get_player_networth_in_match(match_id, player_id):
         '''
 
     response = make_request(query)
+    if response is None:
+        return None
+
     extracted = response['data']['match']['players'][0]['stats']['networthPerMinute'][minute]
 
-    if response is None or extracted is None:
+    if extracted is None:
         return None
     else:
         return response['data']['match']['players'][0]['stats']['networthPerMinute'][minute]
@@ -217,9 +205,14 @@ def get_player_number_of_matches_and_winrate(player_id):
                 '''
 
     response = make_request(query)
+
+    if response is None:
+        print(f"FAILED TO RETRIEVE MATCHES DATA FOR {player_id}")
+        return None, None
+
     extracted = response['data']['player']['matchCount']
 
-    if response is None or extracted is None:
+    if extracted is None:
         return None, None
     else:
         num_matches = response['data']['player']['matchCount']

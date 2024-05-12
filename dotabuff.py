@@ -4,7 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
-versions = ['7.30', '7.31', '7.32', '7.33', '7.34', '7.35']
+versions = ['7.33', '7.34', '7.35']
 heroes = []
 
 with open('heroes', 'r') as heroes_file:
@@ -35,29 +35,39 @@ counter_win_rates_example = [
 ]
 """
 
-user_agents = [
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36",
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36",
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Edge/94.0.992.50 Safari/537.36",
-]
-
-
-def get_random_user_agent():
-    return random.choice(user_agents)
-
-
 headers = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36"
 }
 
 
+def get_random_headers():
+    user_agents = [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36",
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36",
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36",
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.85 Safari/537.36",
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.91 Safari/537.36",
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.92 Safari/537.36"
+    ]
+
+    user_agent = random.choice(user_agents)
+
+    return {
+        "User-Agent": user_agent
+    }
+
+def get_random_prefix():
+    prefixes = ['ru', 'www', 'cn', 'pl']
+
+    return random.choice(prefixes)
+
 def download_counter_pick_winrates():
     for version in versions:
         counter_win_rates = []
         for hero in heroes:
-            url = f"https://ru.dotabuff.com/heroes/{hero}/counters?date=patch_{version}"
+            url = f"https://{get_random_prefix()}.dotabuff.com/heroes/{hero}/counters?date=patch_{version}"
 
-            response = requests.get(url, headers=headers)
+            response = requests.get(url, headers=get_random_headers())
 
             # Check if the request was successful
             if response.status_code == 200:
@@ -97,14 +107,9 @@ def download_counter_pick_winrates():
 
 
 def get_players_signatures(player_id):
-    url = f"https://www.dotabuff.com/players/{player_id}"
+    url = f"https://{get_random_prefix()}.dotabuff.com/players/{player_id}"
 
-    random_user_agent = user_agents[2]
-    header = {
-        "User-Agent": random_user_agent
-    }
-
-    response = requests.get(url, headers=header)
+    response = requests.get(url, headers=get_random_headers())
 
     if response.status_code == 200:
         html_content = response.content
@@ -135,14 +140,9 @@ def get_players_signatures(player_id):
 
 
 def get_player_rank_in_division(player_id):
-    url = f"https://ru.dotabuff.com/players/{player_id}"
+    url = f"https://{get_random_prefix()}.dotabuff.com/players/{player_id}"
 
-    random_user_agent = user_agents[2]
-    header = {
-        "User-Agent": random_user_agent
-    }
-
-    response = requests.get(url, headers=header)
+    response = requests.get(url, headers=get_random_headers())
 
     if response.status_code == 200:
 
@@ -159,8 +159,3 @@ def get_player_rank_in_division(player_id):
     else:
         print(f"Failed to retrieve RANK IN DIVISION data from Dotabuff for {player_id}")
         return None
-
-
-res = get_player_rank_in_division(148215639)
-
-print(res)
