@@ -337,7 +337,7 @@ def combine_all_data_for_match(in_match_id):
 
 
 def get_data_for_all_matches():
-    with open('matches_dict_test.json', 'r') as file:
+    with open('matches_dict.json', 'r') as file:
         data = json.load(file)
 
         xs = []
@@ -345,7 +345,7 @@ def get_data_for_all_matches():
 
         for match_id, _ in data.items():
             x, y = combine_all_data_for_match(match_id)
-            print(f"Match id {match_id}: {x}, {y}")
+            # print(f"Match id {match_id}: {x}, {y}")
             xs.append(x)
             ys.append(y)
 
@@ -371,8 +371,14 @@ def get_data_for_matches_as_dataframe():
     return df
 
 
-if __name__ == "__main__":
-    # df = get_data_for_matches_as_dataframe()
-    # print(df)
-    pass
+def df_to_csv(df):
+    df.to_csv('all_data.csv', index=False)
 
+
+def csv_to_df():
+    df = pd.read_csv('all_data.csv')
+    return df
+
+
+if __name__ == "__main__":
+    pass
