@@ -24,9 +24,6 @@ def get_incomplete_players():
         return ids
 
 
-
-
-
 def csv_to_json(csv_file_path, json_file_path, prs):
     failed = []
     with open(csv_file_path, 'r') as csv_file:
@@ -258,9 +255,6 @@ def download_all_networthes(match_to_start_from):
             json.dump(data, fl, indent=4)
 
 
-
-
-
 def download_matches_info():
     return csv_to_json('matches.csv', 'matches0.json', matches_proc)
 
@@ -303,23 +297,9 @@ def get_all_players_from_players():
         return list(set(ids))
 
 
-def remove_all_matches_after(in_match_id):  # Removes in_match_id to
-    with open('matches_dict.json', 'r') as file:
-        data = json.load(file)
-
-        out = []
-
-        for match_id, details in data.items():
-            if match_id != str(in_match_id):
-                out.append({match_id: details})
-            else:
-                with open('matches_dict.json', 'w') as fl:
-                    json.dump(out, fl, indent=4)
-
-
 
 if __name__ == '__main__':
     # inc_matches = get_incomplete_matches()
     # inc_players = get_incomplete_players()
-    # download_all_networthes(7555924572)
+
     pass

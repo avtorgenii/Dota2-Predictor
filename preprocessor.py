@@ -29,6 +29,20 @@ def convert_matches_json_to_one_dict():
         json.dump(out, file, indent=4)
 
 
+def remove_all_matches_after(in_match_id):  # Removes in_match_id too
+    with open('matches_dict.json', 'r') as file:
+        data = json.load(file)
+
+        out = []
+
+        for match_id, details in data.items():
+            if match_id != str(in_match_id):
+                out.append({match_id: details})
+            else:
+                with open('matches_dict.json', 'w') as fl:
+                    json.dump(out, fl, indent=4)
+
+
 def convert_heroes_winrates_json_to_one_dict():  # Converts file from used folder
     out = {}
     for v in [7.33, 7.34, 7.35]:
@@ -368,11 +382,15 @@ def get_data_for_matches_as_dataframe():
     # Add ys as a column to the DataFrame
     df['Winner'] = ys
 
+    column = df.pop('Winner')
+
+    df.insert(0, column.name, column)
+
     return df
 
 
-def df_to_csv(df):
-    df.to_csv('all_data.csv', index=False)
+def df_to_csv():
+    get_data_for_matches_as_dataframe().to_csv('all_data.csv', index=False)
 
 
 def csv_to_df():
@@ -381,4 +399,4 @@ def csv_to_df():
 
 
 if __name__ == "__main__":
-    pass
+    df_to_csv()
