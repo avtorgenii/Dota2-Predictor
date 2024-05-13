@@ -2,6 +2,7 @@ import csv
 import json
 import time
 from datetime import datetime
+import pandas as pd
 
 import stratz as st
 import dotabuff as db
@@ -23,8 +24,7 @@ def get_incomplete_players():
         return ids
 
 
-# inc_matches = get_incomplete_matches()
-inc_players = get_incomplete_players()
+
 
 
 def csv_to_json(csv_file_path, json_file_path, prs):
@@ -199,7 +199,7 @@ def complete_players_info():
                 else:
                     incomplete_players.append(player_id)
 
-    with open("players_info.json", 'w') as file:
+    with open("players.json", 'w') as file:
         json.dump(ds, file, indent=4)
 
     new_list = list(filter(lambda x: x not in completed_players, inc_players))
@@ -216,11 +216,11 @@ def download_all_networthes(match_to_start_from):
 
     can = False
 
-    with open("matches_new.json", 'r') as file:
+    with open("matches.json", 'r') as file:
         data = json.load(file)
 
         for match in data:
-            if i > 1:
+            if i >= 190:
                 break
             for match_id, match_info in match.items():
                 if not can:
@@ -254,11 +254,11 @@ def download_all_networthes(match_to_start_from):
                         print("     ", end="")
                         print(d)
 
-        with open("matches_new.json", 'w') as fl:
+        with open("matches.json", 'w') as fl:
             json.dump(data, fl, indent=4)
 
 
-download_all_networthes(7684703932) # Vkluchitelno
+
 
 
 def download_matches_info():
@@ -272,10 +272,10 @@ def unite_playe_jsons():
         with open(f"players_info ({i}).json", 'r') as file:
             data.extend(json.load(file))
 
-    with open("players_info.json", 'r') as file:
+    with open("players.json", 'r') as file:
         data.extend(json.load(file))
 
-    with open("players_info.json", 'w') as file:
+    with open("players.json", 'w') as file:
         json.dump(data, file, indent=4)
 
 
@@ -296,21 +296,30 @@ def get_all_players_from_matches():
 
 
 def get_all_players_from_players():
-    with open('players_info.json', 'r') as file:
+    with open('players.json', 'r') as file:
         data = json.load(file)
         ids = [list(player.keys())[0] for player in data]
 
         return list(set(ids))
 
 
-"""
-with open("incomplete_players.txt", 'w') as file:
-    for p in new_list:
-        file.write(p + ", ")
+def remove_all_matches_after(in_match_id):  # Removes in_match_id to
+    with open('matches_dict.json', 'r') as file:
+        data = json.load(file)
+
+        out = []
+
+        for match_id, details in data.items():
+            if match_id != str(in_match_id):
+                out.append({match_id: details})
+            else:
+                with open('matches_dict.json', 'w') as fl:
+                    json.dump(out, fl, indent=4)
 
 
 
-with open("players.txt", 'w') as file:
-    for p in new_list:
-        file.write(p + ", ")
-"""
+if __name__ == '__main__':
+    # inc_matches = get_incomplete_matches()
+    # inc_players = get_incomplete_players()
+    # download_all_networthes(7555924572)
+    pass

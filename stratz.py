@@ -17,7 +17,10 @@ query = f'''
 """
 
 url = 'https://api.stratz.com/graphql'
+# Moi
 token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJTdWJqZWN0IjoiZjIwYzA5YmQtNTI3MS00ODA5LWEzNmYtN2ViMzU5NTI4NGY0IiwiU3RlYW1JZCI6IjI3NzE4MzU5OCIsIm5iZiI6MTcxMzQ3OTkwMSwiZXhwIjoxNzQ1MDE1OTAxLCJpYXQiOjE3MTM0Nzk5MDEsImlzcyI6Imh0dHBzOi8vYXBpLnN0cmF0ei5jb20ifQ.SMY12XInn6R8jxd2iQTqSX5L0zQNUZ1s0J5smEP1nnk'
+# Ilia
+#token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJTdWJqZWN0IjoiODZmMTRhYTUtMjUyOS00YjIzLThhNmItYTdkNjAwZTJiZGU0IiwiU3RlYW1JZCI6IjI3NzQ4ODYxMiIsIm5iZiI6MTcxNTU5ODgwNCwiZXhwIjoxNzQ3MTM0ODA0LCJpYXQiOjE3MTU1OTg4MDQsImlzcyI6Imh0dHBzOi8vYXBpLnN0cmF0ei5jb20ifQ.6wsBXrI9-R86cjBfpC7T5JjVMh6rRTkCC1hlCl4jBoM'
 headers = {
     'Authorization': f'Bearer {token}',
     'Content-Type': 'application/json',

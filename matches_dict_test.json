@@ -1,0 +1,274 @@
+{
+    "7709510018": {
+        "Winner": "Dire",
+        "Radiant": [
+            {
+                "331855530": {
+                    "Hero": "luna",
+                    "Networth": 4135
+                }
+            },
+            {
+                "140288368": {
+                    "Hero": "kunkka",
+                    "Networth": 2977
+                }
+            },
+            {
+                "136829091": {
+                    "Hero": "vengeful-spirit",
+                    "Networth": 1505
+                }
+            },
+            {
+                "164199202": {
+                    "Hero": "hoodwink",
+                    "Networth": 2018
+                }
+            },
+            {
+                "94054712": {
+                    "Hero": "sniper",
+                    "Networth": 5186
+                }
+            }
+        ],
+        "Dire": [
+            {
+                "10366616": {
+                    "Hero": "mirana",
+                    "Networth": 1601
+                }
+            },
+            {
+                "100058342": {
+                    "Hero": "gyrocopter",
+                    "Networth": 4517
+                }
+            },
+            {
+                "898455820": {
+                    "Hero": "primal-beast",
+                    "Networth": 4634
+                }
+            },
+            {
+                "183719386": {
+                    "Hero": "timbersaw",
+                    "Networth": 5295
+                }
+            },
+            {
+                "25907144": {
+                    "Hero": "shadow-demon",
+                    "Networth": 1692
+                }
+            }
+        ],
+        "Version": "7.35"
+    },
+    "7708717497": {
+        "Winner": "Dire",
+        "Radiant": [
+            {
+                "292921272": {
+                    "Hero": "magnus",
+                    "Networth": 3726
+                }
+            },
+            {
+                "346412363": {
+                    "Hero": "tiny",
+                    "Networth": 2090
+                }
+            },
+            {
+                "93618577": {
+                    "Hero": "mirana",
+                    "Networth": 4758
+                }
+            },
+            {
+                "88271237": {
+                    "Hero": "shadow-demon",
+                    "Networth": 1276
+                }
+            },
+            {
+                "97658618": {
+                    "Hero": "medusa",
+                    "Networth": 3733
+                }
+            }
+        ],
+        "Dire": [
+            {
+                "10366616": {
+                    "Hero": "venomancer",
+                    "Networth": 2127
+                }
+            },
+            {
+                "100058342": {
+                    "Hero": "gyrocopter",
+                    "Networth": 4706
+                }
+            },
+            {
+                "898455820": {
+                    "Hero": "doom",
+                    "Networth": 3877
+                }
+            },
+            {
+                "183719386": {
+                    "Hero": "mars",
+                    "Networth": 4762
+                }
+            },
+            {
+                "25907144": {
+                    "Hero": "hoodwink",
+                    "Networth": 1742
+                }
+            }
+        ],
+        "Version": "7.35"
+    },
+    "7708577966": {
+        "Winner": "Dire",
+        "Radiant": [
+            {
+                "10366616": {
+                    "Hero": "winter-wyvern",
+                    "Networth": 1500
+                }
+            },
+            {
+                "100058342": {
+                    "Hero": "weaver",
+                    "Networth": 4772
+                }
+            },
+            {
+                "898455820": {
+                    "Hero": "earthshaker",
+                    "Networth": 4866
+                }
+            },
+            {
+                "183719386": {
+                    "Hero": "doom",
+                    "Networth": 4524
+                }
+            },
+            {
+                "25907144": {
+                    "Hero": "hoodwink",
+                    "Networth": 2284
+                }
+            }
+        ],
+        "Dire": [
+            {
+                "292921272": {
+                    "Hero": "magnus",
+                    "Networth": 3344
+                }
+            },
+            {
+                "346412363": {
+                    "Hero": "tiny",
+                    "Networth": 1544
+                }
+            },
+            {
+                "88271237": {
+                    "Hero": "shadow-demon",
+                    "Networth": 1698
+                }
+            },
+            {
+                "93618577": {
+                    "Hero": "earth-spirit",
+                    "Networth": 3342
+                }
+            },
+            {
+                "97658618": {
+                    "Hero": "chaos-knight",
+                    "Networth": 4699
+                }
+            }
+        ],
+        "Version": "7.35"
+    },
+    "7708457781": {
+        "Winner": "Dire",
+        "Radiant": [
+            {
+                "292921272": {
+                    "Hero": "mars",
+                    "Networth": 4975
+                }
+            },
+            {
+                "346412363": {
+                    "Hero": "rubick",
+                    "Networth": 2075
+                }
+            },
+            {
+                "88271237": {
+                    "Hero": "mirana",
+                    "Networth": 2244
+                }
+            },
+            {
+                "93618577": {
+                    "Hero": "templar-assassin",
+                    "Networth": 4704
+                }
+            },
+            {
+                "97658618": {
+                    "Hero": "monkey-king",
+                    "Networth": 3507
+                }
+            }
+        ],
+        "Dire": [
+            {
+                "10366616": {
+                    "Hero": "venomancer",
+                    "Networth": 1585
+                }
+            },
+            {
+                "100058342": {
+                    "Hero": "naga-siren",
+                    "Networth": 3776
+                }
+            },
+            {
+                "898455820": {
+                    "Hero": "pangolier",
+                    "Networth": 3779
+                }
+            },
+            {
+                "183719386": {
+                    "Hero": "kunkka",
+                    "Networth": 4529
+                }
+            },
+            {
+                "25907144": {
+                    "Hero": "hoodwink",
+                    "Networth": 2021
+                }
+            }
+        ],
+        "Version": "7.35"
+    }
+}
