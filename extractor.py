@@ -211,11 +211,61 @@ def complete_players_info():
     return incomplete_players
 
 
+def download_all_networthes(match_to_start_from):
+    i = 0
+
+    can = False
+
+    with open("matches_new.json", 'r') as file:
+        data = json.load(file)
+
+        for match in data:
+            if i > 1:
+                break
+            for match_id, match_info in match.items():
+                if not can:
+                    if match_id == str(match_to_start_from):
+                        can = True
+                    else:
+                        continue
+
+                print(match_id)
+
+                time.sleep(2)
+                i += 1
+                print(i)
+
+                # Iterate through each key-value pair in the nested dictionaries
+                for player in match_info['Radiant']:
+                    for k, v in player.items():
+                        nw = st.get_player_networth_in_match(match_id, k)
+                        d = {"Hero": v, "Networth": nw}
+                        player[k] = d
+
+                        print("     ", end="")
+                        print(d)
+
+                for player in match_info['Dire']:
+                    for k, v in player.items():
+                        nw = st.get_player_networth_in_match(match_id, k)
+                        d = {"Hero": v, "Networth": nw}
+                        player[k] = d
+
+                        print("     ", end="")
+                        print(d)
+
+        with open("matches_new.json", 'w') as fl:
+            json.dump(data, fl, indent=4)
+
+
+download_all_networthes(7684703932) # Vkluchitelno
+
+
 def download_matches_info():
     return csv_to_json('matches.csv', 'matches0.json', matches_proc)
 
 
-def unite():
+def unite_playe_jsons():
     data = []
 
     for i in range(1, 10):
@@ -227,14 +277,6 @@ def unite():
 
     with open("players_info.json", 'w') as file:
         json.dump(data, file, indent=4)
-
-
-
-
-
-
-
-
 
 
 def get_all_players_from_matches():
@@ -259,24 +301,6 @@ def get_all_players_from_players():
         ids = [list(player.keys())[0] for player in data]
 
         return list(set(ids))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 """

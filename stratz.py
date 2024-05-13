@@ -156,12 +156,12 @@ def get_player_networth_in_match(match_id, player_id):
     if response is None:
         return None
 
-    extracted = response['data']['match']['players'][0]['stats']['networthPerMinute'][minute]
-
-    if extracted is None:
+    try:
+        extracted = response['data']['match']['players'][0]['stats']['networthPerMinute'][minute]
+    except Exception:
         return None
-    else:
-        return response['data']['match']['players'][0]['stats']['networthPerMinute'][minute]
+
+    return extracted
 
 
 # Doesn't work for locked profiles - see same function in dotabuff.py
