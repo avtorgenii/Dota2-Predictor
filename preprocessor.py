@@ -337,14 +337,13 @@ def combine_all_data_for_match(in_match_id):
                     dire_ranks.append(rank)
                     dire_signatures.append(on_signature)
 
-                out = [matches_diff, winrates_diff, counter_diff, synergies_diff, networthes_diff]
+                signatures_diff = sum(radiant_signatures) - sum(dire_signatures)
+
+                out = [matches_diff, winrates_diff, counter_diff, synergies_diff, networthes_diff, signatures_diff]
 
                 ranks = radiant_ranks + dire_ranks
 
                 out.extend(ranks)
-
-                out.extend(radiant_signatures)
-                out.extend(dire_signatures)
 
                 # Out will be X and Winner Y
                 return out, winner
@@ -356,12 +355,13 @@ def get_data_for_all_matches():
 
         xs = []
         ys = []
-
+        i = 0
         for match_id, _ in data.items():
             x, y = combine_all_data_for_match(match_id)
-            # print(f"Match id {match_id}: {x}, {y}")
+            print(f"Match number {i} id {match_id}: {x}, {y}")
             xs.append(x)
             ys.append(y)
+            i += 1
 
         return xs, ys
 
@@ -370,11 +370,10 @@ def get_data_for_matches_as_dataframe():
     xs, ys = get_data_for_all_matches()
 
     column_names = ["Matches diff", "Winrates diff", "Counter picks winrate diff", "Synergies winrates diff",
-                    "Networthes diff",
+                    "Networthes diff", "Signatures diff",
                     "R1 rank", "R2 rank", "R3 rank", "R4 rank", "R5 rank",
                     "D1 rank", "D2 rank", "D3 rank", "D4 rank", "D5 rank",
-                    "R1 on signature", "R2 on signature", "R3 on signature", "R4 on signature", "R5 on signature",
-                    "D1 on signature", "D2 on signature", "D3 on signature", "D4 on signature", "D5 on signature"]
+                    ]
 
     # Create DataFrame
     df = pd.DataFrame(xs, columns=column_names)

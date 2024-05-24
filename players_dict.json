@@ -32,7 +32,7 @@
     "121769650": {
         "MatchesAmount": 4617,
         "Winrate": 0.634,
-        "DivisionRank": -1,
+        "DivisionRank": 5001,
         "Signatures": [
             "rubick",
             "io",
@@ -382,7 +382,7 @@
     "162091728": {
         "MatchesAmount": 1565,
         "Winrate": 0.518,
-        "DivisionRank": -1,
+        "DivisionRank": 5001,
         "Signatures": [
             "slark",
             "riki",
@@ -452,7 +452,7 @@
     "1676694725": {
         "MatchesAmount": 18,
         "Winrate": 0.5,
-        "DivisionRank": -1,
+        "DivisionRank": 5001,
         "Signatures": [
             "enigma"
         ]
@@ -760,7 +760,7 @@
     "73562326": {
         "MatchesAmount": 12397,
         "Winrate": 0.559,
-        "DivisionRank": -1,
+        "DivisionRank": 5001,
         "Signatures": [
             "invoker",
             "meepo",
@@ -900,7 +900,7 @@
     "1204717909": {
         "MatchesAmount": 118,
         "Winrate": 0.653,
-        "DivisionRank": -1,
+        "DivisionRank": 5001,
         "Signatures": [
             "slark",
             "puck",
@@ -910,7 +910,7 @@
     "141002115": {
         "MatchesAmount": 2062,
         "Winrate": 0.544,
-        "DivisionRank": -1,
+        "DivisionRank": 5001,
         "Signatures": [
             "natures-prophet",
             "lion",
@@ -1290,7 +1290,7 @@
     "1181227114": {
         "MatchesAmount": 3881,
         "Winrate": 0.498,
-        "DivisionRank": -1,
+        "DivisionRank": 5001,
         "Signatures": [
             "chen",
             "ember-spirit",
@@ -1300,7 +1300,7 @@
     "151163127": {
         "MatchesAmount": 1000,
         "Winrate": 0.532,
-        "DivisionRank": -1,
+        "DivisionRank": 5001,
         "Signatures": [
             "sven",
             "windranger",
@@ -1360,7 +1360,7 @@
     "36162063": {
         "MatchesAmount": 4236,
         "Winrate": 0.492,
-        "DivisionRank": -1,
+        "DivisionRank": 5001,
         "Signatures": [
             "natures-prophet",
             "slark",
@@ -1470,7 +1470,7 @@
     "109063883": {
         "MatchesAmount": 5380,
         "Winrate": 0.517,
-        "DivisionRank": -1,
+        "DivisionRank": 5001,
         "Signatures": [
             "batrider",
             "tiny",
@@ -1880,7 +1880,7 @@
     "139681901": {
         "MatchesAmount": 1051,
         "Winrate": 0.559,
-        "DivisionRank": -1,
+        "DivisionRank": 5001,
         "Signatures": [
             "invoker",
             "juggernaut",
@@ -2260,7 +2260,7 @@
     "1044644053": {
         "MatchesAmount": 1727,
         "Winrate": 0.518,
-        "DivisionRank": -1,
+        "DivisionRank": 5001,
         "Signatures": [
             "dark-willow",
             "crystal-maiden",
@@ -2400,7 +2400,7 @@
     "321011973": {
         "MatchesAmount": 6932,
         "Winrate": 0.525,
-        "DivisionRank": -1,
+        "DivisionRank": 5001,
         "Signatures": [
             "chen",
             "undying",
@@ -2430,7 +2430,7 @@
     "446322957": {
         "MatchesAmount": 4214,
         "Winrate": 0.524,
-        "DivisionRank": -1,
+        "DivisionRank": 5001,
         "Signatures": [
             "arc-warden",
             "earthshaker",
@@ -2520,7 +2520,7 @@
     "459008316": {
         "MatchesAmount": 10811,
         "Winrate": 0.498,
-        "DivisionRank": -1,
+        "DivisionRank": 5001,
         "Signatures": [
             "techies",
             "lion",
@@ -2540,7 +2540,7 @@
     "147327296": {
         "MatchesAmount": 1217,
         "Winrate": 0.547,
-        "DivisionRank": -1,
+        "DivisionRank": 5001,
         "Signatures": [
             "huskar",
             "skywrath-mage",
@@ -2720,7 +2720,7 @@
     "490742155": {
         "MatchesAmount": 10391,
         "Winrate": 0.508,
-        "DivisionRank": -1,
+        "DivisionRank": 5001,
         "Signatures": [
             "clinkz",
             "brewmaster",
@@ -3100,7 +3100,7 @@
     "139932185": {
         "MatchesAmount": 1109,
         "Winrate": 0.544,
-        "DivisionRank": -1,
+        "DivisionRank": 5001,
         "Signatures": [
             "witch-doctor",
             "slark",
@@ -3340,7 +3340,7 @@
     "241590901": {
         "MatchesAmount": 1464,
         "Winrate": 0.51,
-        "DivisionRank": -1,
+        "DivisionRank": 5001,
         "Signatures": [
             "juggernaut",
             "lion",
@@ -3410,7 +3410,7 @@
     "82262664": {
         "MatchesAmount": 6665,
         "Winrate": 0.575,
-        "DivisionRank": -1,
+        "DivisionRank": 5001,
         "Signatures": [
             "bounty-hunter",
             "tiny",
@@ -3430,7 +3430,7 @@
     "150246033": {
         "MatchesAmount": 2356,
         "Winrate": 0.513,
-        "DivisionRank": -1,
+        "DivisionRank": 5001,
         "Signatures": [
             "pudge",
             "elder-titan",
@@ -3830,7 +3830,7 @@
     "316068659": {
         "MatchesAmount": 7839,
         "Winrate": 0.522,
-        "DivisionRank": -1,
+        "DivisionRank": 5001,
         "Signatures": [
             "rubick",
             "earthshaker",
@@ -4420,7 +4420,7 @@
     "105092107": {
         "MatchesAmount": 6100,
         "Winrate": 0.523,
-        "DivisionRank": -1,
+        "DivisionRank": 5001,
         "Signatures": [
             "tinker",
             "pangolier",
@@ -4660,7 +4660,7 @@
     "198323294": {
         "MatchesAmount": 811,
         "Winrate": 0.593,
-        "DivisionRank": -1,
+        "DivisionRank": 5001,
         "Signatures": [
             "mirana",
             "crystal-maiden",
@@ -5050,7 +5050,7 @@
     "1071332616": {
         "MatchesAmount": 648,
         "Winrate": 0.542,
-        "DivisionRank": -1,
+        "DivisionRank": 5001,
         "Signatures": [
             "skywrath-mage",
             "phantom-assassin"
@@ -5209,7 +5209,7 @@
     "151008571": {
         "MatchesAmount": 5996,
         "Winrate": 0.498,
-        "DivisionRank": -1,
+        "DivisionRank": 5001,
         "Signatures": [
             "pudge",
             "shadow-fiend",
@@ -5309,7 +5309,7 @@
     "61738340": {
         "MatchesAmount": 9368,
         "Winrate": 0.518,
-        "DivisionRank": -1,
+        "DivisionRank": 5001,
         "Signatures": [
             "rubick",
             "ancient-apparition",
@@ -5449,7 +5449,7 @@
     "1171877280": {
         "MatchesAmount": 306,
         "Winrate": 0.5,
-        "DivisionRank": -1,
+        "DivisionRank": 5001,
         "Signatures": [
             "meepo",
             "phantom-assassin",
@@ -5839,7 +5839,7 @@
     "175701600": {
         "MatchesAmount": 8900,
         "Winrate": 0.518,
-        "DivisionRank": -1,
+        "DivisionRank": 5001,
         "Signatures": [
             "slark",
             "magnus",
@@ -5949,7 +5949,7 @@
     "1599368834": {
         "MatchesAmount": 218,
         "Winrate": 0.564,
-        "DivisionRank": -1,
+        "DivisionRank": 5001,
         "Signatures": [
             "witch-doctor",
             "vengeful-spirit",
@@ -6079,7 +6079,7 @@
     "1675675311": {
         "MatchesAmount": 531,
         "Winrate": 0.582,
-        "DivisionRank": -1,
+        "DivisionRank": 5001,
         "Signatures": [
             "pangolier",
             "ember-spirit",
@@ -6089,7 +6089,7 @@
     "196617903": {
         "MatchesAmount": 7475,
         "Winrate": 0.53,
-        "DivisionRank": -1,
+        "DivisionRank": 5001,
         "Signatures": [
             "crystal-maiden",
             "ogre-magi",
@@ -6279,7 +6279,7 @@
     "1101438728": {
         "MatchesAmount": 55,
         "Winrate": 0.6,
-        "DivisionRank": -1,
+        "DivisionRank": 5001,
         "Signatures": [
             "tiny",
             "invoker",
@@ -6379,7 +6379,7 @@
     "346271535": {
         "MatchesAmount": 2523,
         "Winrate": 0.523,
-        "DivisionRank": -1,
+        "DivisionRank": 5001,
         "Signatures": [
             "lion",
             "dazzle",
@@ -6589,7 +6589,7 @@
     "190107502": {
         "MatchesAmount": 2420,
         "Winrate": 0.497,
-        "DivisionRank": -1,
+        "DivisionRank": 5001,
         "Signatures": [
             "jakiro",
             "warlock",
@@ -6739,7 +6739,7 @@
     "316213148": {
         "MatchesAmount": 8711,
         "Winrate": 0.527,
-        "DivisionRank": -1,
+        "DivisionRank": 5001,
         "Signatures": [
             "drow-ranger",
             "templar-assassin",
@@ -6789,7 +6789,7 @@
     "98172857": {
         "MatchesAmount": 11257,
         "Winrate": 0.54,
-        "DivisionRank": -1,
+        "DivisionRank": 5001,
         "Signatures": [
             "slark",
             "bounty-hunter",
@@ -6809,7 +6809,7 @@
     "136769473": {
         "MatchesAmount": 6022,
         "Winrate": 0.574,
-        "DivisionRank": -1,
+        "DivisionRank": 5001,
         "Signatures": [
             "juggernaut",
             "sand-king",
@@ -6939,13 +6939,13 @@
     "173539244": {
         "MatchesAmount": 910,
         "Winrate": 0.583,
-        "DivisionRank": -1,
+        "DivisionRank": 5001,
         "Signatures": []
     },
     "961327329": {
         "MatchesAmount": 300,
         "Winrate": 0.5,
-        "DivisionRank": -1,
+        "DivisionRank": 5001,
         "Signatures": []
     },
     "160119017": {
@@ -7019,7 +7019,7 @@
     "1609381594": {
         "MatchesAmount": 300,
         "Winrate": 0.5,
-        "DivisionRank": -1,
+        "DivisionRank": 5001,
         "Signatures": []
     },
     "202346714": {
@@ -7035,7 +7035,7 @@
     "405148547": {
         "MatchesAmount": 300,
         "Winrate": 0.5,
-        "DivisionRank": -1,
+        "DivisionRank": 5001,
         "Signatures": []
     },
     "874981361": {
